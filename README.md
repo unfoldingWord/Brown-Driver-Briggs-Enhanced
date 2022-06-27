@@ -8,6 +8,7 @@ The base data for this repository was taken from https://github.com/eliranwong/u
 ## Contents
 
 - The `Placeholders` directory contains the image files for ancient languages other than Hebrew and Aramaic. These images have yet to be transcribed (not transliterated) into actual unicode text.
+- The `Entries` directory contains the individual BDB entries, one entry per file. The choice for HTML as an initial format it to make it easy for anyone to open, especially for quality assurance purposes.
 
 
 ## License
@@ -19,7 +20,7 @@ As mentioned above, the lexicon is in the public domain. All changes and additio
 The following contributors have worked on enhancing the dataset:
 
 - Joel Ruark
-- Johan de Joode
+- J. de Joode
 
 These contributors have created and maintained the dataset that the current repo started from:
 
