@@ -21,9 +21,11 @@ The following contributors have worked on enhancing the dataset:
 - Joel Ruark
 - Johan de Joode
 
-These contributors have created and maintained the dataset that the current repo benefitted from:
+These contributors have created and maintained the dataset that the current repo started from:
 
 - Stephen Ku
 - Eliran Wong
 
 New contributions are welcomed and encouraged. Please try to be systematic in your enhancements.
+
+If you are interested in contributing, the roadmap for this dataset could include things like: a) transcriptions of the placeholders, b) verified internal crosslinks, both within articles and across articles, c) the creation of a glossary based on the tags, etc.
