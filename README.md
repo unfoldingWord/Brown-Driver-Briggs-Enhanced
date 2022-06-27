@@ -4,11 +4,15 @@ The Brown-Driver-Briggs Lexicon of the Hebrew Bible is in the public domain. The
 
 The base data for this repository was taken from https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon. The data was transformed into individual HTML files for the sake of quality assurance. A color scheme that hurts the eyes was added for that same reason. Feel free to tweak it.
 
-New contributions are welcomed and encouraged. Please try to be systematic in your enhancements.
+
+## Contents
+
+- The `Placeholders` directory contains the image files for ancient languages other than Hebrew and Aramaic. These images have yet to be transcribed (not transliterated) into actual unicode text.
+
 
 ## License
 
-As mentioned above, the lexicon is in the public domain. If anyone needs it, it can also be used under a CC BY license.
+As mentioned above, the lexicon is in the public domain. All changes and additions to the lexicon are released under a CC BY license. If you use this dataset, please provide a link to this repository.
 
 ## Contributors
 
@@ -21,3 +25,5 @@ These contributors have created and maintained the dataset that the current repo
 
 - Stephen Ku
 - Eliran Wong
+
+New contributions are welcomed and encouraged. Please try to be systematic in your enhancements.
