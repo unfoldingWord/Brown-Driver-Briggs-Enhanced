@@ -1,9 +1,8 @@
 # Brown-Driver-Briggs-Enhanced
 
-The Brown-Driver-Briggs Lexicon of the Hebrew Bible is in the public domain. The current datasets improves upon an existing dataset by explicitly marking the boundaries of different senses and stems. It also takes the first steps to encode the implicit typographical information (such as bold and italics) into the pragmatic categories they represent (such as primary and secondary glosses).
+The Brown-Driver-Briggs Lexicon of the Hebrew Bible is in the public domain. The current datasets improves upon an existing dataset by explicitly marking the boundaries of different senses and stems. It also takes the first steps to encode the implicit typographical information (such as bold and italics) into the pragmatic categories they represent (such as primary and secondary glosses). We have added sense and stem labels. We have also indicated subsenses and have isolated sense numbers themselves. Primary glosses are captured as well as secondary glosses and highlights.
 
 The base data for this repository was taken from https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon. The data was transformed into individual HTML files for the sake of quality assurance. A color scheme that hurts the eyes was added for that same reason. Feel free to tweak it.
-
 
 ## Contents
 
