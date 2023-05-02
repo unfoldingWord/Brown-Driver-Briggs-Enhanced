@@ -1,0 +1,28 @@
+{
+    "head_word": "תְּרוּעָה", 
+    "pos": "noun feminine", 
+    "primary": "shout or blast of war, alarm, or joy", 
+    "description": "alarm of war", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "alarm of war"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "for march"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with religious impulse"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in general"
+        }
+    ]
+}

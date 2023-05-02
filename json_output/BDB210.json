@@ -1,0 +1,28 @@
+{
+    "head_word": "אֵלוֺן", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a son of Zebulun", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a son of Zebulun"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Hittite,\n    father-in-law of Esau"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a\n    judge of Israel, of tribe of Zebulun"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a\n    town of Dan"
+        }
+    ]
+}

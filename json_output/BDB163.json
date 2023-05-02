@@ -1,0 +1,28 @@
+{
+    "head_word": "אוֺ", 
+    "pos": "conjunction", 
+    "primary": "or", 
+    "description": "sometimes implying a preference, nearly = or rather", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "sometimes implying a preference, nearly = or rather"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "introducing a sentence, especially a particular case under a general principle, or\n     = or if"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "once, with the jussive"
+        }
+    ]
+}

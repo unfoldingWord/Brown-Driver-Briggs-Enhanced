@@ -1,0 +1,18 @@
+{
+    "head_word": "בָּרָק", 
+    "pos": "noun masculine", 
+    "primary": "lightning", 
+    "description": "literal mostly plural = lightnings, lightning-flashes", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literal mostly plural = lightnings, lightning-flashes"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative (always singular)"
+        }
+    ]
+}

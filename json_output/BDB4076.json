@@ -1,0 +1,23 @@
+{
+    "head_word": "כֵּן", 
+    "pos": "adverb", 
+    "primary": "so", 
+    "description": "(i.e. usually, as has been described or commanded, with reference to what has\n    preceded), mostly of manner, but sometimes also of quantity, quality, or degree", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Often, to emphasize the agreement, in answer to כְּ, and כַּאֲשֶׁר"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "With prepositions"
+        }
+    ]
+}

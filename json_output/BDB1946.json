@@ -1,0 +1,28 @@
+{
+    "head_word": "דֶּ֫לֶת", 
+    "pos": "noun feminine", 
+    "primary": "door", 
+    "description": "of house", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of house"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of room"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in other senses (mostly figurative)"
+        }
+    ]
+}

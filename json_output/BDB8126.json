@@ -1,0 +1,33 @@
+{
+    "head_word": "רָשַׁע", 
+    "pos": "verb", 
+    "primary": "be wicked, act wickedly", 
+    "description": "in civil relations", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in civil relations"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in ethical and religious relations"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in ethics and religion"
+        }
+    ]
+}

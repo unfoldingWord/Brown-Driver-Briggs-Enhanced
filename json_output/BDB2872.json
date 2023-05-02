@@ -1,0 +1,23 @@
+{
+    "head_word": "חָמַס", 
+    "pos": "verb", 
+    "primary": "treat violently, wrong", 
+    "description": "of physical wrong", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of physical wrong"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of ethical wrong"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "both physical and ethical"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "יְרֹחָם", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of Elkanah, grandfather of Samuel, Ephraimite", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of Elkanah, grandfather of Samuel, Ephraimite"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Benjamites"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "priests"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "father of a hero of David"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Danite"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "father of a captain with Jehoiada"
+        }
+    ]
+}

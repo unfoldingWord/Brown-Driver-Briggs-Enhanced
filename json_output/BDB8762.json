@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁלשׁ", 
+    "pos": "noun masculine and feminine", 
+    "primary": "a three, triad", 
+    "description": "no other number", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "no other number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "13"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "300 = שְׁלשׁ\nמֵאוֺת"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with tens"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "as round, or conventional, number"
+        }
+    ]
+}

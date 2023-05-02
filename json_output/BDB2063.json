@@ -1,0 +1,18 @@
+{
+    "head_word": "הֲדַד", 
+    "pos": "proper name, masculine", 
+    "primary": "Hadad", 
+    "description": "name of kings of Edom", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "name of kings of Edom"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "an Edomite"
+        }
+    ]
+}

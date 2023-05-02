@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁאֵלָה", 
+    "pos": "noun feminine", 
+    "primary": "request, thing asked for", 
+    "description": "thing asked for", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "thing asked for"
+        }
+    ]
+}

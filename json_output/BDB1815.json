@@ -1,0 +1,38 @@
+{
+    "head_word": "דָּבַר", 
+    "pos": "verb", 
+    "primary": "speak", 
+    "description": "reciprocal sense", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "absolute"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with accusative of thing, very frequently"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with persons"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with בְּ"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with עַל, of the object concerning or\n        about which one speaks"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "with infinitive"
+        }
+    ]
+}

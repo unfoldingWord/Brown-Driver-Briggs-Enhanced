@@ -1,0 +1,18 @@
+{
+    "head_word": "תְּפִלָּה", 
+    "pos": "noun feminine", 
+    "primary": "prayer", 
+    "description": "pray a prayer", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "pray a prayer"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in Psalm-titles, poetic, liturgical prayer"
+        }
+    ]
+}

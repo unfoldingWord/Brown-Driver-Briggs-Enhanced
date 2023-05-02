@@ -1,0 +1,33 @@
+{
+    "head_word": "חָמֵשׁ", 
+    "pos": "noun masculine", 
+    "primary": "five", 
+    "description": "on plural חֲמִשִּׁים\nfifty, see below", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "without other numeral"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "׳\nח combined with עשׂר, עשׂרה\nten ="
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "חֲמֵשׁ מֵאוֺת ="
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "חֲמֵשֶׁת אֲלָפִים ="
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with other numerals"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מָנוֺס", 
+    "pos": "noun masculine", 
+    "primary": "flight.", 
+    "description": "place of escape, refuge", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "flight.", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "escape, refuge", 
+            "description": "place of escape, refuge"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

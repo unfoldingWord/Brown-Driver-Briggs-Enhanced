@@ -1,0 +1,83 @@
+{
+    "head_word": "פָּקַד", 
+    "pos": "verb", 
+    "primary": "attend to, visit, muster, appoint", 
+    "description": "(with care, practical interest)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(with care, practical interest)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "specifically visit, with accusative, for different\n                purposes"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with עַל person"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(nearly = number)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with accusative of person"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "with accusative of thing"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "(graciously)"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": "with accusative of person"
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": "with accusative of thing (implicit)"
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 14, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 15, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

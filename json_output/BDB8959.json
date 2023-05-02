@@ -1,0 +1,38 @@
+{
+    "head_word": "מִשְׁפָּט", 
+    "pos": "noun masculine", 
+    "primary": "judgment", 
+    "description": "act of deciding a case", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "act of deciding a case"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "attribute of the שֹׁפֵט, justice, right, rectitude"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ordinance promulgated by שֹׁפֵט"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "decision of the שֹׁפֵט in a case of law"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "one's (legal) right, privilege, due"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "proper, fitting, measure"
+        }
+    ]
+}

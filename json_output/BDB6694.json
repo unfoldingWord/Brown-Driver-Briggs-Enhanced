@@ -1,0 +1,23 @@
+{
+    "head_word": "פֶּ֫סַח", 
+    "pos": "noun masculine", 
+    "primary": "passover", 
+    "description": "sacrifice of Passover, involving communion-meal, hence a species of peace-offering (compare I.\n        זֶבַח II. 2)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "sacrifice of Passover, involving communion-meal, hence a species of peace-offering (compare I.\n        זֶבַח II. 2)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "the animal victim of the passover"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "festival of the passover"
+        }
+    ]
+}

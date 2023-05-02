@@ -1,0 +1,28 @@
+{
+    "head_word": "חָזוֺן", 
+    "pos": "noun masculine", 
+    "primary": "vision", 
+    "description": "as seen in the ecstatic state", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as seen in the ecstatic state"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in the night"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "divine communication in a vision, oracle, prophecy"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "as title of book of prophecy"
+        }
+    ]
+}

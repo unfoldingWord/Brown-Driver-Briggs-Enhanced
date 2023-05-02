@@ -1,0 +1,18 @@
+{
+    "head_word": "מַעֲלֶה", 
+    "pos": "noun masculine", 
+    "primary": "ascent", 
+    "description": "of hill or mountain", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of hill or mountain"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of stairs"
+        }
+    ]
+}

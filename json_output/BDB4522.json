@@ -1,0 +1,28 @@
+{
+    "head_word": "מָה", 
+    "pos": "pronoun", 
+    "primary": "what? how? aught", 
+    "description": "used of things, as מִי of persons", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "interrogative what?"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Used adverbially"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "indefinite pronoun"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "With prepositions"
+        }
+    ]
+}

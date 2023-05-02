@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׂבָכָה", 
+    "pos": "noun feminine", 
+    "primary": "lattice-work, network", 
+    "description": "probably window-lattice", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "probably window-lattice"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "net-ornament on pillars"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "for catcing animals (figurative)"
+        }
+    ]
+}

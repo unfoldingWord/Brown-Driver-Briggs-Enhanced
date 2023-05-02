@@ -1,0 +1,43 @@
+{
+    "head_word": "מָשַׁךְ", 
+    "pos": "verb", 
+    "primary": "draw, drag", 
+    "description": "draw and lift out of (מִן)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "below", 
+            "description": "draw and lift out of (מִן)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "draw the bow"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "draw out a sound, give a sound"
+        }, 
+        {
+            "number": 5, 
+            "primary": "above", 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "trail seed (draw along in sowing)"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "(draw, attract, gratify)"
+        }
+    ]
+}

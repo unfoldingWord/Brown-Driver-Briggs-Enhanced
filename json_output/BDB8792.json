@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁמַי", 
+    "pos": "noun masculine", 
+    "primary": "heavens, sky", 
+    "description": "visible heavens, sky, where stars, etc., are", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "rarely of angels", 
+            "description": "visible heavens, sky, where stars, etc., are"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as abode of God"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "׳\nהַשּׁ personified in various relations"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

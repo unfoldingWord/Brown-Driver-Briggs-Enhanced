@@ -1,0 +1,23 @@
+{
+    "head_word": "סֹפֵר", 
+    "pos": "noun masculine", 
+    "primary": "enumerator, muster-officer, secretary, scribe", 
+    "description": "king's official =", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king's official ="
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "professional class of learned men, 'scribes' able to read and write"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specifically of Ezra, at once priest (כֹּהֵן) and learned\n    in\n    the law (סֹפֵר)"
+        }
+    ]
+}

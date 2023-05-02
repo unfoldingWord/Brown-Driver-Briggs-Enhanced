@@ -1,0 +1,33 @@
+{
+    "head_word": "יָלַד", 
+    "pos": "verb", 
+    "primary": "bear, bring forth, beget", 
+    "description": "less often\n        beget", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "less often\n        beget"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of both parents (literally); Passive participle 3 t. = child"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(father a child)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

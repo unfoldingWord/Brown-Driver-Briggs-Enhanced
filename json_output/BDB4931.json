@@ -1,0 +1,23 @@
+{
+    "head_word": "נְבִיאָה", 
+    "pos": "noun masculine", 
+    "primary": "prophetess", 
+    "description": "of the ancient type endowed with gift of song", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of the ancient type endowed with gift of song"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "false prophetess"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "wife of Isaiah"
+        }
+    ]
+}

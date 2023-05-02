@@ -1,0 +1,33 @@
+{
+    "head_word": "חִזְקִיָּ֫הוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of Ahaz, King of Judah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Ahaz, King of Judah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "great-great-grandfather of prophet Zephaniah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "man of royal Davidic line"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "head of a family of returned exiles"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "an Ephraimite, Ahaz's time"
+        }
+    ]
+}

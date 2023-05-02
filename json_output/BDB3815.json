@@ -1,0 +1,28 @@
+{
+    "head_word": "ישׁעיה", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "grandson of Zerubbabel", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "grandson of Zerubbabel"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "chief of the sons of Elam, who went up with Ezra"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "chief of sons of Merari in time of Ezra"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Benjamite"
+        }
+    ]
+}

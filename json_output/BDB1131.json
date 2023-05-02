@@ -1,0 +1,23 @@
+{
+    "head_word": "בֵּ֫לֶת", 
+    "pos": "particle [of negation]", 
+    "primary": "not, except", 
+    "description": "properly failure", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "after a preceding negation, not = except"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(likewise after a negative, expressed or implied)"
+        }
+    ]
+}

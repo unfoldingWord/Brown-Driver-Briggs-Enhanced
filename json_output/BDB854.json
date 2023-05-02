@@ -1,0 +1,28 @@
+{
+    "head_word": "אֵת", 
+    "pos": "preposition", 
+    "primary": "with", 
+    "description": "preposition denoting proximity", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Of companionship"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Of localities, especially in the phrase אֲשֶׁר אֵת describing a site"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "׳\nאֵת פּ denotes specially"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "מֵאֵת (מֵאִתִּי, etc.; also -מֵאוֺת) from\n        proximity\n        with"
+        }
+    ]
+}

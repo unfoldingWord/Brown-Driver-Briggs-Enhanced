@@ -1,0 +1,33 @@
+{
+    "head_word": "שׂוּם", 
+    "pos": "verb", 
+    "primary": "put, place, set", 
+    "description": "in a place", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in a place"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "direct\nלֵב (mind) toward, pay attention to, with\n            ל"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a law, statute"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in position"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "make a thing, or person (accusative), for, transform into (ל\n            )"
+        }
+    ]
+}

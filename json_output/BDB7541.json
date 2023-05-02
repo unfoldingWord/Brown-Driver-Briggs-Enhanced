@@ -1,0 +1,18 @@
+{
+    "head_word": "קֵץ", 
+    "pos": "noun masculine", 
+    "primary": "end", 
+    "description": "usually of time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "usually of time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in space"
+        }
+    ]
+}

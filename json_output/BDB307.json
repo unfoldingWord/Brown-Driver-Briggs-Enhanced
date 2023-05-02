@@ -1,0 +1,23 @@
+{
+    "head_word": "חִירָם", 
+    "pos": "proper name, masculine", 
+    "primary": "Hiram", 
+    "description": "king of Tyre, contemporary of David & Solomon", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Tyre, contemporary of David & Solomon"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "an artificer of Tyre, sent by Hiram the king"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

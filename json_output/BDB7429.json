@@ -1,0 +1,28 @@
+{
+    "head_word": "קִיץ", 
+    "pos": "verb", 
+    "primary": "awake", 
+    "description": "from sleep", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "from sleep"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "from sleep of death"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "from stupor (of drunkenness)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of inanimate thing"
+        }
+    ]
+}

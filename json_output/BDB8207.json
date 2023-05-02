@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׂטָן", 
+    "pos": "noun masculine", 
+    "primary": "adversary", 
+    "description": "in general, personal or national", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "adversary", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "Satan", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in general, personal or national"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

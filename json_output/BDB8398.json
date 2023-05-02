@@ -1,0 +1,18 @@
+{
+    "head_word": "שִׁבְיָה", 
+    "pos": "noun feminine", 
+    "primary": "captivity, captives", 
+    "description": "(collective), compareשְׁבִי", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "state of captivity"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "body of captives"
+        }
+    ]
+}

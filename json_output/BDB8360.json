@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁאָגָה", 
+    "pos": "noun feminine", 
+    "primary": "roaring", 
+    "description": "like lion", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "like lion"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "human cry in distress"
+        }
+    ]
+}

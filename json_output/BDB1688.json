@@ -1,0 +1,38 @@
+{
+    "head_word": "גַּם", 
+    "pos": "adverb", 
+    "primary": "also, moreover, yea", 
+    "description": "denoting addition", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "emphasizing sometimes the thought of an entire sentence, but more usually the\n        word immediately following"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with stress on a particular word"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "introducing a climax, yea, especially in a rhetorical style"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "expressing correspondence, especially in the matter of \n        retribution (the גַּם\ncorrelativum)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "connecting two ideas which express (or imply) a contradiction, גַּם acquires\n    sometimes an adversative force (compare אַף\n1 end)"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "גַּם כִּי (with imperfect)"
+        }
+    ]
+}

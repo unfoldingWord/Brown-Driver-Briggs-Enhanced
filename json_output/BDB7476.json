@@ -1,0 +1,23 @@
+{
+    "head_word": "קִנְאָה", 
+    "pos": "noun feminine", 
+    "primary": "ardour, zeal, jealousy", 
+    "description": "(from colour produced in face by deep emotion)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of men for God"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of men against adversaries"
+        }
+    ]
+}

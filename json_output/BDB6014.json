@@ -1,0 +1,33 @@
+{
+    "head_word": "עַ֫יִן", 
+    "pos": "noun feminine", 
+    "primary": "eye", 
+    "description": "literally as physical organ", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "as growing dim", 
+            "description": "literally as physical organ"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "eyes as shewing mental qualities"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative of mental and spiritual faculties, acts and states"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Transferred meanings"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Other phrases are"
+        }
+    ]
+}

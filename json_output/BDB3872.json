@@ -1,0 +1,28 @@
+{
+    "head_word": "כְּמוֺ", 
+    "pos": "adverb", 
+    "primary": "like, as, when", 
+    "description": "literally the like of what (namely) . . ., a\n        pleonastic\n        form of כְּ (see מוֺ), and, like it, properly a\n        substantive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(56 t.) as an independent word"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as an equivalent for כְּ before suffixes, always before light ones, and\n        occasionally before heavy ones"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "adverb, as poetic synonym of כְּ"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

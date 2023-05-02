@@ -1,0 +1,33 @@
+{
+    "head_word": "גִּלְגָּל", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "place east of Jericho, where Israel lay encamped", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "place east of Jericho, where Israel lay encamped"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "place on border between Judah & Benjamin"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "place in Northern Israel, dwelling of prophets"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "place in Northern Israel near Mt. Gerizim and Mt. Ebal"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in phrase"
+        }
+    ]
+}

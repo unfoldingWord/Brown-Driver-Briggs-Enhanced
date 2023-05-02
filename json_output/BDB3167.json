@@ -1,0 +1,33 @@
+{
+    "head_word": "חָרַר", 
+    "pos": "verb", 
+    "primary": "be hot, scorched, burn poet", 
+    "description": "= be burned, figurative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= be burned, figurative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of bones of sick men in fever"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

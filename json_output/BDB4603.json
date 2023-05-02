@@ -1,0 +1,18 @@
+{
+    "head_word": "מָחָר", 
+    "pos": "noun masculine", 
+    "primary": "tomorrow, in time to come", 
+    "description": "(the day following the present day)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(the day following the present day)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= in future time"
+        }
+    ]
+}

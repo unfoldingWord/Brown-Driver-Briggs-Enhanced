@@ -1,0 +1,18 @@
+{
+    "head_word": "ראשׁ", 
+    "pos": "noun masculine", 
+    "primary": "venom", 
+    "description": "a bitter and poisonous herb, them venom, always figurative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a bitter and poisonous herb"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

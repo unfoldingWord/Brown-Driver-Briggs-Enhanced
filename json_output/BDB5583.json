@@ -1,0 +1,18 @@
+{
+    "head_word": "סֻכּוֺת", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "city east of Jordan", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "city east of Jordan"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "first station\n    of Israel at Exodus"
+        }
+    ]
+}

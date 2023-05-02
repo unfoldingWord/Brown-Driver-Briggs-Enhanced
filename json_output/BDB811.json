@@ -1,0 +1,28 @@
+{
+    "head_word": "אַשּׁוּר", 
+    "pos": "proper name [or a people and territorry]", 
+    "primary": "Asshur, Assyria", 
+    "description": "people of Asshur", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "people of Asshur"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "land of Assyria"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "especially מֶלֶךְ\nאַשּׁוּר"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "גְּנָזִים", 
+    "pos": "noun [masculine] plural", 
+    "primary": "chests (?)", 
+    "description": "perhaps chests of variegated cloth", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "chests (?)", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "treasury", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "perhaps chests of variegated cloth"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

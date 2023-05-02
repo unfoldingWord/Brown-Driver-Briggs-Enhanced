@@ -1,0 +1,23 @@
+{
+    "head_word": "מָתֹק", 
+    "pos": "verb", 
+    "primary": "become or be sweet, pleasant", 
+    "description": "literally become sweet, of water", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally become sweet, of water"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= be pleasant"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

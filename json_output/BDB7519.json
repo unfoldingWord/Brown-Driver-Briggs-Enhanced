@@ -1,0 +1,28 @@
+{
+    "head_word": "קָצֶה", 
+    "pos": "noun [masculine]", 
+    "primary": "end, extremity", 
+    "description": "only singular", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "condensed term for what is included within extremities, = the whole"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "at the end of a certain time"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "שָׂנֵא", 
+    "pos": "verb", 
+    "primary": "hate", 
+    "description": "human", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "human"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "subject ׳\nי"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as adjective"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "personal and national"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of ׳\nי"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of wisdom"
+        }
+    ]
+}

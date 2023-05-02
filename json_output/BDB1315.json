@@ -1,0 +1,58 @@
+{
+    "head_word": "בְּרִית", 
+    "pos": "noun feminine", 
+    "primary": "covenant", 
+    "description": "between men", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": ">between monarch and subjects"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of friendship between David and Jonathan"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of marriage"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of friendship"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "as a divine constitution or ordinance with signs or pledges"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "covenant making"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "covenant keeping"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "covenant violation"
+        }
+    ]
+}

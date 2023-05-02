@@ -1,0 +1,28 @@
+{
+    "head_word": "מְרֹרָה", 
+    "pos": "noun feminine", 
+    "primary": "bitter thing, gall, poison", 
+    "description": "i.e. seat of gall, gall-bladder", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "i.e. seat of gall, gall-bladder"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= poison"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= bitterness"
+        }
+    ]
+}

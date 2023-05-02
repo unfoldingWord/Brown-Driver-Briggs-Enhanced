@@ -1,0 +1,33 @@
+{
+    "head_word": "נוּף", 
+    "pos": "verb", 
+    "primary": "move to and fro, wave, besprinkle", 
+    "description": "move tool to and fro in using it", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "move tool to and fro in using it"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Shake or wave the hand"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of rite in which originally the priest lifted his share of offering and waved\n            \n            it, i.e. moved it toward altar and back, in token of its presentation to God and its return by him to priest"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

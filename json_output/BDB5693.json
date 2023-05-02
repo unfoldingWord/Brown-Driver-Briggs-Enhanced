@@ -1,0 +1,28 @@
+{
+    "head_word": "סֵ֫פֶר", 
+    "pos": "noun masculine", 
+    "primary": "missive, document, writing, book", 
+    "description": "letter of instruction, written order, commission, or \n            request", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "letter of instruction, written order, commission, or \n            request"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "once", 
+            "description": "in which something is written to preserve it for future\n    use"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= book-learning, especially writing"
+        }
+    ]
+}

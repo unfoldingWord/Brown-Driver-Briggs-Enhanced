@@ -1,0 +1,43 @@
+{
+    "head_word": "פָּרָה", 
+    "pos": "verb", 
+    "primary": "bear fruit, be fruitful", 
+    "description": "of men and animals", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of men and animals"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of vine"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

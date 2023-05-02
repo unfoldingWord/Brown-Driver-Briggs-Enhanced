@@ -1,0 +1,23 @@
+{
+    "head_word": "חָבֵר", 
+    "pos": "adjective", 
+    "primary": "united, associate, companion", 
+    "description": "adjective", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "adjective"
+        }, 
+        {
+            "number": 2, 
+            "primary": "implying likeness of character", 
+            "description": "noun"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "companion at a particular time"
+        }
+    ]
+}

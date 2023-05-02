@@ -1,0 +1,23 @@
+{
+    "head_word": "נָקָם", 
+    "pos": "noun masculine", 
+    "primary": "vengeance", 
+    "description": "taken by God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "taken by God"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Samson against Philistines"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "enemies against Judah"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "פַּרְסָה", 
+    "pos": "noun feminine", 
+    "primary": "hoof", 
+    "description": "of ruminants", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of ruminants"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of horses (not divided)"
+        }
+    ]
+}

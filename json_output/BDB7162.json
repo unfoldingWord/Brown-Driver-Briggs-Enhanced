@@ -1,0 +1,23 @@
+{
+    "head_word": "צָעַק", 
+    "pos": "verb", 
+    "primary": "cry, cry out, call", 
+    "description": "for help", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "for help"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in distress, need"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

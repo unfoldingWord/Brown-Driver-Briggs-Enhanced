@@ -1,0 +1,18 @@
+{
+    "head_word": "לִשְׁכָּה", 
+    "pos": "noun feminine", 
+    "primary": "room, chamber, hall, cell, lishka", 
+    "description": "of room connected with a sanctuary (בָּמָה), where sacrificial meal was\n        eaten", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of room connected with a sanctuary (בָּמָה), where sacrificial meal was\n        eaten"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of scribe's room in royal palace"
+        }
+    ]
+}

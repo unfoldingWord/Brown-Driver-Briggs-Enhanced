@@ -1,0 +1,23 @@
+{
+    "head_word": "שִׁיר", 
+    "pos": "noun masculine", 
+    "primary": "song", 
+    "description": "lyric song", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "lyric song"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "religious song"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specifically song of Levitical choirs, with musical accompaniment"
+        }
+    ]
+}

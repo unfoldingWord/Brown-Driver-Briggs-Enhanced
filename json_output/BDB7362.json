@@ -1,0 +1,23 @@
+{
+    "head_word": "קוֺמָה", 
+    "pos": "noun feminine", 
+    "primary": "height", 
+    "description": "of person", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of person"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of tree"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of artificial structures"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מָרוֺם", 
+    "pos": "noun masculine", 
+    "primary": "height", 
+    "description": "= height of heaven", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= height of heaven"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "adverb figurative, = proudly"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "figurative of nobles (collective)"
+        }
+    ]
+}

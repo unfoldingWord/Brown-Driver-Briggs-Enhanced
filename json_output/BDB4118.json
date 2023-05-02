@@ -1,0 +1,38 @@
+{
+    "head_word": "כֶּ֫סֶל", 
+    "pos": "noun masculine", 
+    "primary": "loins", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "loins", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "stupidity", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "confidence", 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

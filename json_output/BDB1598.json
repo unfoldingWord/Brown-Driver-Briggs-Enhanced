@@ -1,0 +1,53 @@
+{
+    "head_word": "גָּזַר", 
+    "pos": "verb", 
+    "primary": "cut, divide", 
+    "description": "i.e. destroy, exterminate", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "i.e. destroy, exterminate"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "separated, excluded"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "= destroyed"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

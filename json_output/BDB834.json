@@ -1,0 +1,38 @@
+{
+    "head_word": "אָשַׁר", 
+    "pos": "verb", 
+    "primary": "go straight, go on, advance", 
+    "description": "intensive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "intensive"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "causative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

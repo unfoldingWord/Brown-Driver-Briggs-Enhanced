@@ -1,0 +1,43 @@
+{
+    "head_word": "שְׂאֵת", 
+    "pos": "noun", 
+    "primary": "exaltation, dignity", 
+    "description": "dubious", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "exaltation, dignity", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "swelling", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "uprising", 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "dubious"
+        }
+    ]
+}

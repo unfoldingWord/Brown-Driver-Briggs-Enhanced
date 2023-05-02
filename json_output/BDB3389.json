@@ -1,0 +1,28 @@
+{
+    "head_word": "יְאֹר", 
+    "pos": "noun masculine", 
+    "primary": "stream", 
+    "description": "stream of the Nile, stream, canal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "stream of the Nile, river Nile, usually with article"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "plural"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "made in mining"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "singular, of Tigris"
+        }
+    ]
+}

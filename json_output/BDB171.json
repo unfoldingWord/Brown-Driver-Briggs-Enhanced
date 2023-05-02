@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵיד", 
+    "pos": "noun masculine", 
+    "primary": "distress, calamity", 
+    "description": "national calamity", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "national calamity"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of righteous sufferer"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "often of wicked"
+        }
+    ]
+}

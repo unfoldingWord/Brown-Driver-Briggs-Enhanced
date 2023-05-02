@@ -1,0 +1,53 @@
+{
+    "head_word": "בַּת", 
+    "pos": "noun feminine", 
+    "primary": "daughter", 
+    "description": "female child, born of a woman", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "used in kindly address", 
+            "description": "female child, born of a woman"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with name of city, land, or people, poetic personification of that city or inhabitants, etc."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "after name of city"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in phrases denoting character, quality, etc."
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "בַּת יַעֲנָה = ostrich"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "of vine = branch"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "as noun relative"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "מָרַד", 
+    "pos": "verb", 
+    "primary": "rebel", 
+    "description": "against human king", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "against human king"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "against God"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in poetry, against light"
+        }
+    ]
+}

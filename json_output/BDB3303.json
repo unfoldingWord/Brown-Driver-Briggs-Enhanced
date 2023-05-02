@@ -1,0 +1,23 @@
+{
+    "head_word": "טָהוֺר", 
+    "pos": "adjective", 
+    "primary": "clean, pure", 
+    "description": "ceremonially", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "ceremonially"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "physically"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ethically"
+        }
+    ]
+}

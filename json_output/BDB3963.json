@@ -1,0 +1,28 @@
+{
+    "head_word": "כִּיֹּר", 
+    "pos": "noun masculine", 
+    "primary": "pot, basin", 
+    "description": "basin of bronze for washing", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "basin of bronze for washing"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "platform or stage of bronze (probably round, bowl-like in shape) on\n        which, according to Chronicles, Solomon stood and kneeled"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "head_word": "דָּבָר", 
+    "pos": "noun masculine", 
+    "primary": "speech, word", 
+    "description": "as the sum of that which\n    is spoken", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of men"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "word of God, as a divine communication in the form of commandments, prophecy, and words\n    of\n    help\n    to his people"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of men"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of men:"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": "cause, case for judicial investigation"
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": "(indefinite)"
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 14, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

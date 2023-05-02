@@ -1,0 +1,38 @@
+{
+    "head_word": "הָפַךְ", 
+    "pos": "verb", 
+    "primary": "turn, overturn", 
+    "description": "reflexive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "reflexive"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "passive"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

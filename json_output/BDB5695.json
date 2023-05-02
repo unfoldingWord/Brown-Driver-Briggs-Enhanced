@@ -1,0 +1,33 @@
+{
+    "head_word": "סָפַר", 
+    "pos": "verb", 
+    "primary": "count", 
+    "description": "probably ancient denominative from סֵפֶר", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= take account of, carefully observe and consider, reckon"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "apparently, in weakened sense"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

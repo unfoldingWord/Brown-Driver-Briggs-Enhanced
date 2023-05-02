@@ -1,0 +1,28 @@
+{
+    "head_word": "מִצְפָּה", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "in Gilead, explanation as name given to Laban's cairn, north of Jabbok", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in Gilead, explanation as name given to Laban's cairn, north of Jabbok"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "probably south of Jabbok"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "near Hermon"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "old sacred place in Benjamin"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "נָכַר", 
+    "pos": "verb", 
+    "primary": "regard, recognize", 
+    "description": "especially with a view to recognition", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "especially with a view to recognition"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(as formerly known)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

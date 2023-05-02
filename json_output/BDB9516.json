@@ -1,0 +1,28 @@
+{
+    "head_word": "חֲזָה", 
+    "pos": "verb", 
+    "primary": "see, behold", 
+    "description": "have sense of sight", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "have sense of sight"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "usually behold in dream or vision (often participle in periphrastic\n        conjugation)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "passive = customary (seemly)"
+        }
+    ]
+}

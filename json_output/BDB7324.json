@@ -1,0 +1,93 @@
+{
+    "head_word": "קָּדַשׁ", 
+    "pos": "verb", 
+    "primary": "be set apart, consecrated", 
+    "description": "hallowed", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "hallowed"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "by contact with sacred things, and so tabooed from profane use, of\n        forfeited to sanctuary"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "places"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "God"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "by purification"
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": "places"
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": "by purification"
+        }, 
+        {
+            "number": 14, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 15, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 16, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 17, 
+            "primary": null, 
+            "description": "by purification"
+        }
+    ]
+}

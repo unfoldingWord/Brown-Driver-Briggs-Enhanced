@@ -1,0 +1,18 @@
+{
+    "head_word": "חָפְשִׁי", 
+    "pos": "adjective", 
+    "primary": "free", 
+    "description": "from slavery", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "from slavery"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "from taxes, obligations, etc."
+        }
+    ]
+}

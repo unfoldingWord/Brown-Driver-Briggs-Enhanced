@@ -1,0 +1,28 @@
+{
+    "head_word": "פְּקֻדָּה", 
+    "pos": "noun feminine", 
+    "primary": "oversight, mustering, visitation, store", 
+    "description": "= punishment", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= punishment"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= office"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "things laid up"
+        }
+    ]
+}

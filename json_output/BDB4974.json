@@ -1,0 +1,18 @@
+{
+    "head_word": "נְגִינָה", 
+    "pos": "noun feminine", 
+    "primary": "music", 
+    "description": "(of stringed instrument)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(of stringed instrument)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(with string accompaniment?)"
+        }
+    ]
+}

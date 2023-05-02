@@ -1,0 +1,23 @@
+{
+    "head_word": "מַעֲרָכָה", 
+    "pos": "noun feminine", 
+    "primary": "row, rank, battle-line", 
+    "description": "= army", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= army"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "lamps of the row, i.e. arranged in a row"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

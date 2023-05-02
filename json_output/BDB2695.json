@@ -1,0 +1,23 @@
+{
+    "head_word": "חֵטְא", 
+    "pos": "noun masculine", 
+    "primary": "sin", 
+    "description": "guilt of sin", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "guilt of sin"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "punishment for sin"
+        }
+    ]
+}

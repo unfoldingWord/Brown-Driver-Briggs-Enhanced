@@ -1,0 +1,18 @@
+{
+    "head_word": "אָמָה", 
+    "pos": "noun feminine", 
+    "primary": "maid, handmaid", 
+    "description": "literally maidservant", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally maidservant"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative in address"
+        }
+    ]
+}

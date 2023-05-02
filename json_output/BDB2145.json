@@ -1,0 +1,63 @@
+{
+    "head_word": "הָיָה", 
+    "pos": "verb", 
+    "primary": "fall out, come to pass, become, be", 
+    "description": "followed by\n                preposition", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "followed by\n                preposition"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "(with word of place or time)"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "with word of locality"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "as copula, joining subject & predicate"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "periphrastic conjugation"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "either be done, be brought about, or occur, come to pass"
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

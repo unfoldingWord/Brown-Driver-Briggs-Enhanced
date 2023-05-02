@@ -1,0 +1,58 @@
+{
+    "head_word": "מוּת", 
+    "pos": "verb", 
+    "primary": "die", 
+    "description": "of natural or other causes", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of natural or other causes"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as a penalty = be put to death:"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "subject man"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "subject God"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of animals killing men"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "bring to a premature death"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "by conspiracy"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "by capital punishment"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "by divine infliction"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "die prematurely"
+        }
+    ]
+}

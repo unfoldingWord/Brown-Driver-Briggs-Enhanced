@@ -1,0 +1,18 @@
+{
+    "head_word": "חוּץ", 
+    "pos": "noun [masculine]", 
+    "primary": "the outside", 
+    "description": "sometimes, especially in plural, specifically a street", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of a house, tent, city, camp, etc., often used, especially with prepositions, to\n    express the adverb idea of outside, abroad"
+        }, 
+        {
+            "number": 2, 
+            "primary": "that which is outside\n            enclosed cities, the open country", 
+            "description": "Of a definite locality"
+        }
+    ]
+}

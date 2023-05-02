@@ -1,0 +1,23 @@
+{
+    "head_word": "שִׂמְאֵל", 
+    "pos": "verb", 
+    "primary": "take the left", 
+    "description": "= go to the left", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= go to the left"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "turn (aside) to the left (from true way)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "use the left hand"
+        }
+    ]
+}

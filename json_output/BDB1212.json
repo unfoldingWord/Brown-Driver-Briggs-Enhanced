@@ -1,0 +1,53 @@
+{
+    "head_word": "בַּעַל", 
+    "pos": "noun masculine", 
+    "primary": "owner, lord", 
+    "description": "noun of relation", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "noun of relation"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "without article"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "with article"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "emphatic plural"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "with\n        attributive"
+        }
+    ]
+}

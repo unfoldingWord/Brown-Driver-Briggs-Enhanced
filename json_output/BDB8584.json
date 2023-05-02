@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁחַח", 
+    "pos": "verb", 
+    "primary": "bow, be bowed down, crouch", 
+    "description": "in homage", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in homage"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of mourner"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of wild beast in lair"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁתֶּה", 
+    "pos": "noun masculine", 
+    "primary": "feast", 
+    "description": "(occasion for drinking, drinking-bout)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "feast", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "drink", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(occasion for drinking, drinking-bout)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

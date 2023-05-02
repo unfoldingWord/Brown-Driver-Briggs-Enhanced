@@ -1,0 +1,28 @@
+{
+    "head_word": "מַכָּה", 
+    "pos": "noun feminine", 
+    "primary": "blow, wound, slaughter", 
+    "description": "= slaughter", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= slaughter"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= defeat"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "especially disease"
+        }
+    ]
+}

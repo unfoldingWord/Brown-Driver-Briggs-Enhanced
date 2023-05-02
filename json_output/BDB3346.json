@@ -1,0 +1,63 @@
+{
+    "head_word": "טָמֵא", 
+    "pos": "verb", 
+    "primary": "be or become unclean", 
+    "description": "sexually", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "sexually"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "religiously"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ceremonially"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "sexually"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "by idolatry conceived as whoredom"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "ceremonially"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "(compare\n        Pi`el\n4)"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "sexually"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "religiously"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "ceremonially"
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": "pronounce or declare ceremonially unclean"
+        }
+    ]
+}

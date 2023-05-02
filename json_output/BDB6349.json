@@ -1,0 +1,28 @@
+{
+    "head_word": "עָרַב", 
+    "pos": "verb", 
+    "primary": "take on pledge, give in pledge, exchange", 
+    "description": "i.e. go surety\n            for", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "i.e. go surety\n            for"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(in trade)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

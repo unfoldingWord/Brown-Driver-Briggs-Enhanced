@@ -1,0 +1,28 @@
+{
+    "head_word": "חָרִם", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "priest of the third course, David's time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "priest of the third course, David's time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "priest of time of Nehemiah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "heads of families of returning exiles"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a prince"
+        }
+    ]
+}

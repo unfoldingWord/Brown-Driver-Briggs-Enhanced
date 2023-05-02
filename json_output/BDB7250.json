@@ -1,0 +1,28 @@
+{
+    "head_word": "צָרַף", 
+    "pos": "verb", 
+    "primary": "smelt, refine, test", 
+    "description": "(and prove true)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(and prove true)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "active as noun\nsmelter, refiner, hence = goldsmith"
+        }
+    ]
+}

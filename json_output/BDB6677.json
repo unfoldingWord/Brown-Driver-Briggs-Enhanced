@@ -1,0 +1,18 @@
+{
+    "head_word": "פֶּןֿ", 
+    "pos": "conjunction", 
+    "primary": "lest", 
+    "description": "with Imperfect", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "with Imperfect"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with Perfect, the result feared being conceived as having possibly already taken\n    place"
+        }
+    ]
+}

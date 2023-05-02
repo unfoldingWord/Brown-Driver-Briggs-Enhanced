@@ -1,0 +1,23 @@
+{
+    "head_word": "חָצַב", 
+    "pos": "verb", 
+    "primary": "hew, hew out, cleave", 
+    "description": "hew stone", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "hew stone"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "metaphor"
+        }
+    ]
+}

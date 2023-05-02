@@ -1,0 +1,28 @@
+{
+    "head_word": "בִּינָה", 
+    "pos": "noun feminine", 
+    "primary": "understanding", 
+    "description": "the act", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "the act"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "the faculty"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "the object of knowledge"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "personified"
+        }
+    ]
+}

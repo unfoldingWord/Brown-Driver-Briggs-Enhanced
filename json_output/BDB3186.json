@@ -1,0 +1,43 @@
+{
+    "head_word": "חָרֵשׁ", 
+    "pos": "verb", 
+    "primary": "be silent, dumb, speechless", 
+    "description": "always of God's keeping silence when men pray", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "be silent, dumb, speechless", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "always of God's keeping silence when men pray"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(= exhibit silence)"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "once causative"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

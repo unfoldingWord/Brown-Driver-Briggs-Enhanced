@@ -1,0 +1,43 @@
+{
+    "head_word": "רָפָא", 
+    "pos": "verb", 
+    "primary": "heal", 
+    "description": "of God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "hurts of nation, involving ׳\nי's (restored) favour (and, often, forgiveness)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "individual distresses"
+        }, 
+        {
+            "number": 4, 
+            "primary": "of person", 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of national hurts"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "of healing national defects and hurts"
+        }
+    ]
+}

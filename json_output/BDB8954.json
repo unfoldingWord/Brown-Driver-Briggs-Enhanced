@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁפָּחָה", 
+    "pos": "noun feminine", 
+    "primary": "clan", 
+    "description": "family connection of individual", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "family connection of individual"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= guild"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= species, kind"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "plural = aristocrats"
+        }
+    ]
+}

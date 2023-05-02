@@ -1,0 +1,23 @@
+{
+    "head_word": "קִישׁ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of Saul", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of Saul"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ancestor of Mordecai"
+        }
+    ]
+}

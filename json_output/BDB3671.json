@@ -1,0 +1,43 @@
+{
+    "head_word": "יָצַק", 
+    "pos": "verb", 
+    "primary": "pour, cast, flow", 
+    "description": "(objects of metal)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(objects of metal)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Passive participle as adjective figurative cast, hard"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Participle = cast, molten"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

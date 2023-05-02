@@ -1,0 +1,33 @@
+{
+    "head_word": "אֶ֫רֶץ", 
+    "pos": "noun feminine", 
+    "primary": "earth, land", 
+    "description": "whole earth (opposed to a part)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "whole earth (opposed to a part)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in phrases"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "denotes lands, countries, often in contrast to Canaan"
+        }
+    ]
+}

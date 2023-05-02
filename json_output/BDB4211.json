@@ -1,0 +1,38 @@
+{
+    "head_word": "כִּכָּר", 
+    "pos": "noun feminine", 
+    "primary": "a round", 
+    "description": "(or oval) especially of the Jordan valley", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "a round district", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "a round loaf", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "a round weight, talent", 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(or oval) especially of the Jordan valley"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of bread (from round shape)"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "(also from shape)"
+        }
+    ]
+}

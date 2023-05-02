@@ -1,0 +1,38 @@
+{
+    "head_word": "פְּדָיָהוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father-in-law of Josiah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father-in-law of Josiah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "father of Zerubbabel"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Benjamite"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Levite"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Manassite"
+        }
+    ]
+}

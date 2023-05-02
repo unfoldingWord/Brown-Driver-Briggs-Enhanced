@@ -1,0 +1,58 @@
+{
+    "head_word": "בָּעַר", 
+    "pos": "verb", 
+    "primary": "burn, consume", 
+    "description": "active but absolute, figurativea", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "active but absolute, figurativea"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "figurative"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "consume = destroy (compare Pi`el)"
+        }
+    ]
+}

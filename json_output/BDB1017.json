@@ -1,0 +1,33 @@
+{
+    "head_word": "בָּטַח", 
+    "pos": "verb", 
+    "primary": "trust", 
+    "description": "absolute", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "absolute"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with cognate accusative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with בְּ"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with עַל"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with אֶל"
+        }
+    ]
+}

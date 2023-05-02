@@ -1,0 +1,18 @@
+{
+    "head_word": "צִפּוֺר", 
+    "pos": "noun feminine", 
+    "primary": "bird", 
+    "description": "single bird", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "single bird"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "less often collective"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עִדָּן", 
+    "pos": "noun masculine", 
+    "primary": "time", 
+    "description": "in general, time, as duration", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in general, time, as duration"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "definite time, = year"
+        }
+    ]
+}

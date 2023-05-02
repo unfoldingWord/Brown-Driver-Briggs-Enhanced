@@ -1,0 +1,38 @@
+{
+    "head_word": "צֵלָע", 
+    "pos": "noun feminine", 
+    "primary": "rib, side", 
+    "description": "of man", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of man"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of hill, i.e. ridge, or terrace"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(enclosing temple like ribs)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of cedar and fir, i.e. planks, boards"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of door"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

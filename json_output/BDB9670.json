@@ -1,0 +1,43 @@
+{
+    "head_word": "מִן", 
+    "pos": "preposition", 
+    "primary": "from, out of, by, by reason of, at, more than", 
+    "description": "of place", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of place"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of the source (Biblical Hebrew 2.b\n        .), as to be fed\n        from\nDan 4:9 or\n        author (ib.\nd), מִנִּי שִׂים טְעֵם = by me is a decree\n        made, Dan\n            3:29\n        ; Dan 4:3\n         (Dan\n            6:27\n        \nמִןקֳֿדָמַי), Ezra 4:19 +, compare Ezra 5:17\nמִנַּי = on my part\nDan 2:5;\n        Dan 2:8\n        (see\n        \nאַזְדָּא\n)."
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of the norm"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "partitively"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of time"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "in comparisons"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "compounds"
+        }
+    ]
+}

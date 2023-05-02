@@ -1,0 +1,28 @@
+{
+    "head_word": "עֶשְׂרִים", 
+    "pos": "noun plural", 
+    "primary": "(a) twenty", 
+    "description": "as cardinal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "without other number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "+ other number"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "20 alone"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "20 + unit + ns."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "מֶרְקָחָה", 
+    "pos": "noun", 
+    "primary": "ointment-pot", 
+    "description": "in which ointment is compounded", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "ointment-pot", 
+            "description": "in which ointment is compounded"
+        }, 
+        {
+            "number": 2, 
+            "primary": "spice-seasoning (?)", 
+            "description": null
+        }
+    ]
+}

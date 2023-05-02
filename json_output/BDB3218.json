@@ -1,0 +1,38 @@
+{
+    "head_word": "חָשַׁךְ", 
+    "pos": "verb", 
+    "primary": "be, grow dark", 
+    "description": "= hide, conceal, followed by מִמֶּךָּ", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= hide, conceal, followed by מִמֶּךָּ"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

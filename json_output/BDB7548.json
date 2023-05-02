@@ -1,0 +1,23 @@
+{
+    "head_word": "קָצִיר", 
+    "pos": "noun masculine", 
+    "primary": "harvesting, harvest", 
+    "description": "process of harvesting", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "process of harvesting"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "what is reaped, harvested, crop, specifically of grain"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "time of harvest"
+        }
+    ]
+}

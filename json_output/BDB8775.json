@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁם", 
+    "pos": "adverb", 
+    "primary": "there, thither", 
+    "description": "preceded by the relative, \n            אֲשֶׁר שָׁם\nwhere", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "preceded by the relative, \n            אֲשֶׁר שָׁם\nwhere"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with ה locative"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "מִשָּׁם\nfrom there, thence:"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "חַיָּה", 
+    "pos": "noun feminine", 
+    "primary": "living thing, animal", 
+    "description": "as living, active being", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as living, active being"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "only in late poetry"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "activity of hunger"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

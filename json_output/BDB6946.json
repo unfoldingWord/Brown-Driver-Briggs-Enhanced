@@ -1,0 +1,33 @@
+{
+    "head_word": "צִדְקִיָּ֫הוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "last king of Judah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "last king of Judah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "false prophets"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "prince, Jeremiah's time"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "priest, Nehemiah's time"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "son of Jehoiachin"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "חַטָּאת", 
+    "pos": "noun feminine", 
+    "primary": "sin, sin-offering", 
+    "description": "condition of sin, guilt of sin", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "condition of sin, guilt of sin"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "punishment for sin:"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "purification from sins of ceremonial uncleanness"
+        }
+    ]
+}

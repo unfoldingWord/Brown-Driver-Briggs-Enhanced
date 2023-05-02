@@ -1,0 +1,38 @@
+{
+    "head_word": "קֹ֫דֶשׁ", 
+    "pos": "noun masculine", 
+    "primary": "apartness, sacredness", 
+    "description": "of God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of places set apart as sacred by God's presence"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "things consecrated at sacred places"
+        }, 
+        {
+            "number": 4, 
+            "primary": "covt. between God and his people", 
+            "description": "persons sacred by connection with sacred places"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "times consecrated to worship"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of things and persons ceremonially cleansed, and so separated as sacred"
+        }
+    ]
+}

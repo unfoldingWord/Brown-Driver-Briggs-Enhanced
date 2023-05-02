@@ -1,0 +1,28 @@
+{
+    "head_word": "שֶׁ", 
+    "pos": "relative particle", 
+    "primary": "who, which, that, etc.", 
+    "description": "In usage, שֶּׁ  is in the main\n    parallel with אֲשֶׁר", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as pronoun"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as a connecting link; ="
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as a conjunction"
+        }, 
+        {
+            "number": 4, 
+            "primary": "a mark of the genitive: thrice", 
+            "description": "compounds"
+        }
+    ]
+}

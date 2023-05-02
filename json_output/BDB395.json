@@ -1,0 +1,28 @@
+{
+    "head_word": "אַךְ", 
+    "pos": "adverb", 
+    "primary": "surely", 
+    "description": "with a\n        restrictive force, emphasizing what follows", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "surely", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "howbeit", 
+            "description": "with a\n        restrictive force, emphasizing what follows"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "asseverative, often introducing with emphasis the expression of a truth (or supposed truth)\n        newly\n        perceived, especially in colloquial language"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "restrictive"
+        }
+    ]
+}

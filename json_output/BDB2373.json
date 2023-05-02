@@ -1,0 +1,28 @@
+{
+    "head_word": "זָלַל", 
+    "pos": "verb", 
+    "primary": "be light, worthless", 
+    "description": "transitive make light of = be lavish with, squander\n        \n        (compare II. זוּל)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "be light, worthless", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "make light of", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "transitive make light of = be lavish with, squander\n        \n        (compare II. זוּל)"
+        }
+    ]
+}

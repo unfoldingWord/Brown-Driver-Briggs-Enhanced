@@ -1,0 +1,43 @@
+{
+    "head_word": "נָתַן", 
+    "pos": "verb", 
+    "primary": "give, put, set", 
+    "description": "= give personally, deliver or hand to", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "give persons", 
+            "description": "= give personally, deliver or hand to"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "nearly = שִׂים, and sometimes || with it"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "=\n                bestowed upon"
+        }, 
+        {
+            "number": 5, 
+            "primary": "crown", 
+            "description": "literally"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= be given to one (ל) for wife (ל\n            )"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "be put upon (עַלֿ)"
+        }
+    ]
+}

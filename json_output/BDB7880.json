@@ -1,0 +1,18 @@
+{
+    "head_word": "רָחַץ", 
+    "pos": "verb", 
+    "primary": "wash, wash off, away, bathe", 
+    "description": "(with water)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(with water)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(oneself)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "אֲכַל", 
+    "pos": "verb", 
+    "primary": "eat, devour", 
+    "description": "of beast", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of beast"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of beast in vision"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "eat their pieces, i.e. slander them"
+        }
+    ]
+}

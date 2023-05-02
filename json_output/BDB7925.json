@@ -1,0 +1,23 @@
+{
+    "head_word": "מֶרְכָּב", 
+    "pos": "noun masculine", 
+    "primary": "chariot, riding-seat", 
+    "description": "(properly riding-place)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "( = following)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "probably saddle"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of litter"
+        }
+    ]
+}

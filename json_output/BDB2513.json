@@ -1,0 +1,38 @@
+{
+    "head_word": "חָבַר", 
+    "pos": "verb", 
+    "primary": "unite", 
+    "description": "(usually intransitive)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(transitive)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= be one of"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

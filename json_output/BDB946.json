@@ -1,0 +1,38 @@
+{
+    "head_word": "בּוֺא", 
+    "pos": "verb", 
+    "primary": "come in, come, go in, go", 
+    "description": "from speaker, but with limit of motion given", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "of associating with", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "from speaker, but with limit of motion given"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

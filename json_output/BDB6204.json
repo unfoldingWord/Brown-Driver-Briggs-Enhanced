@@ -1,0 +1,18 @@
+{
+    "head_word": "מַ֫עַן", 
+    "pos": "preposition", 
+    "primary": "purpose, intent", 
+    "description": "only with לְ, in לְמַ֫עַן", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "preposition"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "conjunction (followed by imperfect)"
+        }
+    ]
+}

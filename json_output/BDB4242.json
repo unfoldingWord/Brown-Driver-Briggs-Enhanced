@@ -1,0 +1,23 @@
+{
+    "head_word": "מִכְתָּב", 
+    "pos": "noun masculine", 
+    "primary": "writing", 
+    "description": "= handwriting", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= handwriting"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= thing written"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in a title"
+        }
+    ]
+}

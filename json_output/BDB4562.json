@@ -1,0 +1,23 @@
+{
+    "head_word": "מָ֫וֶת", 
+    "pos": "noun masculine", 
+    "primary": "death", 
+    "description": "opposite life", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "opposite life"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "by violence as a penalty"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "state of death or place of death"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁרַת", 
+    "pos": "verb", 
+    "primary": "minister, serve", 
+    "description": "of ministerial service (opposed to menial, עבד)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of ministerial service (opposed to menial, עבד)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "usually of special service in worship"
+        }
+    ]
+}

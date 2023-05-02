@@ -1,0 +1,38 @@
+{
+    "head_word": "זֶה", 
+    "pos": "demonstrative pronoun", 
+    "primary": "this, here", 
+    "description": "standing alone", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "standing alone"
+        }, 
+        {
+            "number": 2, 
+            "primary": "Rarely when it is undetermined", 
+            "description": "In apposition to a substantive"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "More often as predicate"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "It is attached enclitically, almost as an adverb, to certain words, especially interrogative\n    pronouns, to impart, in a manner often not reproducible in English idiom, directness and force, bringing the\n    question or statement made into close relation with the speaker."
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "In poetry, as a relative pronoun"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "With prefixes (in special senses)"
+        }
+    ]
+}

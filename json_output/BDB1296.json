@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּקַשׁ", 
+    "pos": "verb", 
+    "primary": "seek", 
+    "description": "seek to find", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "seek to find"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "seek to secure"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "seek the face"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "exact equivalent or penalty for, accusative of thing"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "accusative of thing"
+        }
+    ]
+}

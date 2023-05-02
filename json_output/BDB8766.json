@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁלשִׁים", 
+    "pos": "noun", 
+    "primary": "thirty", 
+    "description": "before singular noun", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "before singular noun"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as ordinal"
+        }
+    ]
+}

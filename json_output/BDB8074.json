@@ -1,0 +1,38 @@
+{
+    "head_word": "רָצָה", 
+    "pos": "verb", 
+    "primary": "be pleased with, accept favourably", 
+    "description": "of God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "passive of\n        Qal\n2"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "passive of\n        Qal\n4"
+        }
+    ]
+}

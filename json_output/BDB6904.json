@@ -1,0 +1,28 @@
+{
+    "head_word": "צָבָא", 
+    "pos": "noun masculine", 
+    "primary": "army, war, warfare", 
+    "description": "organized for war", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "organized for war"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of Levites in sacred places"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "צְבָאוֺת, in name of ׳\nי as God of war"
+        }
+    ]
+}

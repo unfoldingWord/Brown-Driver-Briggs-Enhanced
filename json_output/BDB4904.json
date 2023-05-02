@@ -1,0 +1,18 @@
+{
+    "head_word": "מָתוֺק", 
+    "pos": "adjective", 
+    "primary": "sweet", 
+    "description": "so = sweetness", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "so = sweetness"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= pleasant"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "כְּלִי", 
+    "pos": "noun masculine", 
+    "primary": "article, utensil, vessel", 
+    "description": "in general, article, object, made of any material, thing\n    , especially thing of value", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in general, article, object, made of any material, thing\n    , especially thing of value"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "implement of hunting and (especially) war, = weapon"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "vessel, receptacle, of various materials and for various purposes"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(boats)"
+        }
+    ]
+}

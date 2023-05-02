@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּכָה", 
+    "pos": "verb", 
+    "primary": "weep, bewail", 
+    "description": "(in grief, humiliation, or joy)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(in grief, humiliation, or joy)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with accusative cognate בְּכִי"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "followed by עַל\nweep upon, i.e. embrace and weep"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "followed by accusative"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "followed by עַל in sense of burden, annoy with weeping"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of penitent weeping"
+        }
+    ]
+}

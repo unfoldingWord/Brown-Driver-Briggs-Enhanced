@@ -1,0 +1,28 @@
+{
+    "head_word": "עַבְדּוֺן", 
+    "pos": "proper name", 
+    "primary": null, 
+    "description": "a judge", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a judge"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Benjamite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "son of Jehiel a Gibeonite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "son of Micah"
+        }
+    ]
+}

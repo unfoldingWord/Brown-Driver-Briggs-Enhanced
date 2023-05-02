@@ -1,0 +1,23 @@
+{
+    "head_word": "אוּלָם", 
+    "pos": "noun masculine", 
+    "primary": "porch", 
+    "description": "in Soloman's temple", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in Soloman's temple"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in Solomon's palace"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in temple of Ezekiel's vision"
+        }
+    ]
+}

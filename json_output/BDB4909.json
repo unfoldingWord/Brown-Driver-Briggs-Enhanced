@@ -1,0 +1,28 @@
+{
+    "head_word": "נָא", 
+    "pos": "particle [of entreaty]", 
+    "primary": "I (we) pray, now", 
+    "description": "(enclitic)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "to the imperative"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "to the perfect"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "to the imperfect"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "joined to conjunctions and interjections"
+        }
+    ]
+}

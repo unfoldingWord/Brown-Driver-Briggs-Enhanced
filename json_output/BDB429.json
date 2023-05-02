@@ -1,0 +1,18 @@
+{
+    "head_word": "אֱלֹהַּ", 
+    "pos": "noun masculine", 
+    "primary": "god, God", 
+    "description": "a heathen god, late usage; כָּלאֱֿלוֺהַּ\n2Chr 32:15\n        ; Dan\n            11:37\nזוּ כחו לאלהו\nwhose power is his god\nHab 1:11; 2Kgs 17:31\n        (but \nQr\n\nאֱלֹהֵי), אשר הביא אֱלוֺהַּ\nבְּיָדוֺ\nwho doth bring God in his hand\nJob 12:6 (\n        Ew\nDi\n\nRVm\n, etc.)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a heathen god, late usage; כָּלאֱֿלוֺהַּ\n2Chr 32:15\n        ; Dan\n            11:37\nזוּ כחו לאלהו\nwhose power is his god\nHab 1:11; 2Kgs 17:31\n        (but \nQr\n\nאֱלֹהֵי), אשר הביא אֱלוֺהַּ\nבְּיָדוֺ\nwho doth bring God in his hand\nJob 12:6 (\n        Ew\nDi\n\nRVm\n, etc.)"
+        }, 
+        {
+            "number": 2, 
+            "primary": "God", 
+            "description": null
+        }
+    ]
+}

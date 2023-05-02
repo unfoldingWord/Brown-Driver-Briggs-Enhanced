@@ -1,0 +1,23 @@
+{
+    "head_word": "פָּדָה", 
+    "pos": "verb", 
+    "primary": "ransom", 
+    "description": "for an assessed price", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "for an assessed price"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "from violence and death"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "God subject (underlying thought of payment)"
+        }
+    ]
+}

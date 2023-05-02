@@ -1,0 +1,58 @@
+{
+    "head_word": "אָסַף", 
+    "pos": "verb", 
+    "primary": "gather, remove", 
+    "description": "reflexive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "reflexive"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "passive of Qal 2"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "passive of Qal 4"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "as substantive"
+        }
+    ]
+}

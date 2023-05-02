@@ -1,0 +1,38 @@
+{
+    "head_word": "פֶּ֫שַׁע", 
+    "pos": "noun masculine", 
+    "primary": "transgression", 
+    "description": "against individuals", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "against individuals"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of nation, against nation"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "against God"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "guilt of transgression"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "punishment for transgression"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "offering for transgression"
+        }
+    ]
+}

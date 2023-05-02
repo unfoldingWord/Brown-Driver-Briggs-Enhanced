@@ -1,0 +1,53 @@
+{
+    "head_word": "עַד", 
+    "pos": "preposition", 
+    "primary": "as far as, even to, up to, until, while", 
+    "description": "of space", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "with the goal a", 
+            "description": "of space"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Of time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Of degree, to suggest a higher or the highest"
+        }, 
+        {
+            "number": 4, 
+            "primary": "after a negative clause", 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Of degree"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "of space"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "Of time"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "Of degree"
+        }
+    ]
+}

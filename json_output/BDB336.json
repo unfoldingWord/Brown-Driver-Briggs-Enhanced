@@ -1,0 +1,43 @@
+{
+    "head_word": "אַחַר", 
+    "pos": "adverb", 
+    "primary": "behind", 
+    "description": "of place", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "behind", 
+            "description": "of place"
+        }, 
+        {
+            "number": 2, 
+            "primary": "behind, after", 
+            "description": "of place"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": "hinder part", 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": "behind, after", 
+            "description": "of place"
+        }, 
+        {
+            "number": 6, 
+            "primary": "after that", 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "with other prepositions"
+        }
+    ]
+}

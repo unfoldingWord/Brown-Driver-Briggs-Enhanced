@@ -1,0 +1,33 @@
+{
+    "head_word": "מוֺשָׁב", 
+    "pos": "noun masculine", 
+    "primary": "seat, assembly, dwelling-place, dwelling, dwellers", 
+    "description": "= those sitting, sitting company or assembly", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= those sitting, sitting company or assembly"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of people tribe, etc., often= terriotory, district, or later, city"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "time of dwelling"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "collective = those dwelling"
+        }
+    ]
+}

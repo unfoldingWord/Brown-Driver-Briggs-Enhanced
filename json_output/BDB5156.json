@@ -1,0 +1,38 @@
+{
+    "head_word": "מַטֶּה", 
+    "pos": "noun masculine", 
+    "primary": "staff, rod, shaft", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "staff, rod, shaft", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "branch", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "tribe", 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": "used in beating out", 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

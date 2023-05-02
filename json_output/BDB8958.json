@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁפָט", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of Elisha", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of Elisha"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "prince of Simeon"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "grandson of Zerubbabel"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Gaddite chief"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "herdsman of David"
+        }
+    ]
+}

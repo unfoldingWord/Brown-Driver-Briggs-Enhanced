@@ -1,0 +1,33 @@
+{
+    "head_word": "חֵ֫רֶם", 
+    "pos": "noun masculine", 
+    "primary": "devoted thing", 
+    "description": "thing hostile to theocracy, and therefore (in the strictest application) to be either destroyed,\n    or, in the case of certain objects (e.g. silver and gold, vessels of brass and iron Josh 6:19; Josh 6:24), set apart to sacred uses", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "devoted thing", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "devotion, ban", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "thing hostile to theocracy, and therefore (in the strictest application) to be either destroyed,\n    or, in the case of certain objects (e.g. silver and gold, vessels of brass and iron Josh 6:19; Josh 6:24), set apart to sacred uses"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "apparently"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "involving destruction"
+        }
+    ]
+}

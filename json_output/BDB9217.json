@@ -1,0 +1,48 @@
+{
+    "head_word": "תָּעָה", 
+    "pos": "verb", 
+    "primary": "err", 
+    "description": "physically", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "physically"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of intoxication"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ethically"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "as a drunkard"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "ethically"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "physically"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "of intoxication"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "mentally and morally"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "תְּרוּמָה", 
+    "pos": "noun feminine", 
+    "primary": "contribution, offering", 
+    "description": "for sacred uses", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "earliest use: contribution of products of soil for ׳\nי"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "contribution for prince, in Ezekiel's scheme"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "tract of land to be set apart for temple, and for use of priests and Levites, in Ezekiel's scheme"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "contribution to ׳\nי, set apart for priests"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "materials for tabernacle, sacred garments, etc."
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "half-shekel for maintaining service of sanctuary"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "in general"
+        }
+    ]
+}

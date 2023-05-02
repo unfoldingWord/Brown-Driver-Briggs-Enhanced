@@ -1,0 +1,48 @@
+{
+    "head_word": "נָתָן", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a son of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a son of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "the prophet of David's time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "father of one of David's heroes"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "father of officers of Solomon"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "name in Judah"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "companion of Ezra from Babylon"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "one of those who took strange wives"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "head of a family"
+        }
+    ]
+}

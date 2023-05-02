@@ -1,0 +1,33 @@
+{
+    "head_word": "שַׁבָּת", 
+    "pos": "noun feminine", 
+    "primary": "Sabbath", 
+    "description": "day of atonement is a שַׁבַּת שַׁבָּתוֺן", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "day of atonement is a שַׁבַּת שַׁבָּתוֺן"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= week(?)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= produce in sabbath year (growing of itself)"
+        }
+    ]
+}

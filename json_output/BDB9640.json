@@ -1,0 +1,18 @@
+{
+    "head_word": "לָהֵן", 
+    "pos": "conjunction", 
+    "primary": "except, but", 
+    "description": "after a negative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "after a negative"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "without a negative"
+        }
+    ]
+}

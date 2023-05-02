@@ -1,0 +1,88 @@
+{
+    "head_word": "יְהוֺנָתָן", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of Saul", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Saul"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "son of Abiathar"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "nephew of David"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "דּוֺד of David, i.e. his uncle?"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "one of David's heroes"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "one of David's treasurers"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "a scribe"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "a priest"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "priest to the tribe of Dan, son of Gershom"
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": "a Judaite captain, after fall of Jerusalem"
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": "a Judaite"
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": "father of Ebed"
+        }, 
+        {
+            "number": 14, 
+            "primary": null, 
+            "description": "son of Asahel"
+        }, 
+        {
+            "number": 15, 
+            "primary": null, 
+            "description": "a priest"
+        }, 
+        {
+            "number": 16, 
+            "primary": null, 
+            "description": "a son of Joiada"
+        }
+    ]
+}

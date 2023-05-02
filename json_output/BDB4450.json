@@ -1,0 +1,108 @@
+{
+    "head_word": "לָקַח", 
+    "pos": "verb", 
+    "primary": "take", 
+    "description": "take, take in the hand", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "take, take in the hand"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "take and carry along with oneself"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "take from, or out of"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "take to or for a person"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "take up, upon =put upon"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= fetch:"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "= lead, conduct (with or without contact)"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "= capture, seize"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "= carry off"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "in phrase take vengeance"
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 14, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 15, 
+            "primary": null, 
+            "description": "= be stolen from"
+        }, 
+        {
+            "number": 16, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 17, 
+            "primary": "of Elijah's translation", 
+            "description": "( =\n        Niph`al\n2 )"
+        }, 
+        {
+            "number": 18, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 19, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 20, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

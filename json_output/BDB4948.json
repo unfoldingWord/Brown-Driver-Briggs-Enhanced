@@ -1,0 +1,28 @@
+{
+    "head_word": "נֵ֫בֶל", 
+    "pos": "noun masculine", 
+    "primary": "skin-bottle, skin", 
+    "description": "skin of wine", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "skin-bottle, skin", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "jar, pitcher", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "skin of wine"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "earthen jar, pitcher"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "שֶׁבַע", 
+    "pos": "noun masculine", 
+    "primary": "seven", 
+    "description": "without other number", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "without other number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "שְׁבַע עֶשְׂרֵה שָׁנָה 17 years"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "שְׁבַע מֵאוֺת = 700"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "שִׁבְעָה אֶלֶף = 7000"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "׳\nשׁ + other number"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "head_word": "אֲשֶׁר", 
+    "pos": "conjunction", 
+    "primary": "particle of relation", 
+    "description": "A sign of\n            relation,\n        bringing the clause introduced by it into relation with an antecedent clause. As a rule אֲשֶׁר\n        is a\n        mere connecting link, and requires to be supplemented (see the grammars) by a pronominal\n        affix, or other\n        word, such as שָׁם, defining the nature of the relation more precisely", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "it includes its pronominal antecedent, whether in the nominative or oblique cases"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "instances of אֲשֶׁר followed by a pronominal affix, or by שָׁם,\n        שָֽׁמָּה, מִשָּׁם, are so common that the examples cited above will be\n        sufficient"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "sometimes (though rarely) the defining adjunct is a pronoun of 1 or 2 person as well as of 3\n        person. In such cases it is strictly to be rendered I who . . ., thou who, etc."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "the defining pronominal adjunct is dispensed with"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "sometimes in poetry = one who, a man who (men who\n        )"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "occasionally receives its closer definition by a substantive following\n         it, in other words, its logical antecedent is inserted in the relative clause"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "׳\nאֲשֶׁר ל\nthat (belongs, belong, belonged) to, is used"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "אֲשֶׁר becomes, like Aramaic דּי,\n        , a conjunction approximating in usage to\n        כִּי"
+        }
+    ]
+}

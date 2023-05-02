@@ -1,0 +1,43 @@
+{
+    "head_word": "אֲדָמָה", 
+    "pos": "noun feminine", 
+    "primary": "ground, land", 
+    "description": "piece of ground, landed property", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "piece of ground, landed property"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "earth as material substance"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "ground as earth's visible surface"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "whole earth, inhabited earth"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "city in Naphtali"
+        }
+    ]
+}

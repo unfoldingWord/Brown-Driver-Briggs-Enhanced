@@ -1,0 +1,53 @@
+{
+    "head_word": "בֵּן", 
+    "pos": "noun masculine", 
+    "primary": "son", 
+    "description": "male child, born of a woman", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "male child, born of a woman"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(male and female)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of animals"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of plant-shoots"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of lifeless things"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "member of a guild, order or class"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "as relative noun followed by word of quality, characteristic, etc."
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "noun relative of age"
+        }
+    ]
+}

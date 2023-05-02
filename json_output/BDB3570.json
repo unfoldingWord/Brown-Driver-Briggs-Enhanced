@@ -1,0 +1,28 @@
+{
+    "head_word": "יָמִין", 
+    "pos": "noun feminine", 
+    "primary": "right hand", 
+    "description": "of situation on, or direction toward, the right", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of situation on, or direction toward, the right"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of other parts of the body, besides hand (see יַדיֿמינו etc. above)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= south, because when facing east the right hand is toward the south"
+        }
+    ]
+}

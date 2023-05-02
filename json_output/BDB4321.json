@@ -1,0 +1,28 @@
+{
+    "head_word": "לָבֵשׁ", 
+    "pos": "verb", 
+    "primary": "put on (a garment), wear, clothe, be clothed", 
+    "description": "literally  put on  (one's own) garment (accusative)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally  put on  (one's own) garment (accusative)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "usually with double accusative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with accusative garment only"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with accusative of person only"
+        }
+    ]
+}

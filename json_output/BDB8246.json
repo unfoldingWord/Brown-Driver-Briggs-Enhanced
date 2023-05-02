@@ -1,0 +1,23 @@
+{
+    "head_word": "שָׂכָר", 
+    "pos": "noun masculine", 
+    "primary": "hire, wages", 
+    "description": "only singular, not with article", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= reward, for work done, faithfulness, etc."
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

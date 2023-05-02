@@ -1,0 +1,38 @@
+{
+    "head_word": "פֶּה", 
+    "pos": "noun masculine", 
+    "primary": "mouth", 
+    "description": "of man, organ of eating and drinking", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of man, organ of eating and drinking"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "much oftener, as organ of speech, of man"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of animals"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= opening, orifice"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= portion"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "with prepositions"
+        }
+    ]
+}

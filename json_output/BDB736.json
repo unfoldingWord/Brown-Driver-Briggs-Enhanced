@@ -1,0 +1,33 @@
+{
+    "head_word": "אֲרִיאֵל", 
+    "pos": "proper name, feminine", 
+    "primary": "Ariel", 
+    "description": "name applied to Jerusalem", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Ariel", 
+            "description": "name applied to Jerusalem"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a chief man among returning exiles"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "read\n    two sons of Ariel of Moab"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "see below אֲרִיאֵיל"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

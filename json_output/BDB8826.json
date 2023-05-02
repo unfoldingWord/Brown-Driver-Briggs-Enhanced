@@ -1,0 +1,28 @@
+{
+    "head_word": "שִׁמְעָא", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "brother of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "brother of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "son of David"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Levites"
+        }
+    ]
+}

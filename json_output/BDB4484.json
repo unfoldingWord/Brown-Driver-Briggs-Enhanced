@@ -1,0 +1,23 @@
+{
+    "head_word": "מֵאָה", 
+    "pos": "noun feminine", 
+    "primary": "hundred", 
+    "description": "as simple number", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "below", 
+            "description": "as simple number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as part of larger number"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= a hundredth part of the money; but read quite\n    possibly מַשַּׁאת\nthe debt"
+        }
+    ]
+}

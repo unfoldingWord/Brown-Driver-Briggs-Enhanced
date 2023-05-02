@@ -1,0 +1,28 @@
+{
+    "head_word": "שִׁית", 
+    "pos": "verb", 
+    "primary": "put, set", 
+    "description": "set one's mind to, give heed, attention (compare\n            שׂוּם\n2.b.)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "set one's mind to, give heed, attention (compare\n            שׂוּם\n2.b.)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "internally transitive, = take one's stand (compare שִׂים\n        \n4.a.)"
+        }
+    ]
+}

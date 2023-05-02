@@ -1,0 +1,18 @@
+{
+    "head_word": "עָרַךְ", 
+    "pos": "verb", 
+    "primary": "arrange or set in order", 
+    "description": "arrange a table (i.e. dishes\n            in order upon it)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "not found", 
+            "description": "arrange a table (i.e. dishes\n            in order upon it)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(as result of arranging in order)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "אוּרִי", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "prince of Judah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "prince of Judah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a porter"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "father of an officer of Solomon"
+        }
+    ]
+}

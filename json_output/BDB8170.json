@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׂדַי", 
+    "pos": "noun masculine", 
+    "primary": "field, land", 
+    "description": "cultivated field", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "cultivated field"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "home of wild beasts"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "plain, opposite mountain"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "opposed to sea"
+        }
+    ]
+}

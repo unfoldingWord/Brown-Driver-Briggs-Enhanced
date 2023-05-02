@@ -1,0 +1,18 @@
+{
+    "head_word": "אֲבָל", 
+    "pos": "adverb", 
+    "primary": "verily, of a truth", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "verily, of a truth", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "howbeit, but", 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "יָחִיד", 
+    "pos": "adjective", 
+    "primary": "only one, solitary", 
+    "description": "especially of an only son", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "especially of an only son"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as substantive"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

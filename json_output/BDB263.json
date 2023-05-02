@@ -1,0 +1,23 @@
+{
+    "head_word": "אֹ֫זֶן", 
+    "pos": "noun feminine", 
+    "primary": "ear", 
+    "description": "ear, as part of body", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "ear, as part of body"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "especially as organ of hearing"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

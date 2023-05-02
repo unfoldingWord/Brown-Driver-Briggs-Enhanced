@@ -1,0 +1,68 @@
+{
+    "head_word": "זְכַרְיָהוּ", 
+    "pos": "proper name, masculine", 
+    "primary": "the well-known prophet", 
+    "description": "king of Israel, son of Jeroboam II", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Israel, son of Jeroboam II"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "father of Hezekiah's mother"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "contemporary of Isaiah"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Reubenite"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a Benjamite"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "a Manassite"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "a son of Jehoshaphat"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "a captain of Jehoshaphat"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "teacher of Uzziah"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 11, 
+            "primary": "the well-known prophet", 
+            "description": "priests"
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": "returned exiles"
+        }
+    ]
+}

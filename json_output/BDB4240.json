@@ -1,0 +1,33 @@
+{
+    "head_word": "כְּתָב", 
+    "pos": "noun masculine", 
+    "primary": "writing", 
+    "description": "= mode of writing, character, letter", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= mode of writing, character, letter"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= letter"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of a royal enactment, edict"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of a writing with divine authority"
+        }
+    ]
+}

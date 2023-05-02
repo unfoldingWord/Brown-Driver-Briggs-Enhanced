@@ -1,0 +1,18 @@
+{
+    "head_word": "מַחֲבַת", 
+    "pos": "noun feminine", 
+    "primary": "flat plate, pan, or griddle", 
+    "description": "flat plate, pan, or griddle for baking", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "used in preparing the (baken) mincha"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a plate of iron, signifying an iron wall"
+        }
+    ]
+}

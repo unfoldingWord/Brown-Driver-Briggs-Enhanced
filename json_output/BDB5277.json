@@ -1,0 +1,28 @@
+{
+    "head_word": "נַ֫עַר", 
+    "pos": "noun masculine", 
+    "primary": "boy, lad, youth", 
+    "description": "of infant", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "boy, lad, youth", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "retainer", 
+            "description": "of infant"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of infant"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= personal attendant, household servant"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "head_word": "גָּדוֺל", 
+    "pos": "adjective", 
+    "primary": "great", 
+    "description": "in magnitude and extent", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in magnitude and extent"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in number"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in intensity"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in sound, loud"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in age"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "in importance"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "in phrases"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "construct"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "as substantive concrete"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "as substantive neuter"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "קוֺל", 
+    "pos": "noun masculine", 
+    "primary": "sound, voice", 
+    "description": "especially", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "especially"
+        }, 
+        {
+            "number": 2, 
+            "primary": "millstones", 
+            "description": "of instrument"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of articulate speech, thing said"
+        }
+    ]
+}

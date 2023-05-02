@@ -1,0 +1,48 @@
+{
+    "head_word": "יָרַד", 
+    "pos": "verb", 
+    "primary": "come or go down, descend", 
+    "description": "of divine manifestations", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "from altar", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of divine manifestations"
+        }, 
+        {
+            "number": 3, 
+            "primary": "of boundary", 
+            "description": "of inanimate things"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= lay prostrate, prostrate"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

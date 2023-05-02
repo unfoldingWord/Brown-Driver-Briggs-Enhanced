@@ -1,0 +1,18 @@
+{
+    "head_word": "אֵיךְ", 
+    "pos": "adverb", 
+    "primary": "How?", 
+    "description": "as an exclamation", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "How?", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "How!", 
+            "description": "as an exclamation"
+        }
+    ]
+}

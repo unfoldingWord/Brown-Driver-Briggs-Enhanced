@@ -1,0 +1,28 @@
+{
+    "head_word": "בָּנָה", 
+    "pos": "verb", 
+    "primary": "build", 
+    "description": "(literal)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(literal)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(figurative)"
+        }
+    ]
+}

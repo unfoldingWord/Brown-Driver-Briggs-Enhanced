@@ -1,0 +1,23 @@
+{
+    "head_word": "חָכָה", 
+    "pos": "verb", 
+    "primary": "wait, await", 
+    "description": "(in ambush)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(in ambush)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

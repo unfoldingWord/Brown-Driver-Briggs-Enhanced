@@ -1,0 +1,23 @@
+{
+    "head_word": "כָּתֵף", 
+    "pos": "noun feminine", 
+    "primary": "shoulder, shoulder-blade, side", 
+    "description": "of man", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of man"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of mountain"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of the bases for the lavers beside the temple"
+        }
+    ]
+}

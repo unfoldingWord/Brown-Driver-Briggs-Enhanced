@@ -1,0 +1,18 @@
+{
+    "head_word": "נְבוּאָה", 
+    "pos": "noun masculine", 
+    "primary": "prophecy", 
+    "description": "specific and genuine", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "specific and genuine"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "prophetic writing"
+        }
+    ]
+}

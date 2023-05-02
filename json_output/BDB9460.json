@@ -1,0 +1,23 @@
+{
+    "head_word": "דָּת", 
+    "pos": "noun feminine", 
+    "primary": "decree, law", 
+    "description": "of king", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of king"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "unchangeable law of Medes and Persians"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of God (in mouth of non-Jews)"
+        }
+    ]
+}

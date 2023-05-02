@@ -1,0 +1,28 @@
+{
+    "head_word": "מָקוֺר", 
+    "pos": "noun masculine", 
+    "primary": "spring, fountain", 
+    "description": "(apparently originally well)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of water"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative of eye"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of menstruous blood"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= flow of blood"
+        }
+    ]
+}

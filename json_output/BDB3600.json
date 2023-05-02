@@ -1,0 +1,33 @@
+{
+    "head_word": "יוֺסֵף", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "elder son of Jacob and Rachel", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "elder son of Jacob and Rachel"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a man of Issachar"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a son of Asaph"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "one of those who took strange wives"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a priest"
+        }
+    ]
+}

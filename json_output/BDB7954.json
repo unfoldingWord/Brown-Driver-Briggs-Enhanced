@@ -1,0 +1,23 @@
+{
+    "head_word": "רִמּוֺן", 
+    "pos": "noun masculine", 
+    "primary": "pomegranate", 
+    "description": "tree", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "tree"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "fruit"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ornaments in temple, shaped like pomegranates"
+        }
+    ]
+}

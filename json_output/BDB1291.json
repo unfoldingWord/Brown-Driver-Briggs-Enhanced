@@ -1,0 +1,18 @@
+{
+    "head_word": "בָּקָר", 
+    "pos": "noun masculine", 
+    "primary": "cattle, herd, ox", 
+    "description": "mostly collective", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "mostly collective"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "more individually, head of cattle, — yet always of more than one"
+        }
+    ]
+}

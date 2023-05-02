@@ -1,0 +1,33 @@
+{
+    "head_word": "יְרֵימוֺת", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "Benjamites", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Benjamites"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "id. Naphtalite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "id. son of David and father of Rehoboam's wife"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "men who had strange wives"
+        }
+    ]
+}

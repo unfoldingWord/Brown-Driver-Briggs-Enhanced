@@ -1,0 +1,23 @@
+{
+    "head_word": "מֶמְשָׁלָה", 
+    "pos": "noun feminine", 
+    "primary": "rule, dominion, realm", 
+    "description": "(human)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(human)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of heavenly bodies"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "God's rule, dominion:"
+        }
+    ]
+}

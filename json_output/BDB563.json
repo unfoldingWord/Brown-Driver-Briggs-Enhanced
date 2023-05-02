@@ -1,0 +1,33 @@
+{
+    "head_word": "אִמֵּר", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a priest assigned to David's time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a priest assigned to David's time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "ancestor of priest"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "priest in Jeremiah's time"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "father of Zadok"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(?)"
+        }
+    ]
+}

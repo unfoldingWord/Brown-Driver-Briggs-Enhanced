@@ -1,0 +1,23 @@
+{
+    "head_word": "לוּחַ", 
+    "pos": "noun masculine", 
+    "primary": "tablet, board or plank, plate", 
+    "description": "chiefly of stone tablets on which ten words were written", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "chiefly of stone tablets on which ten words were written"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "wooden"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(metal) plates on bases of lavers in Solomon's temple"
+        }
+    ]
+}

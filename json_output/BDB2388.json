@@ -1,0 +1,23 @@
+{
+    "head_word": "זִמְרָה", 
+    "pos": "noun feminine", 
+    "primary": "melody, song", 
+    "description": "in praise of ׳\nי", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of instrumental music"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of singing"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "not clearly determined"
+        }
+    ]
+}

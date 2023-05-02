@@ -1,0 +1,18 @@
+{
+    "head_word": "נָוֶה", 
+    "pos": "noun masculine", 
+    "primary": "abode of shepherd, or flocks", 
+    "description": "in poetry habitation", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of sheep"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "usually of country, or of domains in the country (chiefly in poetry)"
+        }
+    ]
+}

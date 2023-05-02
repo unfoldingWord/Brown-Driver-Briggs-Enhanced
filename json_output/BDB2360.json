@@ -1,0 +1,43 @@
+{
+    "head_word": "זִכְרִי", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a Reubenite", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a Reubenite"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Judahite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a priest"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Benjamites"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "father of a captain in Jehoiada's time"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "mighty man of Ephraim"
+        }
+    ]
+}

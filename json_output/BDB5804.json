@@ -1,0 +1,33 @@
+{
+    "head_word": "עִדּוֺ", 
+    "pos": "proper name, masculine", 
+    "primary": "Iddo", 
+    "description": "father of an officer of Solomon", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of an officer of Solomon"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "grandfather of prophet Zechariah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a Levite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a priestly name"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a seer"
+        }
+    ]
+}

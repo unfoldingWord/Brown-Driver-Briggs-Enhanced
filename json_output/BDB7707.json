@@ -1,0 +1,28 @@
+{
+    "head_word": "רָבָה", 
+    "pos": "verb", 
+    "primary": "be, or become, much, many, great", 
+    "description": "of people", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of people"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "object person (or a people)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

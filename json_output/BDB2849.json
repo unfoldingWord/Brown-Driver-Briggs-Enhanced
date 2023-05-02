@@ -1,0 +1,23 @@
+{
+    "head_word": "חוֺמָה", 
+    "pos": "noun feminine", 
+    "primary": "wall", 
+    "description": "usually term for wall of city", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "usually term for wall of city"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of a building"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative"
+        }
+    ]
+}

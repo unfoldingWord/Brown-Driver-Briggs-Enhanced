@@ -1,0 +1,28 @@
+{
+    "head_word": "נָדָב", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "eldest son of Aaron", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "eldest son of Aaron"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "son of Jeroboam I"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a Jerahmeelite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Gibeonite"
+        }
+    ]
+}

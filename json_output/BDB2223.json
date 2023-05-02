@@ -1,0 +1,53 @@
+{
+    "head_word": "הָרַג", 
+    "pos": "verb", 
+    "primary": "kill, slay", 
+    "description": "implying ruthless violence, especially private violence", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "implying ruthless violence, especially private violence"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of God's slaying in judgment (stern and inscrutable)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "rarely of judicial killing by men (at God's command)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of killing beasts"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of killing by beasts"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "quite general"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "passive of\n        Qal\n1.a."
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "passive of\n        Qal\n1.b."
+        }
+    ]
+}

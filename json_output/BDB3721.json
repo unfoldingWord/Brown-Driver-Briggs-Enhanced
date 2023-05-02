@@ -1,0 +1,53 @@
+{
+    "head_word": "יָרָה", 
+    "pos": "verb", 
+    "primary": "throw, shoot", 
+    "description": "(with arrows)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "shoot (arrows)"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

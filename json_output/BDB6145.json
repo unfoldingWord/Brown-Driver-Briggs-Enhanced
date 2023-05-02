@@ -1,0 +1,33 @@
+{
+    "head_word": "עִם", 
+    "pos": "preposition", 
+    "primary": "with", 
+    "description": "of fellowship and companionship", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of fellowship and companionship"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Of a locality"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Of persons, עִם is specifically"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Idiomatic of a thought or purpose present\n            with one"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Metaphor\n            together with = in spite of, notwithstanding"
+        }
+    ]
+}

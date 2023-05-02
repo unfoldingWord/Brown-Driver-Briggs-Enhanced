@@ -1,0 +1,18 @@
+{
+    "head_word": "מִתְרְדָת", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "name of two Persians", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Cyrus' time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Artaxerxes' time"
+        }
+    ]
+}

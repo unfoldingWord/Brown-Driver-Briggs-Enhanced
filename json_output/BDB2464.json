@@ -1,0 +1,33 @@
+{
+    "head_word": "זֶ֫רַע", 
+    "pos": "noun masculine", 
+    "primary": "sowing, seed, offspring", 
+    "description": "literal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= semen virile"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= offspring:"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "as marked by moral quality = persons (or community) of such a quality"
+        }
+    ]
+}

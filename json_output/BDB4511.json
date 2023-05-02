@@ -1,0 +1,23 @@
+{
+    "head_word": "מַד", 
+    "pos": "noun masculine", 
+    "primary": "measure", 
+    "description": "also cloth garment (as extended, wide)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(only plural) = apportionment"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "perhaps cloth, carpet (for sitting on)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

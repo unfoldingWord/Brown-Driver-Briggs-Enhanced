@@ -1,0 +1,23 @@
+{
+    "head_word": "הֵן", 
+    "pos": "conjunction", 
+    "primary": "if, whether", 
+    "description": "repeated", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "repeated"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in indirect question"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "חֲנָנִי", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "(perhaps abbreviated from following)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of the prophet Jehu"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "brother of Nehemiah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a chief musician of David"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a chief musician in time of Nehemiah"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a priest of Ezra's time"
+        }
+    ]
+}

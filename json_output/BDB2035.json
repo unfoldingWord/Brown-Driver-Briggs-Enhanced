@@ -1,0 +1,23 @@
+{
+    "head_word": "הַּ", 
+    "pos": "definite\n        article", 
+    "primary": "the", 
+    "description": "joined with substantives", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "joined with substantives"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "With adjectives, participles, and demonstrative pronouns"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "The article is prefixed exceptionally — mostly in the latest Hebrew — with the force of a\n    relative\n    to the verb"
+        }
+    ]
+}

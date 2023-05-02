@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁחָה", 
+    "pos": "noun", 
+    "primary": "ointment", 
+    "description": "the holy oil used in the consecration of the Aaronic priests", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "ointment", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "consecrated portion", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "the holy oil used in the consecration of the Aaronic priests"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "טֶ֫פַח", 
+    "pos": "noun [masculine]", 
+    "primary": "a span, hand-breadth", 
+    "description": "architectural term, perhaps coping", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "a span, hand-breadth", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "coping", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "architectural term, perhaps coping"
+        }
+    ]
+}

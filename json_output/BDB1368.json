@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּשָׂר", 
+    "pos": "noun masculine", 
+    "primary": "flesh", 
+    "description": "of the body", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of the body"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "flesh for the body itself"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "male organ of generation (euphemism)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "flesh for kindred, blood-relations"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "man over against God as frail or erring"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "the phrase ׃כָּלבָּֿשָׂר"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "אֱדוֺם", 
+    "pos": "proper name, masculine", 
+    "primary": "Edom", 
+    "description": "Esau, elder son of\n    Isaac", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Edom", 
+            "description": "Esau, elder son of\n    Isaac"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Edomites, Idumeans as descendants of Esau"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

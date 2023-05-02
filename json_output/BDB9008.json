@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁקַל", 
+    "pos": "verb", 
+    "primary": "weigh", 
+    "description": "a price (i.e. pay)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a price (i.e. pay)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

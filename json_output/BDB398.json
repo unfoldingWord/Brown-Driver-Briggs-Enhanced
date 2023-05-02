@@ -1,0 +1,63 @@
+{
+    "head_word": "אָכַל", 
+    "pos": "verb", 
+    "primary": "eat", 
+    "description": "figurative of fire,", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative of fire,"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of sword"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in general"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "figurative of oppression"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

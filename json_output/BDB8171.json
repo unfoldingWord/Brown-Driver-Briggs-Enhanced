@@ -1,0 +1,23 @@
+{
+    "head_word": "שָׂדֶה", 
+    "pos": "noun masculine", 
+    "primary": "id.", 
+    "description": "open field, country", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "open field, country"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "definite portion of ground"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "opposed to sea"
+        }
+    ]
+}

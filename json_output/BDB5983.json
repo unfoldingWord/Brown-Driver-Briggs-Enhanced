@@ -1,0 +1,18 @@
+{
+    "head_word": "עֲזָרָה", 
+    "pos": "noun feminine", 
+    "primary": "enclosure", 
+    "description": "apparently", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "ledge surrounding Ezekiel's altar"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "outer court of temple"
+        }
+    ]
+}

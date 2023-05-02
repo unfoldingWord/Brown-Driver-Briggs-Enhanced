@@ -1,0 +1,18 @@
+{
+    "head_word": "אֶשְׁכּוֺל", 
+    "pos": "noun\n        masculine", 
+    "primary": "cluster", 
+    "description": "cluster of grapes", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "cluster of grapes"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "cluster of henna-flowers"
+        }
+    ]
+}

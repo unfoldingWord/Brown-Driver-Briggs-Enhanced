@@ -1,0 +1,28 @@
+{
+    "head_word": "עָתִיד", 
+    "pos": "adjective", 
+    "primary": "ready, prepared", 
+    "description": "= skilled", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= skilled"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= impending"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= stored up"
+        }
+    ]
+}

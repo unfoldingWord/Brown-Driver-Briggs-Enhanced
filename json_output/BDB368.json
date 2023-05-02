@@ -1,0 +1,18 @@
+{
+    "head_word": "אֵיפֹה", 
+    "pos": "adverb", 
+    "primary": "where?", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "where?", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "of what kind?", 
+            "description": null
+        }
+    ]
+}

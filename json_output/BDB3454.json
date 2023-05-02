@@ -1,0 +1,53 @@
+{
+    "head_word": "יָדַע", 
+    "pos": null, 
+    "primary": "know", 
+    "description": "|| ראה", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "|| ראה"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "know a person, be acquainted with"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "know a person carnally, of sexual intercourse"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "know how to do a thing, be able to do it"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "(passive of\n        Qal), of perception by the eye"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "(passive of\n        Hiph`il)"
+        }
+    ]
+}

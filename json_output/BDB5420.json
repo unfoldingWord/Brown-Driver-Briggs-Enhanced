@@ -1,0 +1,38 @@
+{
+    "head_word": "נָשַׁל", 
+    "pos": "verb", 
+    "primary": "slip or drop off", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "slip or drop off", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "draw off", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "clear away", 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

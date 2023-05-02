@@ -1,0 +1,33 @@
+{
+    "head_word": "חֵ֫לֶק", 
+    "pos": "noun masculine", 
+    "primary": "portion, tract, territory", 
+    "description": "of land", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of land"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "i.e. (acquired) possession:"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "chosen portion, habitual mode of life"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

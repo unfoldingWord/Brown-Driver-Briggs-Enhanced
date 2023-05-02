@@ -1,0 +1,18 @@
+{
+    "head_word": "בַּד", 
+    "pos": "noun masculine", 
+    "primary": "separation", 
+    "description": "with לְ, only in singular, לְבַד", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "with לְ, only in singular, לְבַד"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "concrete"
+        }
+    ]
+}

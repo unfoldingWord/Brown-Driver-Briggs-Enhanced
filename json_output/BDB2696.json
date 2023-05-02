@@ -1,0 +1,28 @@
+{
+    "head_word": "חַטָּא", 
+    "pos": "adjective", 
+    "primary": "sinful", 
+    "description": "exposed to condemnation, reckoned as offenders", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "sinful", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "sinners", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "exposed to condemnation, reckoned as offenders"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

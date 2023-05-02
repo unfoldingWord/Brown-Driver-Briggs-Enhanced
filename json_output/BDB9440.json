@@ -1,0 +1,28 @@
+{
+    "head_word": "דִּי", 
+    "pos": "particle [of relation]", 
+    "primary": "who, which, that", 
+    "description": "particle [of relation], who, which, that, used also as mark of genitive\n    and\n    conjunction\nthat, because", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as rel."
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as mark of the genitive"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as conjunction (compare אֲשֶׁר\n8)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with prepositions and other prefixes"
+        }
+    ]
+}

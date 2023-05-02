@@ -1,0 +1,38 @@
+{
+    "head_word": "מֵעֶה", 
+    "pos": "noun masculine", 
+    "primary": "internal organs, inward parts (intestines, bowels), belly", 
+    "description": "literally", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "source of procreation"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= womb"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in general ="
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= seat of emotions"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "the external belly"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "כָּלָה", 
+    "pos": "verb", 
+    "primary": "be complete, at an end, finished, accomplished, spent", 
+    "description": "be ideally complete, be determined\n            , always in bad sense, plotted", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "be ideally complete, be determined\n            , always in bad sense, plotted"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(properly come to an end)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "complete, bring to an end, finish a thing, task, work, etc."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

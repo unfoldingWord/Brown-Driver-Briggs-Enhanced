@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁנַ֫יִם", 
+    "pos": "noun masculine and feminine\n        dual", 
+    "primary": "two", 
+    "description": "no other number", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "no other number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "twelve"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with larger number"
+        }
+    ]
+}

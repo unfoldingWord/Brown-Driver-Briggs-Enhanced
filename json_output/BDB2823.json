@@ -1,0 +1,23 @@
+{
+    "head_word": "חָלָק", 
+    "pos": "adjective", 
+    "primary": "smooth", 
+    "description": "literal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as substantive = flattery"
+        }
+    ]
+}

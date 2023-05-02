@@ -1,0 +1,23 @@
+{
+    "head_word": "כְּ", 
+    "pos": null, 
+    "primary": "the like of, like, as", 
+    "description": "properly\n    substantive\n    the like of, like, as", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "quantitatively"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "repeated, כְּכְּ֗֗֗, to signify the completeness of the correspondency\n    between\n    two objects (peculiar to Hebrew)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "before an infinitive"
+        }
+    ]
+}

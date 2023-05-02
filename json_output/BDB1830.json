@@ -1,0 +1,28 @@
+{
+    "head_word": "מִדְבָּר", 
+    "pos": "noun masculine", 
+    "primary": "wilderness", 
+    "description": "tracts of land, used for the pasturage of flocks and herds", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "tracts of land, used for the pasturage of flocks and herds"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "uninhabited land"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "large tracts of such land bearing various names, in certain districts of which there might be\n        towns and cities"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "figurative"
+        }
+    ]
+}

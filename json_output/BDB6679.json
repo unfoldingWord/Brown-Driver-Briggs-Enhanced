@@ -1,0 +1,28 @@
+{
+    "head_word": "פָּנָה", 
+    "pos": "verb", 
+    "primary": "turn", 
+    "description": "turn toward", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "turn toward"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of inanimate things"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

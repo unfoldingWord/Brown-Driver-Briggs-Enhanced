@@ -1,0 +1,28 @@
+{
+    "head_word": "אוֺפִיר", 
+    "pos": "proper name", 
+    "primary": "Ophir", 
+    "description": "11th son of Joktan", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "11th son of Joktan"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "place whither Solomon's ships went from Ezion Geber, bringing thence gold"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "characteristic of fine gold"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "hence for fine gold itself"
+        }
+    ]
+}

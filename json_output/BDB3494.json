@@ -1,0 +1,43 @@
+{
+    "head_word": "יוֺם", 
+    "pos": "noun masculine", 
+    "primary": "day", 
+    "description": "opposed to night", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "opposed to night"
+        }, 
+        {
+            "number": 2, 
+            "primary": "are combined", 
+            "description": "as division of time"
+        }, 
+        {
+            "number": 3, 
+            "primary": "are combined", 
+            "description": "day of Yahweh, chiefly as time of his coming in judgment, involving often blessedness for\n    righteous"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Plural days of any one"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= time"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "Phrases, without preposition and with, are"
+        }
+    ]
+}

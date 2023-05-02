@@ -1,0 +1,38 @@
+{
+    "head_word": "מַלְכִּיָּהוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of Pashhur", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of Pashhur"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a prince"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "priests"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "one of the sealed"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a Levite"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "various men"
+        }
+    ]
+}

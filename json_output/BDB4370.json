@@ -1,0 +1,33 @@
+{
+    "head_word": "לֵוִי", 
+    "pos": "adjective [of a people]", 
+    "primary": "Levite", 
+    "description": "singular of individual", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "singular of individual"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with article הַלֵּוִי as substantive collective"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "always = substantive Levites"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "earlier usage"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in Chronicles the tribal idea is in the background, and thought of Levites as official\n    class is\n    prominent"
+        }
+    ]
+}

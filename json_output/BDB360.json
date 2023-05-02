@@ -1,0 +1,18 @@
+{
+    "head_word": "אַי", 
+    "pos": "adverb", 
+    "primary": "where?", 
+    "description": "prefixed to other adverbs or pronouns, אֵי imparts to them an interrogative\n    force", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "where?", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "prefixed to other adverbs or pronouns, אֵי imparts to them an interrogative\n    force"
+        }
+    ]
+}

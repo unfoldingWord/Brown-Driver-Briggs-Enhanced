@@ -1,0 +1,23 @@
+{
+    "head_word": "נָזִיר", 
+    "pos": "noun masculine", 
+    "primary": "one consecrated, devoted", 
+    "description": "of prince, ruler", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of prince, ruler"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "specifically of one dedicated to\n    ׳\nי by vow involving abstinence from intoxicants, from touching corpse, and from cutting hair"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= untrimmed vine (like Nazirite with unshorn hair)"
+        }
+    ]
+}

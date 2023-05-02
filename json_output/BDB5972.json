@@ -1,0 +1,23 @@
+{
+    "head_word": "עֶזְרָא", 
+    "pos": "proper name, masculine", 
+    "primary": "Ezra", 
+    "description": "priest with Zerubbabel", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Ezra", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "priest with Zerubbabel"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

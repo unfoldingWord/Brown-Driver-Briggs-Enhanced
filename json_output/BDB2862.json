@@ -1,0 +1,23 @@
+{
+    "head_word": "חָמַם", 
+    "pos": "verb", 
+    "primary": "be or become warm", 
+    "description": "literally", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of heat in conception (animals)"
+        }
+    ]
+}

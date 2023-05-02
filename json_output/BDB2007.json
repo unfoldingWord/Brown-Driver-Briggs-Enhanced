@@ -1,0 +1,23 @@
+{
+    "head_word": "דָּֽרְיָ֫וֶשׁ", 
+    "pos": "proper name, masculine", 
+    "primary": "Darius", 
+    "description": "Darius Hystaspis", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Darius Hystaspis"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Darius Codomannus"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "'Darius the Mede'"
+        }
+    ]
+}

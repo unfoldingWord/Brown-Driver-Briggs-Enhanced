@@ -1,0 +1,73 @@
+{
+    "head_word": "קָלַל", 
+    "pos": "verb", 
+    "primary": "be slight, swift, trifling", 
+    "description": "i.e. of little account", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "i.e. of little account"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "with accusative of person"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "with accusative of deity"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "with accusative of thing"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": "(peculiarly) whet"
+        }
+    ]
+}

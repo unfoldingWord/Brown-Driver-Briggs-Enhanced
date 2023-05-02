@@ -1,0 +1,38 @@
+{
+    "head_word": "עֵז", 
+    "pos": "noun feminine", 
+    "primary": "she-goat", 
+    "description": "as property", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as property"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as food"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as sacrificial victim"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "עִזִּים = goats' hair, as material"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in simile"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "he-goat in vision"
+        }
+    ]
+}

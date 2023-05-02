@@ -1,0 +1,33 @@
+{
+    "head_word": "אֲבִיחַ֫יִל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a Levite", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a Levite"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Gadite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "father of Esther"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "wife of Rehoboam"
+        }
+    ]
+}

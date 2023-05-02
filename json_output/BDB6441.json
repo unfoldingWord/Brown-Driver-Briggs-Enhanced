@@ -1,0 +1,23 @@
+{
+    "head_word": "עֶשֶׂר", 
+    "pos": "noun masculine", 
+    "primary": "ten", 
+    "description": "enumerating person or things, usually without other numbers", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "enumerating person or things, usually without other numbers"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "rarely + other number"
+        }
+    ]
+}

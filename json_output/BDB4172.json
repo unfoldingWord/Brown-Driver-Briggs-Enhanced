@@ -1,0 +1,28 @@
+{
+    "head_word": "כַּפְתּוֺר", 
+    "pos": "noun masculine", 
+    "primary": "capital", 
+    "description": "or bulb, ornament on the golden lamp-stand in tabernacle", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "capital", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "knob, bulb", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "or bulb, ornament on the golden lamp-stand in tabernacle"
+        }
+    ]
+}

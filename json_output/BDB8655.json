@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁכַב", 
+    "pos": "verb", 
+    "primary": "lie down", 
+    "description": "to sleep", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "to sleep"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= lodge (for night)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of sexual relations, lie with"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in death"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= relax"
+        }
+    ]
+}

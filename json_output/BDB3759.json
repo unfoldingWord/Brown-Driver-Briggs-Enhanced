@@ -1,0 +1,48 @@
+{
+    "head_word": "יָרַשׁ", 
+    "pos": "verb", 
+    "primary": "take possession of, inherit, dispossess", 
+    "description": "take possession of, especially by force, have as a possession, often with\n        collateral idea of taking in place of others, succeeding to, inheriting\n         (compare 2)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "take possession of, especially by force, have as a possession, often with\n        collateral idea of taking in place of others, succeeding to, inheriting\n         (compare 2)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "followed by accusative of person = be one's heir"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= impoverish"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "cause (others) to possess or inherit\n        ,\n        then generally dispossess"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= impoverish"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "nearly = bring to ruin, destroy"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "=\n        Qal\ntake possession of"
+        }
+    ]
+}

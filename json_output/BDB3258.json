@@ -1,0 +1,18 @@
+{
+    "head_word": "חָתָן", 
+    "pos": "noun masculine", 
+    "primary": "daughter's husband, bride-groom", 
+    "description": "in relation to a father", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in relation to a father"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in relation to the bride"
+        }
+    ]
+}

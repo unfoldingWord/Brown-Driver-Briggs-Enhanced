@@ -1,0 +1,33 @@
+{
+    "head_word": "עָתֵק", 
+    "pos": "verb", 
+    "primary": "move, proceed, advance", 
+    "description": "(that is, tent) = proceed", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(that is, tent) = proceed"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "remove from one book or roll to another"
+        }
+    ]
+}

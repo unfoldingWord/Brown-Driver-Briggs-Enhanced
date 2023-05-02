@@ -1,0 +1,33 @@
+{
+    "head_word": "הָמוֺן", 
+    "pos": "noun masculine", 
+    "primary": "sound, murmur, roar, crowd, abundance", 
+    "description": "especially sound made by a crowd of people", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "of rain", 
+            "description": "especially sound made by a crowd of people"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(as occasioning a roar)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

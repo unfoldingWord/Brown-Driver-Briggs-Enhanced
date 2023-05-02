@@ -1,0 +1,48 @@
+{
+    "head_word": "שָׁמַר", 
+    "pos": "verb", 
+    "primary": "keep, watch, preserve", 
+    "description": "within bounds, restrain", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "within bounds, restrain"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Sabbath"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "sometimes ׳\nי subject"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": "so perhaps also", 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

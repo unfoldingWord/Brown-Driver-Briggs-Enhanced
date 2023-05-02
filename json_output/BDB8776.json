@@ -1,0 +1,33 @@
+{
+    "head_word": "שֵׁם", 
+    "pos": "noun masculine", 
+    "primary": "name", 
+    "description": "usually of person", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "note here", 
+            "description": "usually of person"
+        }, 
+        {
+            "number": 3, 
+            "primary": "hence, of place of worship", 
+            "description": "as designation of God, specifically of ׳\nי"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of false gods, use forbidden"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= memorial, monument"
+        }
+    ]
+}

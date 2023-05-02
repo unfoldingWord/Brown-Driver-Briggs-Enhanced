@@ -1,0 +1,53 @@
+{
+    "head_word": "מִןֿ", 
+    "pos": "preposition", 
+    "primary": "out of, from,\n        on account of, off, on the side of, since, above, than, so that not", 
+    "description": "expressing the idea of separation", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "by the bowmen", 
+            "description": "with verbs expressing (or implying) \n        separation or removal, whether from a person or place, or in any\n    direction, also from guilt, calamity, etc."
+        }, 
+        {
+            "number": 2, 
+            "primary": "Out of", 
+            "description": "of the material out of which anything is formed, or from\n        which it is derived"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Partitively (a sense connecting with 2.a. (c\n    ), above)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of time"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(וְעַד) מִן ֗֗֗ עַד\nfrom\n . . . even, to : very often"
+        }, 
+        {
+            "number": 6, 
+            "primary": "c: ex in eximius, egregius", 
+            "description": "In comparisons, beyond, above"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "prefixed to an infinitive"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "Once Deut 33:11 as a conjunction before a finite verb"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "In compounds"
+        }
+    ]
+}

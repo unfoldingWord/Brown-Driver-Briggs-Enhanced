@@ -1,0 +1,43 @@
+{
+    "head_word": "שָׁגָה", 
+    "pos": "verb", 
+    "primary": "go astray, err", 
+    "description": "of flock", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of flock"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in drunkenness"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "morally"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "specifically commit sin of ignorance, inadvertence"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "mentally ="
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "morally"
+        }
+    ]
+}

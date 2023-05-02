@@ -1,0 +1,43 @@
+{
+    "head_word": "יְהוֺשָׁפָט", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "king of Judah, son of Asa", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Judah, son of Asa"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "father of Jehu king of Israel"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "chronicler under David & Solomon, son of Ahilud"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "one of Solomon's 12 officers who provided victuals for the royal household"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "one of David's heroes"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "a priest & trumpeter in David's time"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "symbolical name of a valley near Jerusalem, place of ultimate judgement"
+        }
+    ]
+}

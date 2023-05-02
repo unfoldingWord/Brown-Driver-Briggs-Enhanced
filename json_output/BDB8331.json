@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׂרַף", 
+    "pos": "verb", 
+    "primary": "burn", 
+    "description": "in making bricks", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in making bricks"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with accusative of thing, usually to destroy"
+        }
+    ]
+}

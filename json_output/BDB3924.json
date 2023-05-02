@@ -1,0 +1,23 @@
+{
+    "head_word": "כֹּה", 
+    "pos": "adverb", 
+    "primary": "thus, here", 
+    "description": "of manner", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of manner"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of place"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of time"
+        }
+    ]
+}

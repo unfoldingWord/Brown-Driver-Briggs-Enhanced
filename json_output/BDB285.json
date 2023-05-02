@@ -1,0 +1,28 @@
+{
+    "head_word": "אָח", 
+    "pos": "noun masculine", 
+    "primary": "brother", 
+    "description": "indefinite = relative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "indefinite = relative"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative of resemblance"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in phrase one . . . another"
+        }
+    ]
+}

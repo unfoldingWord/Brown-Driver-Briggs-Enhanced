@@ -1,0 +1,58 @@
+{
+    "head_word": "לֵב", 
+    "pos": "noun masculine", 
+    "primary": "inner man, mind, will, heart", 
+    "description": "seldom of things", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in contrast with outer"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "indefinite, soul, comprehending mind, affections and\n        will,\n        with occasional emphasis of one or the other by means of certain verbs"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specific reference to mind:"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "specific reference to inclinations, resolutions, and determinations of the will"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "specific reference to conscience"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "specific reference to moral character"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "for the man himself"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "as seat of appetites"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "as seat of the emotions and passions:"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "seat of courage"
+        }
+    ]
+}

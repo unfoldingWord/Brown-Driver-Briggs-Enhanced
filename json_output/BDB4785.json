@@ -1,0 +1,18 @@
+{
+    "head_word": "מִצְרַ֫יִם", 
+    "pos": "proper name, feminine [of a territory and people]", 
+    "primary": "Egypt, Egyptians", 
+    "description": "of land", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of land"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of people:"
+        }
+    ]
+}

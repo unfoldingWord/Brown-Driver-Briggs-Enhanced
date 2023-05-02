@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲרָם", 
+    "pos": "proper name, masculine", 
+    "primary": "Aram", 
+    "description": "5th son of Shem", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "5th son of Shem"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "grandson of Nahor"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a descendant of Asher"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּכוֺר", 
+    "pos": "noun masculine", 
+    "primary": "first-born", 
+    "description": "men and women:", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "men and women:"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "animals"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative"
+        }
+    ]
+}

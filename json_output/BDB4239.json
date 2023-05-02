@@ -1,0 +1,38 @@
+{
+    "head_word": "כָּתַב", 
+    "pos": "verb", 
+    "primary": "write", 
+    "description": "= write down, describe in writing", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= write down, describe in writing"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= register, enroll"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= decree"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

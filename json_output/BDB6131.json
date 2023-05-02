@@ -1,0 +1,33 @@
+{
+    "head_word": "עַמּוּד", 
+    "pos": "noun masculine", 
+    "primary": "pillar, column", 
+    "description": "two bronze pillars", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "two bronze pillars"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "column of smoke"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(figurative of prophet)"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "head_word": "יָשַׁב", 
+    "pos": "verb", 
+    "primary": "sit, remain, dwell", 
+    "description": "i.e. perform a necessity of nature", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "i.e. perform a necessity of nature"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(for a limited or indefinite time)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in (ב) a land, city, house, etc."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of a land or city, sit, abide seated in its place, figurative for\n        be inhabited"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "(properly give a dwelling to"
+        }
+    ]
+}

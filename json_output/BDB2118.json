@@ -1,0 +1,33 @@
+{
+    "head_word": "יְהוֺרָם", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "king of Judah, son of Jehoshaphat", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Judah, son of Jehoshaphat"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "king of Israel son of Ahab"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "priest in time of Jehoshaphat"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "son of Tou, king of Hamath"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a Levite"
+        }
+    ]
+}

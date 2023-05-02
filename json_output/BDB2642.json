@@ -1,0 +1,33 @@
+{
+    "head_word": "חוּר", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "named with Aaron as companion of Moses", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "named with Aaron as companion of Moses"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Judahite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a king of Midian"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "head of family of returned exiles"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "officer of Solomon"
+        }
+    ]
+}

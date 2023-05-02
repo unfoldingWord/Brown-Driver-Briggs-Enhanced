@@ -1,0 +1,23 @@
+{
+    "head_word": "נְפַל", 
+    "pos": "verb", 
+    "primary": "fall", 
+    "description": "by violence", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "by violence"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

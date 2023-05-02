@@ -1,0 +1,18 @@
+{
+    "head_word": "חֵץ", 
+    "pos": "noun masculine", 
+    "primary": "arrow", 
+    "description": "mostly in poetry and prophets", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally, shot from bow by hand"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative of Israel's weapons"
+        }
+    ]
+}

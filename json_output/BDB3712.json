@@ -1,0 +1,28 @@
+{
+    "head_word": "מוֺרָא", 
+    "pos": "noun masculine", 
+    "primary": "fear", 
+    "description": "object of reverence, especially God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "object of reverence, especially God"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "awe-inspiring spectacle or deed"
+        }
+    ]
+}

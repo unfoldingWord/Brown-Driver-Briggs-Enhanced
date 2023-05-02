@@ -1,0 +1,18 @@
+{
+    "head_word": "עוֺלָם", 
+    "pos": "noun masculine", 
+    "primary": "long duration, antiquity, futurity", 
+    "description": "of past time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of past time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "indefinite futurity, with preposition for ever, always\n         (sometimes = during the lifetime)"
+        }
+    ]
+}

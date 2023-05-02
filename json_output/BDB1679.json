@@ -1,0 +1,38 @@
+{
+    "head_word": "גָּמַל", 
+    "pos": "verb", 
+    "primary": "deal fully or adequately with, deal out to", 
+    "description": "with עַל person", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "deal fully or adequately with, deal out to", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "wean", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "ripen", 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with עַל person"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(complete his nursing)"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "transitive"
+        }
+    ]
+}

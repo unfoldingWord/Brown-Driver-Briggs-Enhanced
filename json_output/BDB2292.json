@@ -1,0 +1,18 @@
+{
+    "head_word": "זוּ", 
+    "pos": "pronoun", 
+    "primary": null, 
+    "description": "(poetry), indeclinable", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a\n    demonstrative"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a\n    relative"
+        }
+    ]
+}

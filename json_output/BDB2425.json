@@ -1,0 +1,18 @@
+{
+    "head_word": "זְעֵיר", 
+    "pos": "noun [masculine]", 
+    "primary": "a little", 
+    "description": "of quantity, amount", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of quantity, amount"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of time"
+        }
+    ]
+}

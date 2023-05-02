@@ -1,0 +1,18 @@
+{
+    "head_word": "רַק", 
+    "pos": "adjective", 
+    "primary": "thin", 
+    "description": "of kine", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "thin", 
+            "description": "of kine"
+        }, 
+        {
+            "number": 2, 
+            "primary": "only, altogether, surely", 
+            "description": "with restrictive force"
+        }
+    ]
+}

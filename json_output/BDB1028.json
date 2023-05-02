@@ -1,0 +1,28 @@
+{
+    "head_word": "בֶ֫טֶן", 
+    "pos": "noun feminine", 
+    "primary": "belly, body, womb", 
+    "description": "belly of\n        hippopotamus", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "belly of\n        hippopotamus"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "opposed to soul"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "architectural word of some rounded projection connected with the two pillars Jachin & Boaz"
+        }
+    ]
+}

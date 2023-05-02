@@ -1,0 +1,23 @@
+{
+    "head_word": "דּוֺד", 
+    "pos": "noun masculine", 
+    "primary": "beloved, love", 
+    "description": "most often loved one, beloved (lover, betrothed)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "most often loved one, beloved (lover, betrothed)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "specifically uncle"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "plural abstract love"
+        }
+    ]
+}

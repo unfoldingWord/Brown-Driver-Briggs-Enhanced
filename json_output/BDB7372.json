@@ -1,0 +1,43 @@
+{
+    "head_word": "מָקוֺם", 
+    "pos": "noun masculine", 
+    "primary": "standing-place, place", 
+    "description": "where a thing belongs", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "where a thing belongs"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of land"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in general"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "peculiar uses are"
+        }
+    ]
+}

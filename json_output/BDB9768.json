@@ -1,0 +1,33 @@
+{
+    "head_word": "עַל", 
+    "pos": "preposition", 
+    "primary": "upon, over, on account of, above, to, against", 
+    "description": "idiomatic", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "idiomatic"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with verbs of ruling, appointing, etc."
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in a comparative sense"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "expressing direction:"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in such phrases"
+        }
+    ]
+}

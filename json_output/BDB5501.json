@@ -1,0 +1,28 @@
+{
+    "head_word": "מַסְגֵּר", 
+    "pos": "noun [masculine]", 
+    "primary": "locksmith, smith", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "locksmith, smith", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "dungeon", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵץ", 
+    "pos": "noun masculine", 
+    "primary": "tree, trees, wood", 
+    "description": "a standing tree", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a standing tree"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "plural, to denote pieces\n    \n    [or articles] of wood)"
+        }
+    ]
+}

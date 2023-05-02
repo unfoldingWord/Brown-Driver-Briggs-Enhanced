@@ -1,0 +1,28 @@
+{
+    "head_word": "שְׁרָא", 
+    "pos": "verb", 
+    "primary": "loosen", 
+    "description": "figurative loosen knots, i.e. solve difficulties", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "loosen", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "abide", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative loosen knots, i.e. solve difficulties"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "from loosening girths, loads, at encampment"
+        }
+    ]
+}

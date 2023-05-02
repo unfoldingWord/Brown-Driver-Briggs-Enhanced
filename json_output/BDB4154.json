@@ -1,0 +1,18 @@
+{
+    "head_word": "כֹּפֶר", 
+    "pos": "noun masculine", 
+    "primary": "the price of a life, ransom", 
+    "description": "a price for ransom of a life", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a price for ransom of a life"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a\n    half shekel of the sanctuary paid by each male above twenty years at the census"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "רָמָה", 
+    "pos": "proper name [of a location]", 
+    "primary": "the Height, Rama", 
+    "description": "in Benjamin, on border of Ephraim", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in Benjamin, on border of Ephraim"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in hill-country of Ephraim (= 1?)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in Asher"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in Naphtali"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

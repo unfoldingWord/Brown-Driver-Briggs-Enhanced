@@ -1,0 +1,53 @@
+{
+    "head_word": "זֶ֫בַח", 
+    "pos": "noun masculine", 
+    "primary": "sacrifice", 
+    "description": "general name for all sacrifices eaten at feasts", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of the God of Israel"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of other deities"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "the covenant sacrifice"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "the passover\nזֶבַח חַג\nהַפֶּסַח"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "annual sacrifice"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "thank offering"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "in ritual"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "the slaughter of hostile nations is also a זֶבַח offered by God Himself, in\n        which\n        the vultures devour the flesh of the victims"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "the verb used with זֶבַח is ordinarily זָבַח but others also\n        are\n        found"
+        }
+    ]
+}

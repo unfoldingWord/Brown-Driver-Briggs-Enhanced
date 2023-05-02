@@ -1,0 +1,58 @@
+{
+    "head_word": "רַע", 
+    "pos": "adjective", 
+    "primary": "bad, evil", 
+    "description": "giving pain, unhappiness, misery", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "giving pain, unhappiness, misery"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "i.e. of low value"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "+ מִן comparative, worse than"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "devise evil (hurtful) device"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "vicious in disposition or temper"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "ethically"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁאַל", 
+    "pos": "verb", 
+    "primary": "ask, inquire", 
+    "description": "specifically ask as a favour, for temporary use, i.e.\n            \n                borrow", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "specifically ask as a favour, for temporary use, i.e.\n            \n                borrow"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

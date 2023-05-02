@@ -1,0 +1,28 @@
+{
+    "head_word": "מַלְבֵּן", 
+    "pos": "noun [masculine]", 
+    "primary": "brick-mould", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "brick-mould", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "quadrangle", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

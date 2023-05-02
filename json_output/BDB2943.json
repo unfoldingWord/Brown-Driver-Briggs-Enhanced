@@ -1,0 +1,38 @@
+{
+    "head_word": "חָנָן", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "one of the warriors of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "one of the warriors of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "one of the heads of families of Nethinim"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "names of Levites"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "chiefs of the people"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Benjamite name"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "head of a prophetic guild"
+        }
+    ]
+}

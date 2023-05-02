@@ -1,0 +1,33 @@
+{
+    "head_word": "שֶׁ֫מֶשׁ", 
+    "pos": "noun feminine", 
+    "primary": "sun", 
+    "description": "of direction:", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "setting", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of direction:"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "object of worship (usually + moon, stars, etc.)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "other phrases"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "pinnacle, as glittering, shining"
+        }
+    ]
+}

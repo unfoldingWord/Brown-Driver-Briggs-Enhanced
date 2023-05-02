@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵפוֺ", 
+    "pos": "particle [enclitic]", 
+    "primary": "then", 
+    "description": "a particle with a demonstrative force", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in connection with interrogatory pronouns or adverbs"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in a command or wish"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "after אִם"
+        }
+    ]
+}

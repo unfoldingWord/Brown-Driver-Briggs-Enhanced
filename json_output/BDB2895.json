@@ -1,0 +1,38 @@
+{
+    "head_word": "חֲמוֺר", 
+    "pos": "noun masculine", 
+    "primary": "(he)-ass", 
+    "description": "(he-ass; אתון = she-ass)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as (valuable) property, with oxen, sheep, camels, slaves, etc."
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "used for riding"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "beast of burden"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "used in tillage"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "parts of body of ass mentioned are"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "burial of an ass, in figure of ignominious treatment of a corpse"
+        }
+    ]
+}

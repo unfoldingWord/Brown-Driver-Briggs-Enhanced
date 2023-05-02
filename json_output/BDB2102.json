@@ -1,0 +1,33 @@
+{
+    "head_word": "יֵהוּא", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "king of Israel who overthrew the dynasty of Omri", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Israel who overthrew the dynasty of Omri"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "prophet of Northern Israel in time of Baasha & Jehoshaphat"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "one of David's heroes"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Judaite"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a Simeonite prince"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מַי", 
+    "pos": "noun masculine", 
+    "primary": "waters, water", 
+    "description": "of a river", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of a river"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with proper names, of location (q. v.), to denote springs, streams, or seas belonging to, near,\n    such places"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "special uses are"
+        }, 
+        {
+            "number": 4, 
+            "primary": "of transitoriness", 
+            "description": "among figurative uses are"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵיכָה", 
+    "pos": "adverb", 
+    "primary": "In what manner?", 
+    "description": "exclamation", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "In what manner?", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "How!", 
+            "description": "exclamation"
+        }, 
+        {
+            "number": 3, 
+            "primary": "Where?", 
+            "description": null
+        }
+    ]
+}

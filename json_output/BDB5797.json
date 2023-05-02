@@ -1,0 +1,28 @@
+{
+    "head_word": "מַעְגָּל", 
+    "pos": "noun masculine", 
+    "primary": "entrenchment", 
+    "description": "(properly wagon-track), only figurative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "entrenchment", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "track", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(properly wagon-track), only figurative"
+        }
+    ]
+}

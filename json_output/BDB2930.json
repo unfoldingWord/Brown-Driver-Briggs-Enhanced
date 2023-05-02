@@ -1,0 +1,28 @@
+{
+    "head_word": "חֲנוֺךְ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of Cain", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Cain"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "son of Jered (line of Seth), the pious Enoch, who walked with God and was taken by him"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a son of Midian"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a son of Reuben"
+        }
+    ]
+}

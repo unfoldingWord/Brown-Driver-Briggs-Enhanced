@@ -1,0 +1,28 @@
+{
+    "head_word": "חַ֫יִל", 
+    "pos": "noun masculine", 
+    "primary": "strength, efficiency, wealth, army", 
+    "description": "usually physical", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "usually physical"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "often involving moral worth"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "very often"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "בַּ֫יִן", 
+    "pos": "substantive", 
+    "primary": "interval, space between", 
+    "description": "properly", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "in the interval of, between", 
+            "description": "always (except dual) as preposition"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "space between two armies"
+        }
+    ]
+}

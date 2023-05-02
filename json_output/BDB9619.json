@@ -1,0 +1,18 @@
+{
+    "head_word": "כְּסַף", 
+    "pos": "noun masculine", 
+    "primary": "silver", 
+    "description": "as material", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as material"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as money or its equivalent"
+        }
+    ]
+}

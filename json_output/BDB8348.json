@@ -1,0 +1,53 @@
+{
+    "head_word": "שַׂר", 
+    "pos": "noun masculine", 
+    "primary": "chieftain, chief, ruler, official, captain, prince", 
+    "description": "under king (acting, on occasion, as counselor, commander, etc.)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "David as leader of freebooters", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "in Egypt", 
+            "description": "under king (acting, on occasion, as counselor, commander, etc.)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specifically military, = captain, general"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of other official classes"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of religious office"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of representative leaders of people, tribal heads"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "= patron-angel, only Daniel"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "=\n    God"
+        }
+    ]
+}

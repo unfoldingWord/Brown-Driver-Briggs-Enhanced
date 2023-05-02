@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁבִי", 
+    "pos": "noun masculine", 
+    "primary": "captivity, captives", 
+    "description": "= state of captivity", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= state of captivity"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "act of capture"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= captives (collective)"
+        }
+    ]
+}

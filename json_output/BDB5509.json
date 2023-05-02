@@ -1,0 +1,28 @@
+{
+    "head_word": "שְׂדֵרָה", 
+    "pos": "noun", 
+    "primary": "row, rank", 
+    "description": "of soldiers in line", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "row, rank", 
+            "description": "of soldiers in line"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "architectural term"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "technical term of building"
+        }
+    ]
+}

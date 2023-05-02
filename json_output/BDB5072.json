@@ -1,0 +1,43 @@
+{
+    "head_word": "נוּס", 
+    "pos": "verb", 
+    "primary": "flee, escape", 
+    "description": "only figurative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "only figurative"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(to the attack)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

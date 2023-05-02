@@ -1,0 +1,28 @@
+{
+    "head_word": "רְבִיעִי", 
+    "pos": "masculine", 
+    "primary": "fourth", 
+    "description": "(especially of days, months, sons, etc.)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(especially of days, months, sons, etc.)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of years"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "four square (read possibly רְבוּעָה)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "as noun = fourth part"
+        }
+    ]
+}

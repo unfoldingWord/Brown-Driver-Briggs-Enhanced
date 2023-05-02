@@ -1,0 +1,33 @@
+{
+    "head_word": "כֹּחַ", 
+    "pos": "noun masculine", 
+    "primary": "strength, power", 
+    "description": "human strength", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "human strength"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of angels"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of animals"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

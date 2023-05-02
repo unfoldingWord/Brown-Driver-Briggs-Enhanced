@@ -1,0 +1,18 @@
+{
+    "head_word": "הֶ֫בֶל", 
+    "pos": "noun masculine", 
+    "primary": "vapour, breath", 
+    "description": "literal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 2, 
+            "primary": "vanity", 
+            "description": "figurative of what is evanescent, unsubstantial, worthless"
+        }
+    ]
+}

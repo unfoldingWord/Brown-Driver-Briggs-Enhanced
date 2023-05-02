@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁקַט", 
+    "pos": "verb", 
+    "primary": "be quiet, undisturbed", 
+    "description": "of land", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of land"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= be pacified"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(inner causative)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "תַּחַת", 
+    "pos": "noun [masculine]", 
+    "primary": "the under part", 
+    "description": "as adverb\naccusative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "what is under one, the place in which one stands"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as conjunction"
+        }, 
+        {
+            "number": 4, 
+            "primary": "after", 
+            "description": "אֶלתַּֿחַת, after a verb of motion"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "מִתַּחַת"
+        }
+    ]
+}

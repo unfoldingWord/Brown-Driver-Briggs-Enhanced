@@ -1,0 +1,28 @@
+{
+    "head_word": "כַּף", 
+    "pos": "noun feminine", 
+    "primary": "hollow, or flat of the hand, palm, sole of foot, pan", 
+    "description": "of human beings", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of human beings"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= power (i.e. grasp) of any one"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "רַגְלָהּכַּף, etc., = sole of foot"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of various hollow, bending or bent objects"
+        }
+    ]
+}

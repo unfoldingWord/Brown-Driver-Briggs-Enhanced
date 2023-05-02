@@ -1,0 +1,28 @@
+{
+    "head_word": "רוּץ", 
+    "pos": "verb", 
+    "primary": "run", 
+    "description": "Participle as substantive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "of horses", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Participle as substantive"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= drive away from"
+        }
+    ]
+}

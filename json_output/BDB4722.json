@@ -1,0 +1,38 @@
+{
+    "head_word": "מִנְחָה", 
+    "pos": "noun feminine", 
+    "primary": "gift, tribute, offering", 
+    "description": "whether raw, roasted, ground to flour, or prepared as bread or cakes, see below", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": "exilic or post-exilic", 
+            "description": "whether raw, roasted, ground to flour, or prepared as bread or cakes, see below"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "אָבִיב grain in the ear parched with fire, with oil and frankincense"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "verbs of offering are"
+        }
+    ]
+}

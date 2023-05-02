@@ -1,0 +1,28 @@
+{
+    "head_word": "זַבְדִּי", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "grandfather of Achan, of Judah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "grandfather of Achan, of Judah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Benjamite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "an officer of David"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Levite"
+        }
+    ]
+}

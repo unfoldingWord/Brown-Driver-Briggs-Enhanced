@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁתָה", 
+    "pos": "verb", 
+    "primary": "drink", 
+    "description": "of man:", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of man:"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= feast"
+        }
+    ]
+}

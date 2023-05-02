@@ -1,0 +1,58 @@
+{
+    "head_word": "בִּין", 
+    "pos": "verb", 
+    "primary": "discern", 
+    "description": "(with the senses)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(with the senses)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(with mind)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(with attention)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

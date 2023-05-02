@@ -1,0 +1,23 @@
+{
+    "head_word": "מָשַׁל", 
+    "pos": "verb", 
+    "primary": "rule, have dominion, reign", 
+    "description": "human subject,rule, have dominion over (בְּ)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "human subject,rule, have dominion over (בְּ)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of heavenly bodies, with בְּ"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of God, with בְּ"
+        }
+    ]
+}

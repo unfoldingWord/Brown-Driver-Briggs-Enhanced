@@ -1,0 +1,23 @@
+{
+    "head_word": "אֲמַר", 
+    "pos": "verb", 
+    "primary": "say, tell, command", 
+    "description": "(often in phrase answer and say)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(often in phrase answer and say)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

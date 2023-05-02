@@ -1,0 +1,33 @@
+{
+    "head_word": "כָּאַב", 
+    "pos": "verb", 
+    "primary": "be in pain", 
+    "description": "physical", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "physical"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of mental pain"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of enemies of Israel under figure of thorn causing pain (no object expressed)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of mental pain, object לֵב"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of marring good land with stones"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עָמְרִי", 
+    "pos": "proper name, masculine", 
+    "primary": "Omri", 
+    "description": "king of Israel", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Omri", 
+            "description": "king of Israel"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "name in Benjamin"
+        }
+    ]
+}

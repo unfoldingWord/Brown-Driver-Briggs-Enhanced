@@ -1,0 +1,23 @@
+{
+    "head_word": "חַיִּים", 
+    "pos": "noun masculine", 
+    "primary": "life", 
+    "description": "physical", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "physical"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

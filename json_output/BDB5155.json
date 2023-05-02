@@ -1,0 +1,23 @@
+{
+    "head_word": "מַ֫טָּה", 
+    "pos": "adverb", 
+    "primary": "downwards", 
+    "description": "alone", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "alone"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "לְמַ֫טָּה"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "מִלְּמַ֫טָּה"
+        }
+    ]
+}

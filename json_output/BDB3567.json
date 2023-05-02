@@ -1,0 +1,53 @@
+{
+    "head_word": "יָם", 
+    "pos": "noun masculine", 
+    "primary": "sea", 
+    "description": "יַםסֿוּף\n'Red Sea'", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "יַםסֿוּף\n'Red Sea'"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Dead Sea, יָם\nמֶלַח\nsea of salt"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Sea of Galilee\nיָם כִּנֶּרֶת"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "more generally sea, opposed to earth and (or) sky"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "the great basin in temple-court, called the sea"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "combinations are"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "= (west, west-word (originally sea-ward, from position of Mediterranean\n    with reference to Palestine, and this sense still often perceptible)"
+        }
+    ]
+}

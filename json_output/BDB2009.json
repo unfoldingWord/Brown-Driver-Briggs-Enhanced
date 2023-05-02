@@ -1,0 +1,43 @@
+{
+    "head_word": "דָּרַךְ", 
+    "pos": "verb", 
+    "primary": "tread, march", 
+    "description": "tread wine- (or oil-) press", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "tread wine- (or oil-) press"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(i.e. bend) the bow"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "(bend) the bow (=\n    Qal\n4)"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "causative"
+        }
+    ]
+}

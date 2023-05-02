@@ -1,0 +1,33 @@
+{
+    "head_word": "זָבָד", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a descendant of Judah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a descendant of Judah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "an Ephraimite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "one of David's valiant men"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "one of the murderers of Joash of Judah"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "name of three returned exiles who had taken strange wives"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "אֶלְיוֺעֵינַי", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a descendant of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a descendant of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Simeonite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a Benjamite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "priests in time of Ezra"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "אַיָּלוֺן", 
+    "pos": "proper name [of a location]", 
+    "primary": "Aijalon", 
+    "description": "city in Dan", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "city in Dan"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "city in Zebulun"
+        }
+    ]
+}

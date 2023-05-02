@@ -1,0 +1,48 @@
+{
+    "head_word": "כֹּהֵן", 
+    "pos": "noun masculine", 
+    "primary": "priest", 
+    "description": "priest-king", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "priest-king"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of other religions than\n׳\nי\n's: Potiphera אֹן\n׳\nכ\nGen 41:45;\n    Gen 41:50 (\n    \nE\n), Gen\n        46:20 (\nP\n); Egyptian כהנים\nGen 47:22\n    (twice in verse); \n        Gen 47:26 (\nJ\n); דָגוֺן\n׳\nכ\n1Sam 5:5 Philistine\n    כהנים וקסמים\n1Sam 6:2\nכֹּהֲנָיו\nhis priests: e.g. of Baal 2Kgs 10:19 = of Ahab 2Kgs 10:11 of Chemosh Jer 48:7 of Malcam Jer 49:3 Mattan\n    was הבעל\n׳\nכ\n2Kgs 11:18\n     = 2Chr\n        23:17\nהכמרים עם\nהכהנים\nZeph 1:4 Josiah\n    burned the bones of the priests of the Baalim and Asherim 2Chr 34:5."
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of special orders in Israel"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in Israel"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Levitical priests"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Zadokite priests"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "Aaronic priests."
+        }, 
+        {
+            "number": 8, 
+            "primary": "to designate the priest who was at\n            the head of priestly affairs", 
+            "description": "the high priest"
+        }
+    ]
+}

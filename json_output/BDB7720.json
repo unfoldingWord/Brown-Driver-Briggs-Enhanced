@@ -1,0 +1,23 @@
+{
+    "head_word": "אַרְבָּעִים", 
+    "pos": "plural noun indeclinable", 
+    "primary": "forty", 
+    "description": "a forty", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "without other number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with other numbers"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as ordinal"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head_word": "רוּחַ", 
+    "pos": "noun feminine", 
+    "primary": "breath, wind, spirit", 
+    "description": "of mouth or nostrils", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of mouth or nostrils"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "wind of heaven"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as that which breathes quickly in animation or agitation = temper,\n        disposition"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "spirit of the living, breathing being, dwelling in the בָּשָׂר of men\n    and\n    animals, || נֶפֶשׁ"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "as seat of emotion = נֶפֶשׁ"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "occasionally, (and late) = seat or organ of mental acts, || לֵב, or\n    synonym with\n    it"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "rarely of the will"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "especially of moral character; also = לֵב"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "spirit of God"
+        }
+    ]
+}

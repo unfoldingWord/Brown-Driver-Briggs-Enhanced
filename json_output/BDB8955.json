@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁפַט", 
+    "pos": "verb", 
+    "primary": "judge, govern", 
+    "description": "(giving law, deciding controversies and executing law,\n        civil, religious, political, social; both early and late)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(giving law, deciding controversies and executing law,\n        civil, religious, political, social; both early and late)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "specifically decide controversy, discriminate between Persons, in\n        civil, political, domestic and religious questions"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "discriminating, of man only"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

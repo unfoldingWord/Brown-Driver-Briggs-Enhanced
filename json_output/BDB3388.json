@@ -1,0 +1,23 @@
+{
+    "head_word": "יָאַל", 
+    "pos": "verb", 
+    "primary": "shew willingness, be pleased, determine, undertake", 
+    "description": "shew willingness, be pleased, determine, undertake to do anything (and do it)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "shew willingness to do anything, accept an invitation, acquiesce"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "more actively, voluntarily undertake to do anything (and do it)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "more actively still, be pleased, determine on one's own responsibility,\n        resolve"
+        }
+    ]
+}

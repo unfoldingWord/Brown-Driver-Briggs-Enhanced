@@ -1,0 +1,33 @@
+{
+    "head_word": "כִּפֶּר", 
+    "pos": "verb", 
+    "primary": "cover over (figurative), pacify, make propitiation", 
+    "description": "man as subject", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "man as subject"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "apart from the ritual"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with לְ\nfor whom"
+        }
+    ]
+}

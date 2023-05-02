@@ -1,0 +1,23 @@
+{
+    "head_word": "פְּרִי", 
+    "pos": "noun masculine", 
+    "primary": "fruit", 
+    "description": "of produce in general", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of produce in general"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= offspring"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative of fruit of actions, i.e. their consequences"
+        }
+    ]
+}

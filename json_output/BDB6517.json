@@ -1,0 +1,53 @@
+{
+    "head_word": "פָּגַע", 
+    "pos": "verb", 
+    "primary": "meet, encounter, reach", 
+    "description": "with kindness", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with kindness"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with hostility"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with request"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

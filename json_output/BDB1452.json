@@ -1,0 +1,28 @@
+{
+    "head_word": "גִּבְעָה", 
+    "pos": "noun feminine", 
+    "primary": "hill", 
+    "description": "in ordinary prose", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in ordinary prose"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "especially as place of illicit worship"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "very commonly || הר in poetry & prophets"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "hills with special names, some nearly or quite = proper name, of a location"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "חָלָץ", 
+    "pos": "noun [feminine]", 
+    "primary": "loins", 
+    "description": "only dual", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as seat of virility"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as girded"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as seat of pains"
+        }
+    ]
+}

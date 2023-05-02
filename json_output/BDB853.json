@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵת", 
+    "pos": null, 
+    "primary": "mark of the\n        accusative", 
+    "description": "the mark of the\n        accusative, prefixed as a rule only to nouns that are definite", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "As mark of the accusative prefixed to substantives defined either by the article (or כֹּל\n    ), or by a genitive or pronominal affix, or in virtue of being proper names"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "marks an accusative in other relations than that of direct object to a verb"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Chiefly in an inferior or later style, אֵת (or וְאֵת) is used\n    irregularly"
+        }
+    ]
+}

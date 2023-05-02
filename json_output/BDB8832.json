@@ -1,0 +1,23 @@
+{
+    "head_word": "שַׁמּוּעַ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Reubenite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Levite"
+        }
+    ]
+}

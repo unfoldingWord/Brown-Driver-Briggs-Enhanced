@@ -1,0 +1,33 @@
+{
+    "head_word": "בָּרַח", 
+    "pos": "verb", 
+    "primary": "go through, flee", 
+    "description": "flee = hasten, come quickly", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "flee = hasten, come quickly"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

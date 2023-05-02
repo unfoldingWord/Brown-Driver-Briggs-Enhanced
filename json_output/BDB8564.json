@@ -1,0 +1,23 @@
+{
+    "head_word": "שׁוּר", 
+    "pos": "verb", 
+    "primary": "behold, regard", 
+    "description": "= notice", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= notice"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "watch stealthily"
+        }
+    ]
+}

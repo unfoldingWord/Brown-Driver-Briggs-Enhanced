@@ -1,0 +1,33 @@
+{
+    "head_word": "עֻזִּיָּהוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "king of Judah = ׃עְַזַרְיָהוּ", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Judah = ׃עְַזַרְיָהוּ"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "father of an officer of David"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Levite name"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "priest with foreign wife"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "name in Judah"
+        }
+    ]
+}

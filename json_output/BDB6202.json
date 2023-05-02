@@ -1,0 +1,23 @@
+{
+    "head_word": "יַעַן", 
+    "pos": "preposition", 
+    "primary": "purpose, intention", 
+    "description": "properly\n    substantive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as preposition, rarely with a substantive"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "As conjunction"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "יַעַן וּבְיַעַן"
+        }
+    ]
+}

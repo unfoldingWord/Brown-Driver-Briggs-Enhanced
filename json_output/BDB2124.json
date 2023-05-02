@@ -1,0 +1,28 @@
+{
+    "head_word": "יוֺאָח", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of Asaph the chronicler in Hezekiah's time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Asaph the chronicler in Hezekiah's time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "son of Joahaz the chronicles in Josiah's time"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Levite, son of Obed-edom"
+        }
+    ]
+}

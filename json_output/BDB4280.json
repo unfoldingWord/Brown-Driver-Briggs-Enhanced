@@ -1,0 +1,23 @@
+{
+    "head_word": "מַלְאָךְ", 
+    "pos": "noun masculine", 
+    "primary": "messenger", 
+    "description": "as messenger of God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as messenger of God"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "the theophanic angel"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "כַּאֲשֶׁר", 
+    "pos": "conjunction", 
+    "primary": "according as, as, when", 
+    "description": "with a causal force", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with a causal force"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

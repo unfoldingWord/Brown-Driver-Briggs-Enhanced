@@ -1,0 +1,48 @@
+{
+    "head_word": "יָצָא", 
+    "pos": "verb", 
+    "primary": "go or come out", 
+    "description": "with especially reference to purpose or\n            result", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "of inanimate things", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with especially reference to purpose or\n            result"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of combinations"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "bring out animals"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "inanimate object"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "figurative, subject ׳\nי"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "אֶפְרָ֫תָה", 
+    "pos": "proper name", 
+    "primary": null, 
+    "description": "place near Bethel, where Rachel died & was buried", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "place near Bethel, where Rachel died & was buried"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "id., a name of Bethlehem"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "id."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "name given to wife of Caleb"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "נָסָה", 
+    "pos": "verb", 
+    "primary": "test, try", 
+    "description": "(synonym בחן)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(synonym בחן)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

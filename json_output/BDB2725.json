@@ -1,0 +1,48 @@
+{
+    "head_word": "יְחִיאֵל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "one of David's chief musicians", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "one of David's chief musicians"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "one of David's chiefs of the Levites"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "tutor of David's sons"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "son of Jehoshaphat"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Hemanite of Hezekiah's reign"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "over-seer in Hezekiah's reign"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "ruler of the temple in Josiah's reign"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "contemporaries of Ezra"
+        }
+    ]
+}

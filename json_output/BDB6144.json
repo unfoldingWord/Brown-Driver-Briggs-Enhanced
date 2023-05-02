@@ -1,0 +1,33 @@
+{
+    "head_word": "עַם", 
+    "pos": "noun masculine", 
+    "primary": "people", 
+    "description": "(sometimes || גּוֺי)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(sometimes || גּוֺי)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= smaller units, e.g."
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= common people"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in general"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "phrases are"
+        }
+    ]
+}

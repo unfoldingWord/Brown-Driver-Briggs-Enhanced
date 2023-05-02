@@ -1,0 +1,28 @@
+{
+    "head_word": "מַטָּרָה", 
+    "pos": "noun", 
+    "primary": "guard, ward, prison", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "guard, ward, prison", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "target, mark", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

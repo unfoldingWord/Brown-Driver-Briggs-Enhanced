@@ -1,0 +1,23 @@
+{
+    "head_word": "שֻׁלְחָן", 
+    "pos": "noun masculine", 
+    "primary": "table", 
+    "description": "for king's repast", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "for king's repast"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "for private use"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "for sacred uses"
+        }
+    ]
+}

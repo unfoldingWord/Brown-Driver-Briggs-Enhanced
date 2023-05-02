@@ -1,0 +1,23 @@
+{
+    "head_word": "מָשַׁח", 
+    "pos": "verb", 
+    "primary": "smear, anoint", 
+    "description": "as consecration, solemn setting apart to an office, always by the use of oil poured on\n        the head", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as consecration, solemn setting apart to an office, always by the use of oil poured on\n        the head"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "anoint, consecrate to religious service"
+        }
+    ]
+}

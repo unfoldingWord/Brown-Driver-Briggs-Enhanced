@@ -1,0 +1,18 @@
+{
+    "head_word": "פָּקַח", 
+    "pos": "verb", 
+    "primary": "open", 
+    "description": "open eyes and (once) ears", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "eyes"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "open ears = hear"
+        }
+    ]
+}

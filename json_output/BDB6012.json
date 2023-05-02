@@ -1,0 +1,33 @@
+{
+    "head_word": "עֵילָם", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "heads of families of returned exiles", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "heads of families of returned exiles"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a chief of people"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "name in Benjamin"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Levite name"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a priest"
+        }
+    ]
+}

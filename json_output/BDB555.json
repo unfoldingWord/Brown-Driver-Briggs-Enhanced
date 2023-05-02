@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲמַצְיָ֫הוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "king of Judah, son of Joash, father of Azariah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Judah, son of Joash, father of Azariah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Simeonite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "id., a Levite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "priest of Bethel, under Jeroboam II"
+        }
+    ]
+}

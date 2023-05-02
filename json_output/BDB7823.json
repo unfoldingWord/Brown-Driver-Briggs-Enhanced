@@ -1,0 +1,58 @@
+{
+    "head_word": "רוּעַ", 
+    "pos": "verb", 
+    "primary": "raise a shout", 
+    "description": "with clarion or horn", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "raise a shout", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "give a blast", 
+            "description": "with clarion or horn"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "with religious impulse"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

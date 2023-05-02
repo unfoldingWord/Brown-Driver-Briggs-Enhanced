@@ -1,0 +1,38 @@
+{
+    "head_word": "אֵשׁ", 
+    "pos": "noun feminine", 
+    "primary": "fire", 
+    "description": "of supernatural fire, attending theophany", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of supernatural fire, attending theophany"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "fire for cooking, roasting, parching, etc."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "especially of altar-fire"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "figurative of Yahweh's anger"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "in various combinations"
+        }
+    ]
+}

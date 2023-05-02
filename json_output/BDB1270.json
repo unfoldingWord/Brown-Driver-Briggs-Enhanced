@@ -1,0 +1,18 @@
+{
+    "head_word": "בָּצְרָה", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "city of Edom", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of Moab"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head_word": "קוּם", 
+    "pos": "verb", 
+    "primary": "arise, stand", 
+    "description": "figurative = come on the scene of history", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative = come on the scene of history"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(out of inaction)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲבִימֶ֫לֶךְ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "king of Gerar", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Gerar"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "king of Gath"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "son of Gideon"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "priest, son of Abiathar"
+        }
+    ]
+}

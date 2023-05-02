@@ -1,0 +1,33 @@
+{
+    "head_word": "נָצַר", 
+    "pos": "verb", 
+    "primary": "watch, guard, keep", 
+    "description": "dubious", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "dubious"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "dubious"
+        }
+    ]
+}

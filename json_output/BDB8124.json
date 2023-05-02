@@ -1,0 +1,23 @@
+{
+    "head_word": "רָשָׁע", 
+    "pos": "adjective", 
+    "primary": "wicked, criminal", 
+    "description": "usually as substantive, one guilty of crime, deserving punishment", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "usually as substantive, one guilty of crime, deserving punishment"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "guilty of hostility to God or his people, wicked enemies"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "guilty of sin, against either God or man, wicked"
+        }
+    ]
+}

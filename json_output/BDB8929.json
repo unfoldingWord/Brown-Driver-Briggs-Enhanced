@@ -1,0 +1,28 @@
+{
+    "head_word": "שַׁ֫עַר", 
+    "pos": "noun masculine", 
+    "primary": "gate", 
+    "description": "entrance to city", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "entrance to city"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= space inside gate"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of royal castle or palace"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

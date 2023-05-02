@@ -1,0 +1,18 @@
+{
+    "head_word": "חַרְטֹם", 
+    "pos": "noun masculine", 
+    "primary": "engraver, writer", 
+    "description": "only in derived sense of one possessed of occult knowledge, diviner,\n        astrologer, magician", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of Egypt"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of Babylon"
+        }
+    ]
+}

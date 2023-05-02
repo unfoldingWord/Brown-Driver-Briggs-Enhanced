@@ -1,0 +1,18 @@
+{
+    "head_word": "חֲלוֺם", 
+    "pos": "noun masculine", 
+    "primary": "dream", 
+    "description": "ordinary dream of sleep", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "ordinary dream of sleep"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "dreams with prophetic meaning, the lowest grade of prophecy"
+        }
+    ]
+}

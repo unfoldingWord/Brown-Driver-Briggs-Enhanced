@@ -1,0 +1,23 @@
+{
+    "head_word": "שִׁבְעִים", 
+    "pos": "noun plural", 
+    "primary": "seventy", 
+    "description": "often as round number", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "without other number\na. before singular noun year Gen 5:12 +12 t., man Judg 9:2; Num 11:25 + 7 t., shekel Num 7:13 + 11 t.,\n        other n. 5 t."
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "אֶלֶף\n׳\nשׁ = 70,000"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "+ other number\na. + unit + singular noun Judg 8:14 noun omitted 70 + 7 (times) Gen 4:24, compare\n        Ezra 2:40 =\n        Neh 7:43 so 2\n        + 70\n        Num 31:38\n        plural\n        noun + 70 + 7 Ezra\n            8:35\n         5 years + 70 year \n            Gen 12:4."
+        }
+    ]
+}

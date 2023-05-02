@@ -1,0 +1,28 @@
+{
+    "head_word": "עֻזָּא", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "driver of the ark", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "driver of the ark"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in גַּןעֻֿזָּא burial-place of Manasseh and Amon"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Benjamite name"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "head of family of returned exiles"
+        }
+    ]
+}

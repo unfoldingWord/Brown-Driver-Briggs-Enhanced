@@ -1,0 +1,28 @@
+{
+    "head_word": "גּוֺרָל", 
+    "pos": "noun masculine", 
+    "primary": "lot", 
+    "description": "for dividing land, especially that which Joshua cast at Shiloh", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "for dividing land, especially that which Joshua cast at Shiloh"
+        }, 
+        {
+            "number": 2, 
+            "primary": "to determine guilty persons", 
+            "description": "for assigning to service, duty or punishment"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "especially of land assigned by lot"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= recompence, retribution"
+        }
+    ]
+}

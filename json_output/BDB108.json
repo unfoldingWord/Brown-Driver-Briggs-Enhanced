@@ -1,0 +1,28 @@
+{
+    "head_word": "אָדָם", 
+    "pos": "noun masculine", 
+    "primary": "man, mankind", 
+    "description": "human being", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "human being"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": "Adam", 
+            "description": "first man"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "city in Jordan valley"
+        }
+    ]
+}

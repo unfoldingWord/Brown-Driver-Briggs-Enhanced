@@ -1,0 +1,23 @@
+{
+    "head_word": "אֱמֹרִי", 
+    "pos": "proper name, masculine", 
+    "primary": "Amorites", 
+    "description": "called son of Canaan", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "called son of Canaan"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a chief people dispossessed by Hebrews"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "singular"
+        }
+    ]
+}

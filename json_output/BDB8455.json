@@ -1,0 +1,28 @@
+{
+    "head_word": "שַׁבָּתוֺן", 
+    "pos": "noun masculine", 
+    "primary": "sabbath observance, sabbatism", 
+    "description": "of weekly sabbath", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of weekly sabbath"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "day of atonement"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "sabbatical year"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "alone of feast of trumpets"
+        }
+    ]
+}

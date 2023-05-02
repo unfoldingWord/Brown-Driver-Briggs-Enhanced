@@ -1,0 +1,28 @@
+{
+    "head_word": "רִיב", 
+    "pos": "verb", 
+    "primary": "strive, contend", 
+    "description": "involving bodily struggle", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "involving bodily struggle"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "with words"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "usually figurative"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= make complaint"
+        }
+    ]
+}

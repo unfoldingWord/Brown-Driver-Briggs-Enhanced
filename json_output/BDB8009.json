@@ -1,0 +1,28 @@
+{
+    "head_word": "רְעוּאֵל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "Moses' father-in-law", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Moses' father-in-law"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Edomite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Gadite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Benjamite"
+        }
+    ]
+}

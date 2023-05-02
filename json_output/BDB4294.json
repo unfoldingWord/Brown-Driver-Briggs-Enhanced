@@ -1,0 +1,58 @@
+{
+    "head_word": "לֵבָב", 
+    "pos": "noun masculine", 
+    "primary": "inner man, mind, will, heart", 
+    "description": "seldom of\n    things", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in contrast with the outer"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "indefinite the soul,\n        comprehending\n        mind, affections and will, or, in connection with certain verbs, having more specific reference to some one of\n        them"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specific reference to mind (characteristic of לבב)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "specific reference to inclinations, resolutions, determinations of the will\n        \n        (characteristic of ׳\nל)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "specific reference to conscience"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "specific reference to moral character (characteristic of ׳\n        \nל)"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "= the man himself (meaning characteristic of נֶפֶשׁ\n        )"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "specifically as the seat of the appetites (for which usually\n        \n            נֶפֶשׁ\n        )"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "specifically of seat of the emotions and passions (for which\n        usually\n        נפשׁ)"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "seat of courage (for which usually רוּחַ)"
+        }
+    ]
+}

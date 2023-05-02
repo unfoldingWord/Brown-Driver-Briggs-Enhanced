@@ -1,0 +1,33 @@
+{
+    "head_word": "וְ", 
+    "pos": "demonstrative adverb", 
+    "primary": "so, then, and", 
+    "description": "connecting both words (see above), and sentences", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "connecting both words (see above), and sentences"
+        }, 
+        {
+            "number": 2, 
+            "primary": "consecutive", 
+            "description": "The ו consecutive (formerly called the Waw 'conversive')"
+        }, 
+        {
+            "number": 3, 
+            "primary": "that", 
+            "description": "With a voluntative (cohortative or jussive) וְ expresses\n    an intention,\n    that or so that"
+        }, 
+        {
+            "number": 4, 
+            "primary": "so, then", 
+            "description": "It expresses often an informal inference, or consequence, so, then, especially at the\n    beginning of\n    a speech"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "introduces the predicate or apodosis"
+        }
+    ]
+}

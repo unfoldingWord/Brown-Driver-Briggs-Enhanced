@@ -1,0 +1,28 @@
+{
+    "head_word": "מַס", 
+    "pos": "noun masculine", 
+    "primary": "body of forced labourers, task-workers, labour-band or gang", 
+    "description": "also (late) forced service,\n    task-work, serfdom", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "body of task-workers for public service, formed by levy upon the people\n    by Solomon"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of labour-bands, slave-gangs of Israel in Egypt"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in general"
+        }, 
+        {
+            "number": 4, 
+            "primary": "forced service", 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "head_word": "נָצַב", 
+    "pos": null, 
+    "primary": "take one's stand, stand", 
+    "description": "= be stationed (by appointment, or in fulfilment of duty)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= be stationed (by appointment, or in fulfilment of duty)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= appointed over"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as substantive deputy, prefect (as appointed, deputed)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

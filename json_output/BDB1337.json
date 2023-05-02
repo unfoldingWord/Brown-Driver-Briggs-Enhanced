@@ -1,0 +1,38 @@
+{
+    "head_word": "יְבֶרֶכְיָ֫הוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of a Zechariah in Isaiah's time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Zerubbabel"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Levite gruard of the ark"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "father of Meshullam, one of Nehemian's chiefs"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "father of the prophet Zechariah"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "father of Asaph"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Ephraimite chief"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head_word": "אָב", 
+    "pos": "noun masculine", 
+    "primary": "father", 
+    "description": "father of individual", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of individual"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of God as father of his people"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "head of household, family or clan"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of individual"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "originator or patron of a class, profession, or art"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "figurative of producer, generator"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "figurative of benevolence & protection"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "term of respect & honour"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "specifically, ruler, chief"
+        }
+    ]
+}

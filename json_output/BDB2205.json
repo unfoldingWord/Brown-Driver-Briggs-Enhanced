@@ -1,0 +1,28 @@
+{
+    "head_word": "הִנֵּה", 
+    "pos": "particle", 
+    "primary": "lo! behold!", 
+    "description": "pointing to persons or things", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "pointing to persons or things"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "introducing clauses involving predication"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "וְהִנֵּה ֗֗֗  very frequently in historical style, especially (but not exclusively) after verbs\n    of\n    seeing or discovering, making the narrative graphic and vivid, and\n    enabling the reader to enter into the surprise or satisfaction of the speaker or actor concerned"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "like II. הֵן\n     (b), nearly = if (rare)"
+        }
+    ]
+}

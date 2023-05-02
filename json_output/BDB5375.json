@@ -1,0 +1,23 @@
+{
+    "head_word": "נָקַף", 
+    "pos": "verb", 
+    "primary": "go around", 
+    "description": "i.e. run the round (of the year)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "i.e. complete the circuit"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(literally)"
+        }
+    ]
+}

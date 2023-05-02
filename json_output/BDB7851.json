@@ -1,0 +1,23 @@
+{
+    "head_word": "רְחֹבוֺת", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "near Nineveh", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "near Nineveh"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "name of well"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "home of a king of Edom"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עֲטָרוֺת", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "East of Jordan", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "East of Jordan"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "west of Jordan"
+        }
+    ]
+}

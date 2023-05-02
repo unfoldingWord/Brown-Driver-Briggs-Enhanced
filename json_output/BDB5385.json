@@ -1,0 +1,73 @@
+{
+    "head_word": "נָשָׂא", 
+    "pos": "verb", 
+    "primary": "lift, carry, take", 
+    "description": "literally", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "towards", 
+            "description": "literally"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "literally"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 4, 
+            "primary": "of eyelids", 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "=\n            rise up"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "= exalt"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "= desire, long"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 13, 
+            "primary": null, 
+            "description": "apparently\n        cause to bring, have\n            brought"
+        }
+    ]
+}

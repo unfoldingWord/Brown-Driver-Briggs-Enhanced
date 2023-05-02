@@ -1,0 +1,18 @@
+{
+    "head_word": "מְחִיר", 
+    "pos": "noun masculine", 
+    "primary": "price, hire", 
+    "description": "as that which is placed in front of one, \n        presented, offered", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "hire", 
+            "description": null
+        }
+    ]
+}

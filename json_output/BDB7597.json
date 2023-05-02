@@ -1,0 +1,33 @@
+{
+    "head_word": "קֶ֫רֶן", 
+    "pos": "noun feminine", 
+    "primary": "horn", 
+    "description": "of ram", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of ram"
+        }, 
+        {
+            "number": 2, 
+            "primary": "especially as lifted\n        up", 
+            "description": "figurative, of person, symbol of strength"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of altar, horn-like projections at corners"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of lightning-flashes in theophany"
+        }
+    ]
+}

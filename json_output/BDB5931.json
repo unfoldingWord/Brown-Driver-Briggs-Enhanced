@@ -1,0 +1,18 @@
+{
+    "head_word": "עָוַת", 
+    "pos": "verb", 
+    "primary": "be bent, crooked", 
+    "description": "make crooked = falsify", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "make crooked = falsify"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

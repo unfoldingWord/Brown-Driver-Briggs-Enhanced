@@ -1,0 +1,23 @@
+{
+    "head_word": "חָצֵר", 
+    "pos": "noun masculine", 
+    "primary": "enclosure, court", 
+    "description": "of tabernacle", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "in one great enclosure", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of tabernacle"
+        }
+    ]
+}

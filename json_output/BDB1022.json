@@ -1,0 +1,23 @@
+{
+    "head_word": "מִבְטָח", 
+    "pos": "noun [masculine]", 
+    "primary": "confidence", 
+    "description": "the act of confiding", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "the act of confiding"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "the object of confidence"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "the state of confidence"
+        }
+    ]
+}

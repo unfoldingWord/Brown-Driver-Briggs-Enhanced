@@ -1,0 +1,18 @@
+{
+    "head_word": "חָרֵב", 
+    "pos": "verb", 
+    "primary": "be dry, dried up", 
+    "description": "of ground", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of ground"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of waters"
+        }
+    ]
+}

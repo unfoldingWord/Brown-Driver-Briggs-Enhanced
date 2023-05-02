@@ -1,0 +1,38 @@
+{
+    "head_word": "לָשׁוֺן", 
+    "pos": "noun masculine", 
+    "primary": "tongue", 
+    "description": "of men", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of men"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= language"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of animals"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of fire, devouring"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= (tongue-shaped) wedge"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= (tongue-shaped) bay"
+        }
+    ]
+}

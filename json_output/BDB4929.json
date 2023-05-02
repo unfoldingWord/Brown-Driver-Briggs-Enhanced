@@ -1,0 +1,38 @@
+{
+    "head_word": "נָבָא", 
+    "pos": "verb", 
+    "primary": "prophesy", 
+    "description": "(in oldest forms, of religious ecstasy with or without song and music; later,\n    essentially religious instruction, with occasional predictions)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "under influence of divine spirit"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of false prophets"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "compare heathen prophets"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "under influence of divine spirit"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of heathen prophets of Baal in ecstatic state"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of false prophets"
+        }
+    ]
+}

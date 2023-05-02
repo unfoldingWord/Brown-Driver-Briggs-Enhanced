@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׂעֹרָה", 
+    "pos": "noun feminine", 
+    "primary": "barley", 
+    "description": "bearded grain", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "growing, standing"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "plural, the grains, measured, cooked, etc."
+        }
+    ]
+}

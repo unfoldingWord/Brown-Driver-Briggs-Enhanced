@@ -1,0 +1,48 @@
+{
+    "head_word": "נָגַע", 
+    "pos": "verb", 
+    "primary": "touch, reach, strike", 
+    "description": "of ׳\n            \nי\ntouching earth, mountains, etc.", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of ׳\n            \nי\ntouching earth, mountains, etc."
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "nearly = strike, passive stricken"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= harm"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "of time"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "of fate or lot, ="
+        }
+    ]
+}

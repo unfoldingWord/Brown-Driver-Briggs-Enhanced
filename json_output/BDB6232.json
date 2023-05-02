@@ -1,0 +1,18 @@
+{
+    "head_word": "עֲנַנְיָה", 
+    "pos": "proper name", 
+    "primary": null, 
+    "description": "person", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "person"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "location"
+        }
+    ]
+}

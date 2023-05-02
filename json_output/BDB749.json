@@ -1,0 +1,28 @@
+{
+    "head_word": "אֹ֫רַח", 
+    "pos": "noun masculine", 
+    "primary": "way, path", 
+    "description": "literal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative\n    path, way, of course & fortunes of life"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative\n    way, of mode of living, or of character"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "by metonym traveler, wayfarer"
+        }
+    ]
+}

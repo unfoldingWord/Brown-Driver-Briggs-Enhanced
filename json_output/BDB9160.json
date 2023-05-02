@@ -1,0 +1,18 @@
+{
+    "head_word": "תָּלָה", 
+    "pos": "verb", 
+    "primary": "hang", 
+    "description": "any object", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "any object"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "specifically put to death by hanging"
+        }
+    ]
+}

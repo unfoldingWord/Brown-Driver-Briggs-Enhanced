@@ -1,0 +1,28 @@
+{
+    "head_word": "טוּב", 
+    "pos": "noun masculine", 
+    "primary": "good things, goods, goodness", 
+    "description": "abstract", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "abstract"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "abstract, goodness of God"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "יִגְאָל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "one of the spies", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "one of the spies"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "one of David's heroes"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "descendant of Zerubbabel"
+        }
+    ]
+}

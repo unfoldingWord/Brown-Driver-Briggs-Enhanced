@@ -1,0 +1,18 @@
+{
+    "head_word": "יַעְבֵּץ", 
+    "pos": "proper name", 
+    "primary": "Jabez", 
+    "description": "a man of the Calebites", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Jabez", 
+            "description": "a man of the Calebites"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in Judah, apparently near Bethlehem"
+        }
+    ]
+}

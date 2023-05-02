@@ -1,0 +1,23 @@
+{
+    "head_word": "מַת", 
+    "pos": "noun masculine", 
+    "primary": "male, man", 
+    "description": "usually less emphasis on sex, in prose only phrase", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "usually less emphasis on sex, in prose only phrase"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "elsewhere only in poetry, sex usually not emphasized"
+        }
+    ]
+}

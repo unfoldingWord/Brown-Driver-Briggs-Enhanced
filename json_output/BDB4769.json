@@ -1,0 +1,28 @@
+{
+    "head_word": "מְעִיל", 
+    "pos": "noun masculine", 
+    "primary": "robe", 
+    "description": "exterior garment, robe, worn over the inner tunic ׃ כְּתֹנֶת", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "worn by men of rank"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "worn by the daughters of David"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "robe of high priest"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "figurative of attributes (of ׳\nי, and of men)"
+        }
+    ]
+}

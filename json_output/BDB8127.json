@@ -1,0 +1,23 @@
+{
+    "head_word": "רִשְׁעָה", 
+    "pos": "noun feminine", 
+    "primary": "wickedness", 
+    "description": "in civil relations", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in civil relations"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of enemies"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ethical and religious"
+        }
+    ]
+}

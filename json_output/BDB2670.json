@@ -1,0 +1,33 @@
+{
+    "head_word": "יַחֲזִיאֵל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "Benjamite warrior of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Benjamite warrior of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "priest of David"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a Levite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "a Levite of the sons of Asaph"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "ancestor of one of the families of the restoration"
+        }
+    ]
+}

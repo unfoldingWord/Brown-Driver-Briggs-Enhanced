@@ -1,0 +1,48 @@
+{
+    "head_word": "שָׁמַע", 
+    "pos": "verb", 
+    "primary": "hear", 
+    "description": "subject human person (or thing personified)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "subject human person (or thing personified)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "׳\nי (God) subject"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of voice, sound, etc."
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= (favourable) \n            hearing was granted to their voice"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "of man"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "׳\nי subject"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "סִיג", 
+    "pos": "noun [masculine]", 
+    "primary": "a moving back or away", 
+    "description": "(what is removed from metal)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "a moving back or away", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "dross", 
+            "description": "(what is removed from metal)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "usually of silver"
+        }
+    ]
+}

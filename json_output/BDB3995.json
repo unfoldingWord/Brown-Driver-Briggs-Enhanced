@@ -1,0 +1,33 @@
+{
+    "head_word": "כִּי", 
+    "pos": "conjunction", 
+    "primary": "that, for, when", 
+    "description": "prefixed to\n                sentences depending on an active verb, and occupying to it the place of an accusative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Rare otherwise", 
+            "description": "prefixed to\n                sentences depending on an active verb, and occupying to it the place of an accusative"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Of time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "each particle retaining its independent force, and relating to a different\n    \n    clause"
+        }, 
+        {
+            "number": 5, 
+            "primary": "except", 
+            "description": "the two particles being closely conjoined, and relating to the\n    same\n     clause"
+        }
+    ]
+}

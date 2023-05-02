@@ -1,0 +1,28 @@
+{
+    "head_word": "רֶ֫סֶן", 
+    "pos": "noun masculine", 
+    "primary": "halter", 
+    "description": "restraining mouth of horse or ass", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "halter", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "jaw (?)", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "restraining mouth of horse or ass"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "the double of his jaw, his double jaws (of crocodile)"
+        }
+    ]
+}

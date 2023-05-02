@@ -1,0 +1,28 @@
+{
+    "head_word": "מִסְפֵּד", 
+    "pos": "noun masculine", 
+    "primary": "wailing", 
+    "description": "for dead", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "for dead"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "for calamity experienced"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in contrition"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in general"
+        }
+    ]
+}

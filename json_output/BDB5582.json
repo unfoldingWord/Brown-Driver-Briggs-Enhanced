@@ -1,0 +1,23 @@
+{
+    "head_word": "סֻכָּה", 
+    "pos": "noun feminine", 
+    "primary": "thicket, booth", 
+    "description": "properly of inter-woven boughs", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "rude or temporary shelter"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specifically of booths, made of boughs, in which people lived at\n    harvest-feast"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "זַכּוּר", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "a Reubenite", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a Reubenite"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "a Simeonite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "companion of Ezra"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "contemporary of Nehemiah"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עִם", 
+    "pos": "preposition", 
+    "primary": "with", 
+    "description": "of time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of time"
+        }
+    ]
+}

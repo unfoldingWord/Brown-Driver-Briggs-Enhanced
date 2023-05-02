@@ -1,0 +1,33 @@
+{
+    "head_word": "יָשַׁע", 
+    "pos": "verb", 
+    "primary": "deliver", 
+    "description": "intransitive and passive", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "properly placed in freedom"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in battle, victorious"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "(properly give width and breadth to, liberate\n        )"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "save from moral troubles"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "give victory to"
+        }
+    ]
+}

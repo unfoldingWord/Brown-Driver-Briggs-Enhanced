@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵפוֺד", 
+    "pos": "noun masculine", 
+    "primary": "ephod", 
+    "description": "ephod used in consulting\n    ׳\nי", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "consultation of", 
+            "description": "ephod used in consulting\n    ׳\nי"
+        }, 
+        {
+            "number": 3, 
+            "primary": "in view of distinction from", 
+            "description": "ephod of gold made by Gideon"
+        }
+    ]
+}

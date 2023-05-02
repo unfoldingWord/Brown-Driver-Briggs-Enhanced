@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּרוֺשׁ", 
+    "pos": "noun masculine", 
+    "primary": "cypress or fir", 
+    "description": "(literal) a noble tree", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(literal) a noble tree"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "simile"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as material (always plural)"
+        }
+    ]
+}

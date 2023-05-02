@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲפֵק", 
+    "pos": "proper name [of a location]", 
+    "primary": "Aphek", 
+    "description": "city near Jezreel", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "city near Jezreel"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "city in tribe of Asher"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "city northeast of Beirût"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "place near Mizpah"
+        }
+    ]
+}

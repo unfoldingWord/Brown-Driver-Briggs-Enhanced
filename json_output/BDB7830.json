@@ -1,0 +1,28 @@
+{
+    "head_word": "מְרוּצָה", 
+    "pos": "noun", 
+    "primary": "running", 
+    "description": "(of life)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "running", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "course", 
+            "description": "(of life)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(of life)"
+        }
+    ]
+}

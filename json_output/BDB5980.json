@@ -1,0 +1,28 @@
+{
+    "head_word": "עַזְרִיקָם", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "descendant of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "descendant of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "prince in Judah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Benjamite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Levite"
+        }
+    ]
+}

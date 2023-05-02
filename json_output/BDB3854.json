@@ -1,0 +1,33 @@
+{
+    "head_word": "יֶ֫תֶר", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of Moses' wife", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of Moses' wife"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "eldest son of Gideon"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "father of Amasa"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "men of Judah"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a man of Asher"
+        }
+    ]
+}

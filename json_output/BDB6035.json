@@ -1,0 +1,23 @@
+{
+    "head_word": "עִיר", 
+    "pos": "noun feminine", 
+    "primary": "city, town", 
+    "description": "abode of men", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "abode of men"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of fortress in a city especially עִיר דָּוִד"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "apparently fortified place, of any size"
+        }
+    ]
+}

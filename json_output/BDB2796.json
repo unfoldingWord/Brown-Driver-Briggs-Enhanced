@@ -1,0 +1,33 @@
+{
+    "head_word": "חָלַף", 
+    "pos": "verb", 
+    "primary": "pass on or away, pass through", 
+    "description": "(mostly in poetry)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(vanish)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of grass, come on anew, i. e. sprout again (compare\n        Hiph`il\n2)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "i.e. pierce"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "change (transitive) garments"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of tree, putting forth fresh shoots"
+        }
+    ]
+}

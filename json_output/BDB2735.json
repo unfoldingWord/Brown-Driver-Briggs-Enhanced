@@ -1,0 +1,38 @@
+{
+    "head_word": "חָכָם", 
+    "pos": "adjective", 
+    "primary": "wise", 
+    "description": "skillful in technical work", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "skillful in technical work"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "wise in the administration of affairs"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "plural class of learned and shrewd men, including\n    astrologers, magicians and the like"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "ethically and religiously"
+        }
+    ]
+}

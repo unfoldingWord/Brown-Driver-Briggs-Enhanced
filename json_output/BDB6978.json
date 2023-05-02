@@ -1,0 +1,33 @@
+{
+    "head_word": "צָוָה", 
+    "pos": "verb", 
+    "primary": "lay charge (upon), give charge (to), charge, command, order", 
+    "description": "give one charge, command (often עַל\nconcerning)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "give one charge, command (often עַל\nconcerning)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "charge, with command to others, commission"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of divine act"
+        }
+    ]
+}

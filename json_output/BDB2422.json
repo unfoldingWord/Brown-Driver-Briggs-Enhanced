@@ -1,0 +1,38 @@
+{
+    "head_word": "זָעַק", 
+    "pos": "verb", 
+    "primary": "cry, cry out, call", 
+    "description": "call, to one's aid", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "call, to one's aid"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "cry, cry out, in need"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

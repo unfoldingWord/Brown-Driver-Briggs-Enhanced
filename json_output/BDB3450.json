@@ -1,0 +1,28 @@
+{
+    "head_word": "תּוֺדָה", 
+    "pos": "noun feminine", 
+    "primary": "thanksgiving", 
+    "description": "give praise to\n׳\nי", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "give praise to\n׳\nי"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "thanksgiving in songs of liturgical worship"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "thanksgiving choir, procession, line, company"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "thank-offering"
+        }
+    ]
+}

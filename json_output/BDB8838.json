@@ -1,0 +1,33 @@
+{
+    "head_word": "יִשְׁמָעֵאל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of Abraham and Hagar", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Abraham and Hagar"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "murderer of Gedaliah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in Benjamin"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in Judah"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "Jew with foreign wife"
+        }
+    ]
+}

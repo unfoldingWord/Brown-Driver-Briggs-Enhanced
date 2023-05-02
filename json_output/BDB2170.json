@@ -1,0 +1,48 @@
+{
+    "head_word": "הָלַל", 
+    "pos": "verb", 
+    "primary": "be boastful", 
+    "description": "usually praise אֱלֹהִים, ׳\nי etc.", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "usually praise אֱלֹהִים, ׳\nי etc."
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "apparently boast, make one's boast compare\n        Qal\n2"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "human subject be praised, commended"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of ׳\nי only participle = gerundive"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "of self-confident boasting"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "of glorying, making one's boast in (בְּ, on the ground of)\n        ׳\nי"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "once, late = passive be praised, commended, of\n        God-fearing woman"
+        }
+    ]
+}

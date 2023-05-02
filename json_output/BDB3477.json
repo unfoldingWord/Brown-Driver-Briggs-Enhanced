@@ -1,0 +1,43 @@
+{
+    "head_word": "יְהוּדָה", 
+    "pos": "proper name, masculine [also of a territory]", 
+    "primary": "Judah", 
+    "description": "son of Jacob and Leah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Jacob and Leah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "tribe descended from Judah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "nation, of southern kingdom under dynasty of David, as distinguished from northern kingdom of\n        Ephraim or Israel"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Levite, Ezra's time"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "an over-seer of Jerusalem"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Levite musician"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "priest"
+        }
+    ]
+}

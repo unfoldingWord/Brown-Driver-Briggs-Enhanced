@@ -1,0 +1,38 @@
+{
+    "head_word": "נָדַח", 
+    "pos": "verb", 
+    "primary": "impel, thrust, banish", 
+    "description": "(i.e. wield)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "(i.e. wield)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(from herd, i.e.) straying"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

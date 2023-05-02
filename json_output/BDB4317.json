@@ -1,0 +1,23 @@
+{
+    "head_word": "לְבֵנָה", 
+    "pos": "noun feminine", 
+    "primary": "brick, tile", 
+    "description": "= tile", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "brick", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= tile"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= pavement"
+        }
+    ]
+}

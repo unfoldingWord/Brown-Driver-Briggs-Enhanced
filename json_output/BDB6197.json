@@ -1,0 +1,28 @@
+{
+    "head_word": "עֵת", 
+    "pos": "noun feminine", 
+    "primary": "time", 
+    "description": "time of an event, etc.", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "time of an event, etc."
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= usual time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= experiences, fortunes"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "occurrence, occasions (= פַּעַם)"
+        }
+    ]
+}

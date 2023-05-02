@@ -1,0 +1,33 @@
+{
+    "head_word": "מָשִׁיחַ", 
+    "pos": "noun masculine", 
+    "primary": "anointed", 
+    "description": "king of Israel anointed by divine command", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "king of Israel anointed by divine command"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "high priest of Israel"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Cyrus as commissioned by ׳"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Messianic prince"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "patriarchs, regarded as anointed kings"
+        }
+    ]
+}

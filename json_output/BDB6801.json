@@ -1,0 +1,28 @@
+{
+    "head_word": "פָּרַע", 
+    "pos": "verb", 
+    "primary": "let go, let alone", 
+    "description": "people, i.e. remove restraint from them", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "people, i.e. remove restraint from them"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= avoid"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "בֵּית שֶׁ֫מֶשׁ", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "city in southwest Judah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "city in southwest Judah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "city in Naphtali"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "city in Issachar"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "On-Heliopolis, in Egypt"
+        }
+    ]
+}

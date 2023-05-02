@@ -1,0 +1,18 @@
+{
+    "head_word": "פִּשְׁתָּה", 
+    "pos": "noun feminine", 
+    "primary": "flax", 
+    "description": "growing", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "growing"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= wick"
+        }
+    ]
+}

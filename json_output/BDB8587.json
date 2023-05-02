@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁחַט", 
+    "pos": "verb", 
+    "primary": "slaughter, beat", 
+    "description": "beast", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "beast"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "usually"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "person"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "passive participle = beaten, hammered"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁלָל", 
+    "pos": "noun masculine", 
+    "primary": "prey, spoil, plunder, booty", 
+    "description": "private plunder", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "private plunder"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "= gain"
+        }
+    ]
+}

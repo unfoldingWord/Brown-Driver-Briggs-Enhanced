@@ -1,0 +1,38 @@
+{
+    "head_word": "גִּלְעָד", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "of mountain-range or hill-country, land & city, east of Jordan", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "territory south of Jabbok"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Northern Gilead"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "more generally, of all Gilead"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "name of a city"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of Israelites living east of Jordan (as a whole)"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "treated as proper name, masculine"
+        }
+    ]
+}

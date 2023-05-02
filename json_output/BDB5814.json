@@ -1,0 +1,43 @@
+{
+    "head_word": "עֲדָיָ֫ה(וּׅ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of a Judaean captain", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of a Judaean captain"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "grandfather of Josiah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a Levite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Benjamite"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a priest"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "two with foreign wives"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "a Judahite"
+        }
+    ]
+}

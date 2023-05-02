@@ -1,0 +1,18 @@
+{
+    "head_word": "זמר", 
+    "pos": "verb", 
+    "primary": "make music", 
+    "description": "in praise of God (׳\nי), only in poetry", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of singing to (ל) God (Yahweh)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of playing musical instruments"
+        }
+    ]
+}

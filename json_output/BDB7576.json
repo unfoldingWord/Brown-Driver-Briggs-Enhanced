@@ -1,0 +1,28 @@
+{
+    "head_word": "קִרְיָה", 
+    "pos": "noun feminine", 
+    "primary": "town, city", 
+    "description": "in general", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in general"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of specific towns"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in Isa 24-26 collective, i.e. denoting various, representative, cities"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "indefinite"
+        }
+    ]
+}

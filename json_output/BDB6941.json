@@ -1,0 +1,38 @@
+{
+    "head_word": "צֶ֫דֶק", 
+    "pos": "noun masculine", 
+    "primary": "rightness, righteousness", 
+    "description": "in government", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in government"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in a case or cause"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in speech"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "as ethically right"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "righteousness as vindicated, justification in controversy with enemies and\n    troubles"
+        }
+    ]
+}

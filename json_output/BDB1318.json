@@ -1,0 +1,23 @@
+{
+    "head_word": "בַּרְזֶל", 
+    "pos": "noun masculine", 
+    "primary": "iron", 
+    "description": "literal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literal"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in figure"
+        }
+    ]
+}

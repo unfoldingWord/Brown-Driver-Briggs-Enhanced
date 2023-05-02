@@ -1,0 +1,23 @@
+{
+    "head_word": "כֶּ֫בֶשׂ", 
+    "pos": "noun masculine", 
+    "primary": "lamb", 
+    "description": "as grazing", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "as grazing"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as furnishing wool for clothing"
+        }
+    ]
+}

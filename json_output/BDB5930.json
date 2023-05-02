@@ -1,0 +1,28 @@
+{
+    "head_word": "יְעוּשׁ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of Esau", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Esau"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Benjamites"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a Levite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "son of Rehoboam"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "סוּג", 
+    "pos": "verb", 
+    "primary": "move away, backslide", 
+    "description": "= prove faithless (as\n            Qal)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= prove faithless (as\n            Qal)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "usually of displacing, moving back a boundary mark"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

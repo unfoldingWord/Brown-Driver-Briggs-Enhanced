@@ -1,0 +1,18 @@
+{
+    "head_word": "אָז", 
+    "pos": "adverb", 
+    "primary": "at that time, then", 
+    "description": "at that time, then, whether expressing duration, or inception (= thereupon)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "strictly temporal"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "expressing logical sequence strictly in the apodosis"
+        }
+    ]
+}

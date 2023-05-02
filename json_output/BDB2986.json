@@ -1,0 +1,23 @@
+{
+    "head_word": "חָסֵר", 
+    "pos": "verb", 
+    "primary": "lack, need, be lacking, decrease", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "lack", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

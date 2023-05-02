@@ -1,0 +1,58 @@
+{
+    "head_word": "שְׁמַעְיָ֫ה(וּׅ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "prophet, Rehoboam's time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "prophet, Rehoboam's time"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Jeremiah's time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a prophet's father"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "descendant of Zerubbabel"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "in Simeon"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "in Reuben"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "companions of Ezra"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "priests:"
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": "a prince"
+        }
+    ]
+}

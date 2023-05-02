@@ -1,0 +1,43 @@
+{
+    "head_word": "הֵ֫מָּה", 
+    "pos": "pronoun 3 plural masculine", 
+    "primary": "they", 
+    "description": "In usage not different in genl. from \n        הוּא, הִיא (which see, under the corresponding headings, for fuller explanations),\n    thus", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": "In a neuter sense", 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "With article"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "With prepositions"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁבוּעַ", 
+    "pos": "noun masculine", 
+    "primary": "period of seven", 
+    "description": "period of seven (days, years)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "period of seven days (from a given time)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "heptad or seven of years"
+        }
+    ]
+}

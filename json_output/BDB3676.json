@@ -1,0 +1,28 @@
+{
+    "head_word": "יֵ֫צָר", 
+    "pos": "noun masculine", 
+    "primary": "form, framing, purpose", 
+    "description": "form of a graven image", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "form of a graven image"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "form of man as made of the dust"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of what is framed in the mind (compare יָצַר\n1.c, 2.b)"
+        }
+    ]
+}

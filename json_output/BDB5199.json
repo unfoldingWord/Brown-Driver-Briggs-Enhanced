@@ -1,0 +1,18 @@
+{
+    "head_word": "נֹ֫כַח", 
+    "pos": "preposition", 
+    "primary": "front", 
+    "description": "always in preposition or adverb phrases", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "as adverb accusative"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "combined with prepositions"
+        }
+    ]
+}

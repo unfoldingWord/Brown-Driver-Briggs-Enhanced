@@ -1,0 +1,23 @@
+{
+    "head_word": "נֵכָר", 
+    "pos": "noun [masculine]", 
+    "primary": "that which is foreign, foreignness", 
+    "description": "(of another family, tribe, or nation)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "אֱלֹהֵי\n(הַ)נֵּכָר = foreign gods"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "בֶּןֿ(הַ)נֵּכָר = foreigner"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "other combinations"
+        }
+    ]
+}

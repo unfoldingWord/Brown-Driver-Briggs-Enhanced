@@ -1,0 +1,23 @@
+{
+    "head_word": "פְּתַחְיָה", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "priest", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "priest"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Levite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Judahite"
+        }
+    ]
+}

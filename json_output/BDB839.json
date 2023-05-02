@@ -1,0 +1,23 @@
+{
+    "head_word": "אָשֵׁר", 
+    "pos": "proper name, masculine", 
+    "primary": "Asher", 
+    "description": "son of Jacob and Zilpah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of Jacob and Zilpah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "the tribe"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "city east of Shechem"
+        }
+    ]
+}

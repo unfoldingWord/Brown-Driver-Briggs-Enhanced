@@ -1,0 +1,38 @@
+{
+    "head_word": "חֲמִשִּׁים", 
+    "pos": "noun plural", 
+    "primary": "fifty", 
+    "description": "absolute", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "absolute"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "without other number"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "before other numbers"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "after other number"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "preceded by construct"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "= ordinal"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "יָד", 
+    "pos": "noun feminine", 
+    "primary": "hand", 
+    "description": "figurative = strength, power", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "figurative = strength, power"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative= side"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in various special, technical senses"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with prepositions"
+        }
+    ]
+}

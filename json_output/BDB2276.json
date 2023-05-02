@@ -1,0 +1,43 @@
+{
+    "head_word": "זְבַדְיָהוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "Levites", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "an officer of Jehoshaphat"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Benjamites"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "one of David's men"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "an officer of David"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "a returning exile"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "one of priestly house"
+        }
+    ]
+}

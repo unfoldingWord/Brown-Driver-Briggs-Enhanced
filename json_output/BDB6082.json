@@ -1,0 +1,33 @@
+{
+    "head_word": "מַעֲלָה", 
+    "pos": "noun feminine", 
+    "primary": "step, stair", 
+    "description": "of temple", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of temple"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "of heaven"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(ל)הַמַּעֲלוֺת\nשִׁיר song of ascents, to the three great pilgrim feasts, i.e. to be sung on way up to\n    Jerusalem"
+        }
+    ]
+}

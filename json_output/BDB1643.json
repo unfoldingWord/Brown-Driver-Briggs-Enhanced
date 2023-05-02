@@ -1,0 +1,28 @@
+{
+    "head_word": "גָּלַח", 
+    "pos": "verb", 
+    "primary": "be bald", 
+    "description": "figurative", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "figurative"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "intransitive he shaved (himself)"
+        }
+    ]
+}

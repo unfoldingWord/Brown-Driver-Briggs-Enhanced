@@ -1,0 +1,28 @@
+{
+    "head_word": "תֵּ֫שַׁע", 
+    "pos": "noun masculine and feminine", 
+    "primary": "a nine, nonad", 
+    "description": "no other number", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "no other number"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "9 + 10 = 19"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "900 = תְשַׁע מֵאוֺת"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "with tens (20, 30, etc.)"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "אָדוֺן", 
+    "pos": "noun masculine", 
+    "primary": "lord", 
+    "description": "elsewhere intensive plural of rank, lord, master", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "elsewhere intensive plural of rank, lord, master"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Moses"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "מִיכָה", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "Micha, the Ephraimite", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Micha, the Ephraimite"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "the prophet Micah"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "son of Meribbaal (Mephibosheth)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "עֻזִּיאֵל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "Levites", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Simeonite"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "Benjamite"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "repairer of wall"
+        }
+    ]
+}

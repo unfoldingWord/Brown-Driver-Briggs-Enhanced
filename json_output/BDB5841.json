@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵ֫דֶר", 
+    "pos": "noun masculine", 
+    "primary": "flock, herd", 
+    "description": "of sheep", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of sheep"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "including sheep, cattle, etc."
+        }
+    ]
+}

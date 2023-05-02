@@ -1,0 +1,28 @@
+{
+    "head_word": "קָהַל", 
+    "pos": "verb", 
+    "primary": "assemble as a קָהָל", 
+    "description": "for conflict or war", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "for conflict or war"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "for religious purposes"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "for judgment"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "for religious purposes"
+        }
+    ]
+}

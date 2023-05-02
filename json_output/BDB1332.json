@@ -1,0 +1,38 @@
+{
+    "head_word": "בְּרָכָה", 
+    "pos": "noun feminine", 
+    "primary": "blessing", 
+    "description": "source of blessing", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "source of blessing"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "blessing, praise of God"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a gift, present"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "treaty of peace"
+        }
+    ]
+}

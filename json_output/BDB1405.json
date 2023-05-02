@@ -1,0 +1,33 @@
+{
+    "head_word": "גָּאַל", 
+    "pos": "verb", 
+    "primary": "redeem, act as kinsman", 
+    "description": "act as kinsman, do the part of next of kin", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "act as kinsman, do the part of next of kin"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "by payment of value assessed, of consecrated things, by the original owner"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with God as subject implying personal relationship, chiefly in poetry"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "reflexive"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "passive"
+        }
+    ]
+}

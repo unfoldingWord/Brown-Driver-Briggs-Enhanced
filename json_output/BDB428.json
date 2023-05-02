@@ -1,0 +1,33 @@
+{
+    "head_word": "אֵל", 
+    "pos": "noun masculine", 
+    "primary": "god", 
+    "description": "with various subordinate applications to express idea of might", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "applied to men of might and rank"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "angels"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "gods of the nations"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "as characterizing mighty things in nature"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "אֶצְבַּע", 
+    "pos": "noun feminine", 
+    "primary": "finger", 
+    "description": null, 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "finger", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "toe", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

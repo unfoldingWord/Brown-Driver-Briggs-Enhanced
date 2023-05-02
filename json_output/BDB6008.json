@@ -1,0 +1,23 @@
+{
+    "head_word": "עֵיטָם", 
+    "pos": "proper name [of a location]", 
+    "primary": null, 
+    "description": "a cliff", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "a cliff"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "city fortified by Rehoboam"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in Simeon"
+        }
+    ]
+}

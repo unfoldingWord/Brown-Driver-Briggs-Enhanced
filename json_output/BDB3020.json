@@ -1,0 +1,33 @@
+{
+    "head_word": "חָפַשׂ", 
+    "pos": "verb", 
+    "primary": "search", 
+    "description": "= think out, devise", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= think out, devise"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= test"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

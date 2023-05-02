@@ -1,0 +1,33 @@
+{
+    "head_word": "עֹז", 
+    "pos": "noun masculine", 
+    "primary": "strength, might", 
+    "description": "material and physical", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "material and physical"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "personal, social, and political"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "might of ׳\nי (especially Psalms)"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "עֹז פָּנָיו = boldness, impudence"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "= stronghold (compare 2.c.)"
+        }
+    ]
+}

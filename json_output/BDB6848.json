@@ -1,0 +1,33 @@
+{
+    "head_word": "פָּשַׁט", 
+    "pos": "verb", 
+    "primary": "strip off, make a dash, raid", 
+    "description": "one's garment", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "one's garment"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "put off (one's shelter), i.e. make a dash (from a sheltered place)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "strip one of garment"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

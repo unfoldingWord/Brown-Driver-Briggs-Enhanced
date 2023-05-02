@@ -1,0 +1,18 @@
+{
+    "head_word": "תַּאֲוָה", 
+    "pos": "noun feminine", 
+    "primary": "desire", 
+    "description": "bad sense, lust, appetite, covetousness", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "bad sense, lust, appetite, covetousness"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "thing desired"
+        }
+    ]
+}

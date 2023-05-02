@@ -1,0 +1,18 @@
+{
+    "head_word": "שֵׂעָר", 
+    "pos": "noun masculine", 
+    "primary": "hair", 
+    "description": "of animals", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of animals"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "human"
+        }
+    ]
+}

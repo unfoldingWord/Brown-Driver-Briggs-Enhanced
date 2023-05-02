@@ -1,0 +1,18 @@
+{
+    "head_word": "הֲ", 
+    "pos": "particle", 
+    "primary": "particle\ninterrogative", 
+    "description": "in direct questions", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in direct questions"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "In indirect interrogation, whether"
+        }
+    ]
+}

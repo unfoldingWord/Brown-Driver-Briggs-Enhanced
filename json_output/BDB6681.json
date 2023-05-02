@@ -1,0 +1,28 @@
+{
+    "head_word": "פְּנִ֫ימָה", 
+    "pos": "adverb", 
+    "primary": "towards the (in-)side", 
+    "description": "(literally faceward, from point of view of one entering by opposite\n    door)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "towards the (in-)side", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "within", 
+            "description": "(literally faceward, from point of view of one entering by opposite\n    door)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "after verb of motion"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

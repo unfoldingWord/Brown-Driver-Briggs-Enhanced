@@ -1,0 +1,38 @@
+{
+    "head_word": "קָרֵב", 
+    "pos": "verb", 
+    "primary": "come near, approach", 
+    "description": "of time", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in space"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in time"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of time"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "as technical term"
+        }
+    ]
+}

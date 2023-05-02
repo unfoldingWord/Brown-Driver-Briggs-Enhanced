@@ -1,0 +1,68 @@
+{
+    "head_word": "שָׁלַח", 
+    "pos": "verb", 
+    "primary": "send", 
+    "description": "human subject", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "human subject"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "subject ׳\nי (God)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "perhaps extend, direct"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "rarely send away (see\n        Pi`el)"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(see\n        Pi`el)"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "human subject"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 9, 
+            "primary": "compare of locks", 
+            "description": null
+        }, 
+        {
+            "number": 10, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 11, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 12, 
+            "primary": null, 
+            "description": "phrases"
+        }
+    ]
+}

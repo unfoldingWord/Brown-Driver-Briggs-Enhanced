@@ -1,0 +1,23 @@
+{
+    "head_word": "מָהַר", 
+    "pos": "verb", 
+    "primary": "hasten", 
+    "description": "= anxious, disturbed", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= go or come quickly"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "hasten + verb, (׳\nמ having really adverbial force)"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "= prepare quickly"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "טָמֵא", 
+    "pos": "adjective", 
+    "primary": "unclean", 
+    "description": "ethically and religiously", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "ethically and religiously"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "ritually"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specifically of places"
+        }
+    ]
+}

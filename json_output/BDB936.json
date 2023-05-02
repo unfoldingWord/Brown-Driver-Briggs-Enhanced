@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּהֵמָה", 
+    "pos": "noun feminine", 
+    "primary": "beast, animal, cattle", 
+    "description": "beast, & collective beasts", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of living creatures other than man"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "opposed also to wild beasts"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "rarely of wild beasts, especially carnivora"
+        }
+    ]
+}

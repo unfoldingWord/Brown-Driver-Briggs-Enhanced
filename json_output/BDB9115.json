@@ -1,0 +1,33 @@
+{
+    "head_word": "תִּהוֺם", 
+    "pos": "noun feminine", 
+    "primary": "deep, sea, abyss", 
+    "description": "of subterranean waters", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of subterranean waters"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(deep) sea"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

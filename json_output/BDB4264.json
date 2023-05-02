@@ -1,0 +1,43 @@
+{
+    "head_word": "לְ", 
+    "pos": "preposition", 
+    "primary": "to, for, in regard to", 
+    "description": "denoting direction (not properly motion, as אֶל) towards,\n    or reference to; and hence used in many varied applications, in some of which the idea of direction\n     predominates, in others that of reference", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "with verbs of", 
+            "description": "very often, with various classes of verbs, to, towards, for"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Expressing locality"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "To denote the object of a verb"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of a transition into a new state or condition, or into a new character\n    or\n    office"
+        }, 
+        {
+            "number": 5, 
+            "primary": "those which are not", 
+            "description": "defining those in reference to whom a\n        predicate\n        is affirmed, hence often ="
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "Of time"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "With an Infinitive"
+        }
+    ]
+}

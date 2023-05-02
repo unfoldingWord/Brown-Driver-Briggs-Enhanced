@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵט", 
+    "pos": "noun masculine", 
+    "primary": "stylus", 
+    "description": "of iron, for use on stone or metal", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of iron, for use on stone or metal"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "probably = reed-pen"
+        }
+    ]
+}

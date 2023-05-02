@@ -1,0 +1,18 @@
+{
+    "head_word": "כָּבַס", 
+    "pos": "verb", 
+    "primary": "(tread), wash", 
+    "description": "(= treader's, washer's)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "wash garments (i.e. by treading)"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "wash person, only in poetry and\n            figurative"
+        }
+    ]
+}

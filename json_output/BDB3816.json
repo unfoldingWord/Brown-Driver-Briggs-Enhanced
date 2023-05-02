@@ -1,0 +1,33 @@
+{
+    "head_word": "הוֺשֵׁעַ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "original name of Joshua", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "original name of Joshua"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "last king of Israel"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "the prophet Hosea"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "an Ephraimite chief under David"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a chief under Nehemiah"
+        }
+    ]
+}

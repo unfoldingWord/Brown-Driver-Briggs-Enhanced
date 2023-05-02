@@ -1,0 +1,38 @@
+{
+    "head_word": "אַ֫יִן", 
+    "pos": "particle [of negation]", 
+    "primary": "nothing, nought", 
+    "description": "with substantive, or pronoun", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "is not, are not, was not, were not", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "with substantive, or pronoun"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "in circumstantial clauses"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "with infinitive and ׳\nל"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "with prefixes"
+        }
+    ]
+}

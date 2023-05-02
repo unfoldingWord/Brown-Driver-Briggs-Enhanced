@@ -1,0 +1,33 @@
+{
+    "head_word": "טֻמְאָה", 
+    "pos": "noun feminine", 
+    "primary": "uncleanness", 
+    "description": "sexual", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "sexual"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of a foul or filthy mass"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "ethical and religious"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "ritual"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "local"
+        }
+    ]
+}

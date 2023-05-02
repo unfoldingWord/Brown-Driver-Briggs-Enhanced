@@ -1,0 +1,33 @@
+{
+    "head_word": "עָנָה", 
+    "pos": "verb", 
+    "primary": "answer, respond", 
+    "description": "answer, respond to something said, actual or implied", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "answer, respond to something said, actual or implied"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "respond to an occasion, speak in view of circumstances"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "specifically respond as a witness"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "of man = receive answer"
+        }
+    ]
+}

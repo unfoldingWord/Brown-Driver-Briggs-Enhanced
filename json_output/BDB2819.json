@@ -1,0 +1,38 @@
+{
+    "head_word": "חִלְקִיָּהוּ", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "father of Eliakim, Hezekiah's officer", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "father of Eliakim, Hezekiah's officer"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "high priest, Josiah's time"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "father of Jeremiah"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "Levites"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a priest, contemporary of Ezra"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "father of Gemariah, an ambassador of Zedekiah to Nebuchadrezzar"
+        }
+    ]
+}

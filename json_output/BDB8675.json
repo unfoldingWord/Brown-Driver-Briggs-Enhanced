@@ -1,0 +1,38 @@
+{
+    "head_word": "שָׁכַן", 
+    "pos": "verb", 
+    "primary": "settle down, abide, dwell", 
+    "description": "of person", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of person"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of men"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "נְשָׁמָה", 
+    "pos": "noun feminine", 
+    "primary": "breath", 
+    "description": "of God", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "of God"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of man"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "synonym נפשׁ כָּל נְשָׁמָה\nevery breathing thing"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "of man"
+        }
+    ]
+}

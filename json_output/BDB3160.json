@@ -1,0 +1,18 @@
+{
+    "head_word": "חָרִיץ", 
+    "pos": "noun masculine", 
+    "primary": "a cut, thing cut, sharp instrument", 
+    "description": "i.e. cheeses", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "i.e. cheeses"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "of iron"
+        }
+    ]
+}

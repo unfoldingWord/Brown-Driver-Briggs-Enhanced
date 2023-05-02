@@ -1,0 +1,28 @@
+{
+    "head_word": "דָּנִאֵל", 
+    "pos": "proper name, masculine", 
+    "primary": null, 
+    "description": "son of David", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "son of David"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "priest of the line of Ithamar"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "a great sage"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "one of the noble young men taken into captivity by Nebuchadrezzar"
+        }
+    ]
+}

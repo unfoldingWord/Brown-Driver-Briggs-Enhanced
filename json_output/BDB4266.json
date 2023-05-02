@@ -1,0 +1,28 @@
+{
+    "head_word": "לֹא", 
+    "pos": "adverb", 
+    "primary": "not", 
+    "description": "in predication", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in predication"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "Not in predication"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as a substantive"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "With prefixes"
+        }
+    ]
+}

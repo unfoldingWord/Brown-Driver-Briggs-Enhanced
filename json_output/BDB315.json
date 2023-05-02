@@ -1,0 +1,33 @@
+{
+    "head_word": "אָחוֺת", 
+    "pos": "noun feminine", 
+    "primary": "sister", 
+    "description": "= beloved", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "= beloved"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "symbolic of Judah, Samaria, Sodom & Jerusalem"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "figurative of intimate connection"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }
+    ]
+}

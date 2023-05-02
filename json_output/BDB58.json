@@ -1,0 +1,53 @@
+{
+    "head_word": "אֶ֫בֶן", 
+    "pos": "noun feminine", 
+    "primary": "stone", 
+    "description": "a stone (large or small)", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "stone, as material"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "precious stones"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "stones containing metal, = ore"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "a weight"
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "plummet"
+        }, 
+        {
+            "number": 7, 
+            "primary": null, 
+            "description": "objects like stones"
+        }, 
+        {
+            "number": 8, 
+            "primary": null, 
+            "description": "in simile"
+        }, 
+        {
+            "number": 9, 
+            "primary": null, 
+            "description": "In topographic terms"
+        }
+    ]
+}

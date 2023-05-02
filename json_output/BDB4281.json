@@ -1,0 +1,38 @@
+{
+    "head_word": "מְלָאכָה", 
+    "pos": "noun feminine", 
+    "primary": "occupation, work", 
+    "description": "property in which one is occupied", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "property in which one is occupied"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "as something done or made"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 6, 
+            "primary": null, 
+            "description": "public business:"
+        }
+    ]
+}

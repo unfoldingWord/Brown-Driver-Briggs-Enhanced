@@ -1,0 +1,18 @@
+{
+    "head_word": "חָם", 
+    "pos": "proper name, masculine [person] and [location]", 
+    "primary": "Ham", 
+    "description": "2nd son of Noah", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "Ham", 
+            "description": "2nd son of Noah"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in late Psalms a name (collective) for Egyptians"
+        }
+    ]
+}

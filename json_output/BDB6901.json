@@ -1,0 +1,23 @@
+{
+    "head_word": "צאֹן", 
+    "pos": "collective noun feminine", 
+    "primary": "small cattle, sheep and goats, flock, flocks", 
+    "description": "literally", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "literally"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "simile of multitude"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "metaphor of multitude"
+        }
+    ]
+}

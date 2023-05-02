@@ -1,0 +1,33 @@
+{
+    "head_word": "תָּקַע", 
+    "pos": "verb", 
+    "primary": "thrust, clap, give a blow, blast", 
+    "description": "hands", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "hands"
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "(a blast shall be given) on a horn"
+        }, 
+        {
+            "number": 5, 
+            "primary": null, 
+            "description": "(i.e. pledge himself)"
+        }
+    ]
+}

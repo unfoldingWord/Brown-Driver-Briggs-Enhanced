@@ -1,0 +1,18 @@
+{
+    "head_word": "עָפְרָה", 
+    "pos": "proper name", 
+    "primary": "perhaps modern", 
+    "description": "location", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "perhaps modern", 
+            "description": "location"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "person"
+        }
+    ]
+}

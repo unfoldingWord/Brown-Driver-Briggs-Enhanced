@@ -1,0 +1,18 @@
+{
+    "head_word": "אֱלָהּ", 
+    "pos": "noun masculine", 
+    "primary": "god, God", 
+    "description": "in general", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "in general"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "(of Israel)"
+        }
+    ]
+}

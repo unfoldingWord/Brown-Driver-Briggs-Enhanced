@@ -1,0 +1,18 @@
+{
+    "head_word": "נִמְרֹד", 
+    "pos": "proper name, masculine", 
+    "primary": "Nimrod", 
+    "description": "= a god e.g. Marduk", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "= a god e.g. Marduk"
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "name of Babylonian king or prince"
+        }
+    ]
+}

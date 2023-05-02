@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁמוּאֵל", 
+    "pos": "proper name, masculine", 
+    "primary": "Samuel", 
+    "description": "great prophet, 11th cent. B.C.", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": null, 
+            "description": "great prophet, 11th cent. B.C."
+        }, 
+        {
+            "number": 2, 
+            "primary": null, 
+            "description": "in Simeon"
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": "in Issachar"
+        }
+    ]
+}

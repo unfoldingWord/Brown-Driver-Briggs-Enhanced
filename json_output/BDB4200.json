@@ -1,0 +1,28 @@
+{
+    "head_word": "כַּרְמֶל", 
+    "pos": "noun masculine", 
+    "primary": "plantation, garden-land", 
+    "description": "by metonymy", 
+    "senses": [
+        {
+            "number": 1, 
+            "primary": "plantation, garden-land", 
+            "description": null
+        }, 
+        {
+            "number": 2, 
+            "primary": "fruit, garden-growth", 
+            "description": null
+        }, 
+        {
+            "number": 3, 
+            "primary": null, 
+            "description": null
+        }, 
+        {
+            "number": 4, 
+            "primary": null, 
+            "description": "by metonymy"
+        }
+    ]
+}
